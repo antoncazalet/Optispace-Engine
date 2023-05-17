@@ -1,0 +1,14 @@
+diff --git a/node_modules/@types/three/examples/jsm/controls/OrbitControls.d.ts b/node_modules/@types/three/examples/jsm/controls/OrbitControls.d.ts
+index 69cc6d2..cd3acdc 100755
+--- a/node_modules/@types/three/examples/jsm/controls/OrbitControls.d.ts
++++ b/node_modules/@types/three/examples/jsm/controls/OrbitControls.d.ts
+@@ -50,6 +50,9 @@ export class OrbitControls {
+     position0: Vector3;
+     zoomO: number;
+ 
++    zoomIn(): void;
++    zoomOut(): void;
++
+     update(): boolean;
+ 
+     listenToKeyEvents(domElement: HTMLElement | Window): void;

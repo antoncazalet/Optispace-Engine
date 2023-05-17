@@ -1,0 +1,122 @@
+default:
+    image: node:18.3-alpine
+
+stages:
+    - lint
+    - build
+    - release
+
+.lint_template: &lint_template
+    stage: lint
+    cache:
+        key: ${LINT_DIRECTORY}-node-modules
+        paths:
+            - ${LINT_DIRECTORY}/node_modules/
+        policy: push
+    script:
+        - cd $LINT_DIRECTORY
+        - npm i
+        - npm run lint -- --max-warnings 0
+
+lint:engine:
+    <<: *lint_template
+    variables:
+        LINT_DIRECTORY: engine
+
+# TODO: Reuse the lint_template when eslint will be available in the interface 
+lint:interface:
+    stage: lint
+    variables:
+        LINT_DIRECTORY: engine-interface
+    cache:
+        key: ${LINT_DIRECTORY}-node-modules
+        paths:
+            - ${LINT_DIRECTORY}/node_modules/
+        policy: push
+    script:
+        - cd $LINT_DIRECTORY
+        - npm i
+
+# TODO: Uncomment/Rewrite this job when tests are written
+# test:engine:
+#     stage: test
+#     needs: ["lint"]
+#     cache:
+#         key: engine-node-modules
+#         paths:
+#             - engine/node_modules/
+#         policy: pull
+#     script:
+#         - cd engine
+#         - npm run test
+
+.build_template: &build_template
+    stage: build
+    cache:
+        key: ${BUILD_DIRECTORY}-node-modules
+        paths:
+            - ${BUILD_DIRECTORY}/node_modules/
+        policy: pull
+    script:
+        - cd ${BUILD_DIRECTORY}
+        - npm run build
+
+build:engine:
+    needs: ["lint:engine"]
+    <<: *build_template
+    variables:
+        BUILD_DIRECTORY: engine
+
+build:interface:
+    stage: build
+    needs: ["lint:interface"]
+    variables:
+        LINT_DIRECTORY: engine-interface
+    cache:
+        key: ${LINT_DIRECTORY}-node-modules
+        paths:
+            - ${LINT_DIRECTORY}/node_modules/
+        policy: push
+    before_script:
+        - apk add git
+    script:
+        - npm i
+        - npm run build:dev
+
+
+variables:
+    DOCKER_HOST: tcp://docker:2376
+    DOCKER_TLS_CERTDIR: "/certs"
+    CONTAINER_TEST_IMAGE: $CI_REGISTRY_IMAGE:$CI_COMMIT_REF_SLUG
+    CONTAINER_RELEASE_IMAGE: $CI_REGISTRY_IMAGE:latest
+
+build:docker:
+    stage: build
+    needs: ["build:engine", "build:interface"]
+    image: docker:20.10.6
+    tags:
+        - container-builder
+    services:
+        - docker:20.10.6-dind
+    before_script:
+        - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    script:
+        - docker build --pull -t $CONTAINER_TEST_IMAGE .
+        - docker push $CONTAINER_TEST_IMAGE
+
+release-image:docker:
+    stage: release
+    needs: ["build:docker"]
+    image: docker:20.10.6
+    tags:
+        - container-builder
+    services:
+        - docker:20.10.6-dind
+    before_script:
+        - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+    script:
+        - docker pull $CONTAINER_TEST_IMAGE
+        - docker tag $CONTAINER_TEST_IMAGE $CONTAINER_RELEASE_IMAGE
+        - docker push $CONTAINER_RELEASE_IMAGE
+    only:
+        - master

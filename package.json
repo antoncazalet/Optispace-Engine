@@ -1,0 +1,23 @@
+{
+    "name": "optispace-engine",
+    "version": "0.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@gitlab.com/optispace/optispace-engine/optispace-engine.git"
+    },
+    "scripts": {
+        "build:dev": "node scripts/build.js build all",
+        "build:interface": "node scripts/build.js build declarations",
+        "start:watch": "nodemon --watch 'engine/src/**/*' -e ts,tsx --exec 'cd engine && npm run build-declarations && cp -r declarations ../engine-interface/src/Optiengine && npm run build && cp build/optiengine.js ../engine-interface/src/Optiengine/index.js' & (cd engine-interface && npm run dev)"
+    },
+    "bugs": {
+        "url": "https://gitlab.com/optispace/optispace-engine/optispace-engine/issues"
+    },
+    "homepage": "https://gitlab.com/optispace/optispace-engine/optispace-engine#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    },
+    "dependencies": {
+        "axios": "^1.1.3"
+    }
+}

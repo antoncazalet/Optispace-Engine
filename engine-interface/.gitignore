@@ -1,0 +1,8 @@
+node_modules/
+gitpush.sh~
+/.babelrc~
+*.blend1
+dist/
+build/js/main.*
+build/js/optiengine.js
+src/Optiengine

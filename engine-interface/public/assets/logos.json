@@ -1,0 +1,5330 @@
+{
+    "Wall Shell and Structure Symbols": {
+        "wall": {
+            "title": "Wall",
+            "src": "/assets/logos/wall.png"
+        },
+        "vertical-wall": {
+            "title": "Vertical Wall",
+            "src": "/assets/logos/vertical-wall.png"
+        },
+        "curved-wall": {
+            "title": "Curved Wall",
+            "src": "/assets/logos/curved-wall.png"
+        },
+        "curtain-wall": {
+            "title": "Curtain Wall",
+            "src": "/assets/logos/curtain-wall.png"
+        },
+        "space": {
+            "title": "Space",
+            "src": "/assets/logos/space.png"
+        },
+        "l-space": {
+            "title": "L-Space",
+            "src": "/assets/logos/l-space.png"
+        },
+        "t-space": {
+            "title": "T-Space",
+            "src": "/assets/logos/t-space.png"
+        },
+        "room1": {
+            "title": "Room 1",
+            "src": "/assets/logos/room1.png"
+        },
+        "room2": {
+            "title": "Room 2",
+            "src": "/assets/logos/room2.png"
+        },
+        "room3": {
+            "title": "Room 3",
+            "src": "/assets/logos/room3.png"
+        },
+        "pilaster": {
+            "title": "Pilaster",
+            "src": "/assets/logos/pilaster.png"
+        },
+        "rectangle-column": {
+            "title": "Rectangular Column",
+            "src": "/assets/logos/rectangle-column.png"
+        },
+        "circular-column": {
+            "title": "Circular Column",
+            "src": "/assets/logos/circular-column.png"
+        },
+        "beam": {
+            "title": "Beam",
+            "src": "/assets/logos/beam.png"
+        },
+        "grid-origin": {
+            "title": "Grid Origin",
+            "src": "/assets/logos/grid-origin.png"
+        },
+        "grid-line": {
+            "title": "Grid Line",
+            "src": "/assets/logos/grid-line.png"
+        }
+    },
+    "Doors and Windows Symbols": {
+        "window": {
+            "title": "Window",
+            "src": "/assets/logos/window.png"
+        },
+        "open-window": {
+            "title": "Open Window",
+            "src": "/assets/logos/open-window.png"
+        },
+        "open-window2": {
+            "title": "Open Window 2",
+            "src": "/assets/logos/open-window2.png"
+        },
+        "open-window3": {
+            "title": "Open Window 3",
+            "src": "/assets/logos/open-window3.png"
+        },
+        "glider-window": {
+            "title": "Glider Window",
+            "src": "/assets/logos/glider-window.png"
+        },
+        "casement-window": {
+            "title": "Casement Window",
+            "src": "/assets/logos/casement-window.png"
+        },
+        "bay-window": {
+            "title": "Bay Window",
+            "src": "/assets/logos/bay-window.png"
+        },
+        "double-casement-window": {
+            "title": "Double Casement Window",
+            "src": "/assets/logos/double-casement-window.png"
+        },
+        "openning": {
+            "title": "Opening",
+            "src": "/assets/logos/openning.png"
+        },
+        "door": {
+            "title": "Door",
+            "src": "/assets/logos/door.png"
+        },
+        "double-hung-door": {
+            "title": "Double Hung Door",
+            "src": "/assets/logos/double-hung-door.png"
+        },
+        "double-door": {
+            "title": "Double Door",
+            "src": "/assets/logos/double-door.png"
+        },
+        "uneven-door": {
+            "title": "Uneven Door",
+            "src": "/assets/logos/uneven-door.png"
+        },
+        "opposing-door": {
+            "title": "Opposing Door",
+            "src": "/assets/logos/opposing-door.png"
+        },
+        "revolving-door": {
+            "title": "Revolving Door",
+            "src": "/assets/logos/revolving-door.png"
+        },
+        "folding-door": {
+            "title": "Folding Door",
+            "src": "/assets/logos/folding-door.png"
+        },
+        "sliding-door": {
+            "title": "Sliding Door",
+            "src": "/assets/logos/sliding-door.png"
+        },
+        "double-sliding-door": {
+            "title": "Double Sliding Door",
+            "src": "/assets/logos/double-sliding-door.png"
+        },
+        "by-pass-door": {
+            "title": "By Pass Door",
+            "src": "/assets/logos/by-pass-door.png"
+        }
+    },
+    "Applicance Symbols": {
+        "appliance1": {
+            "title": "Pendant Lamp",
+            "src": "/assets/logos/appliance1.png"
+        },
+        "appliance2": {
+            "title": "LED",
+            "src": "/assets/logos/appliance2.png"
+        },
+        "appliance3": {
+            "title": "Floor Lamp",
+            "src": "/assets/logos/appliance3.png"
+        },
+        "appliance4": {
+            "title": "Wall Lamp",
+            "src": "/assets/logos/appliance4.png"
+        },
+        "appliance5": {
+            "title": "Spotlight",
+            "src": "/assets/logos/appliance5.png"
+        },
+        "appliance6": {
+            "title": "Tube Light",
+            "src": "/assets/logos/appliance6.png"
+        },
+        "appliance7": {
+            "title": "LED Downlight",
+            "src": "/assets/logos/appliance7.png"
+        },
+        "appliance8": {
+            "title": "Shower Lamp",
+            "src": "/assets/logos/appliance8.png"
+        },
+        "appliance9": {
+            "title": "Fan",
+            "src": "/assets/logos/appliance9.png"
+        },
+        "appliance10": {
+            "title": "Air Exhaust Fan",
+            "src": "/assets/logos/appliance10.png"
+        },
+        "appliance11": {
+            "title": "Gas Stove 1",
+            "src": "/assets/logos/appliance11.png"
+        },
+        "appliance12": {
+            "title": "Gas Stove 2",
+            "src": "/assets/logos/appliance12.png"
+        },
+        "appliance13": {
+            "title": "Refrg 1",
+            "src": "/assets/logos/appliance13.png"
+        },
+        "appliance14": {
+            "title": "Refrg 2",
+            "src": "/assets/logos/appliance14.png"
+        },
+        "appliance15": {
+            "title": "Chest Freezer",
+            "src": "/assets/logos/appliance15.png"
+        },
+        "appliance16": {
+            "title": "Cooker",
+            "src": "/assets/logos/appliance16.png"
+        },
+        "appliance17": {
+            "title": "Range",
+            "src": "/assets/logos/appliance17.png"
+        },
+        "appliance18": {
+            "title": "Microwave",
+            "src": "/assets/logos/appliance18.png"
+        },
+        "appliance19": {
+            "title": "Dishwasher",
+            "src": "/assets/logos/appliance19.png"
+        },
+        "appliance20": {
+            "title": "Washing Machine",
+            "src": "/assets/logos/appliance20.png"
+        },
+        "appliance21": {
+            "title": "Water Cooler",
+            "src": "/assets/logos/appliance21.png"
+        },
+        "appliance22": {
+            "title": "Oven",
+            "src": "/assets/logos/appliance22.png"
+        },
+        "appliance23": {
+            "title": "Tumble Dryer",
+            "src": "/assets/logos/appliance23.png"
+        },
+        "appliance24": {
+            "title": "Coffee Maker",
+            "src": "/assets/logos/appliance24.png"
+        },
+        "appliance25": {
+            "title": "Disinfection Cabinet",
+            "src": "/assets/logos/appliance25.png"
+        },
+        "appliance26": {
+            "title": "Flat-Panel TV",
+            "src": "/assets/logos/appliance26.png"
+        },
+        "appliance27": {
+            "title": "Keyboard",
+            "src": "/assets/logos/appliance27.png"
+        },
+        "appliance28": {
+            "title": "Video Game",
+            "src": "/assets/logos/appliance28.png"
+        },
+        "appliance29": {
+            "title": "Food Cooler",
+            "src": "/assets/logos/appliance29.png"
+        },
+        "appliance30": {
+            "title": "Vending Machine",
+            "src": "/assets/logos/appliance30.png"
+        },
+        "appliance31": {
+            "title": "Water Heater",
+            "src": "/assets/logos/appliance31.png"
+        }
+    },
+    "Athletic Ground Symbols": {
+        "athletic1": {
+            "title": "Athletic Ground 1",
+            "src": "/assets/logos/athletic1.png"
+        },
+        "athletic2": {
+            "title": "Athletic Ground 2",
+            "src": "/assets/logos/athletic2.png"
+        },
+        "athletic3": {
+            "title": "Athletic Ground 3",
+            "src": "/assets/logos/athletic3.png"
+        },
+        "athletic4": {
+            "title": "Athletic Ground 4",
+            "src": "/assets/logos/athletic4.png"
+        }
+    },
+    "Bathroom Symbols": {
+        "bathroom1": {
+            "title": "Sink 1",
+            "src": "/assets/logos/bathroom1.png"
+        },
+        "bathroom2": {
+            "title": "Sink 2",
+            "src": "/assets/logos/bathroom2.png"
+        },
+        "bathroom3": {
+            "title": "Sink 3",
+            "src": "/assets/logos/bathroom3.png"
+        },
+        "bathroom4": {
+            "title": "Sink 4",
+            "src": "/assets/logos/bathroom4.png"
+        },
+        "bathroom5": {
+            "title": "Sink 5",
+            "src": "/assets/logos/bathroom5.png"
+        },
+        "bathroom6": {
+            "title": "Sink 6",
+            "src": "/assets/logos/bathroom6.png"
+        },
+        "bathroom7": {
+            "title": "Sink 7",
+            "src": "/assets/logos/bathroom7.png"
+        },
+        "bathroom8": {
+            "title": "Sink 8",
+            "src": "/assets/logos/bathroom8.png"
+        },
+        "bathroom9": {
+            "title": "Sink 9",
+            "src": "/assets/logos/bathroom9.png"
+        },
+        "bathroom10": {
+            "title": "Sink 10",
+            "src": "/assets/logos/bathroom10.png"
+        },
+        "bathroom11": {
+            "title": "Sink 11",
+            "src": "/assets/logos/bathroom11.png"
+        },
+        "bathroom12": {
+            "title": "Sink 12",
+            "src": "/assets/logos/bathroom12.png"
+        },
+        "bathroom13": {
+            "title": "Countertop Sink",
+            "src": "/assets/logos/bathroom13.png"
+        },
+        "bathroom14": {
+            "title": "Pedestal Sink",
+            "src": "/assets/logos/bathroom14.png"
+        },
+        "bathroom15": {
+            "title": "Toilet 1",
+            "src": "/assets/logos/bathroom15.png"
+        },
+        "bathroom16": {
+            "title": "Toilet 2",
+            "src": "/assets/logos/bathroom16.png"
+        },
+        "bathroom17": {
+            "title": "Toilet 3",
+            "src": "/assets/logos/bathroom17.png"
+        },
+        "bathroom18": {
+            "title": "Toilet 4",
+            "src": "/assets/logos/bathroom18.png"
+        },
+        "bathroom19": {
+            "title": "Toilet 5",
+            "src": "/assets/logos/bathroom19.png"
+        },
+        "bathroom20": {
+            "title": "Toilet 6",
+            "src": "/assets/logos/bathroom20.png"
+        },
+        "bathroom21": {
+            "title": "Square WC",
+            "src": "/assets/logos/bathroom21.png"
+        },
+        "bathroom22": {
+            "title": "Shower",
+            "src": "/assets/logos/bathroom22.png"
+        },
+        "bathroom23": {
+            "title": "Corner Shower",
+            "src": "/assets/logos/bathroom23.png"
+        },
+        "bathroom24": {
+            "title": "Corner Bath",
+            "src": "/assets/logos/bathroom24.png"
+        },
+        "bathroom25": {
+            "title": "Bathroom",
+            "src": "/assets/logos/bathroom25.png"
+        },
+        "bathroom26": {
+            "title": "Bathtub 1",
+            "src": "/assets/logos/bathroom26.png"
+        },
+        "bathroom27": {
+            "title": "Bathtub 2",
+            "src": "/assets/logos/bathroom27.png"
+        },
+        "bathroom28": {
+            "title": "Bathtub 3",
+            "src": "/assets/logos/bathroom28.png"
+        },
+        "bathroom29": {
+            "title": "Bathtub 4",
+            "src": "/assets/logos/bathroom29.png"
+        },
+        "bathroom30": {
+            "title": "Bathtub 5",
+            "src": "/assets/logos/bathroom30.png"
+        },
+        "bathroom31": {
+            "title": "Bathtub 6",
+            "src": "/assets/logos/bathroom31.png"
+        },
+        "bathroom32": {
+            "title": "Bathtub 7",
+            "src": "/assets/logos/bathroom32.png"
+        },
+        "bathroom33": {
+            "title": "Bathtub 8",
+            "src": "/assets/logos/bathroom33.png"
+        },
+        "bathroom34": {
+            "title": "Bathtub 9",
+            "src": "/assets/logos/bathroom34.png"
+        },
+        "bathroom35": {
+            "title": "Bathtub 10",
+            "src": "/assets/logos/bathroom35.png"
+        },
+        "bathroom36": {
+            "title": "Bathtub 11",
+            "src": "/assets/logos/bathroom36.png"
+        },
+        "bathroom-60": {
+            "title": "Bathtub 12",
+            "src": "/assets/logos/bathroom-60.png"
+        },
+        "bathroom37": {
+            "title": "Shower Drain",
+            "src": "/assets/logos/bathroom37.png"
+        },
+        "bathroom38": {
+            "title": "Shower Drain 2",
+            "src": "/assets/logos/bathroom38.png"
+        },
+        "bathroom39": {
+            "title": "Water Tap 1",
+            "src": "/assets/logos/bathroom39.png"
+        },
+        "bathroom40": {
+            "title": "Water Tap 2",
+            "src": "/assets/logos/bathroom40.png"
+        },
+        "bathroom41": {
+            "title": "Water Tap 3",
+            "src": "/assets/logos/bathroom41.png"
+        },
+        "bathroom42": {
+            "title": "Water Tap 4",
+            "src": "/assets/logos/bathroom42.png"
+        },
+        "bathroom43": {
+            "title": "Water Tap 5",
+            "src": "/assets/logos/bathroom43.png"
+        },
+        "bathroom44": {
+            "title": "Dustbin",
+            "src": "/assets/logos/bathroom44.png"
+        },
+        "bathroom45": {
+            "title": "Toilet Paper",
+            "src": "/assets/logos/bathroom45.png"
+        },
+        "bathroom46": {
+            "title": "Towel Rack",
+            "src": "/assets/logos/bathroom46.png"
+        },
+        "bathroom47": {
+            "title": "Towel Rack 2",
+            "src": "/assets/logos/bathroom47.png"
+        },
+        "bathroom48": {
+            "title": "Light 1",
+            "src": "/assets/logos/bathroom48.png"
+        },
+        "bathroom49": {
+            "title": "Light 2",
+            "src": "/assets/logos/bathroom49.png"
+        },
+        "bathroom50": {
+            "title": "Light 3",
+            "src": "/assets/logos/bathroom50.png"
+        },
+        "bathroom51": {
+            "title": "Light 4",
+            "src": "/assets/logos/bathroom51.png"
+        },
+        "bathroom52": {
+            "title": "Shower Lamp 1",
+            "src": "/assets/logos/bathroom52.png"
+        },
+        "bathroom53": {
+            "title": "Shower Lamp 2",
+            "src": "/assets/logos/bathroom53.png"
+        },
+        "bathroom54": {
+            "title": "Shower Lamp 3",
+            "src": "/assets/logos/bathroom54.png"
+        },
+        "bathroom55": {
+            "title": "Shower Lamp 4",
+            "src": "/assets/logos/bathroom55.png"
+        },
+        "bathroom56": {
+            "title": "Shower Lamp 5",
+            "src": "/assets/logos/bathroom56.png"
+        },
+        "bathroom57": {
+            "title": "Cabinet 1",
+            "src": "/assets/logos/bathroom57.png"
+        },
+        "bathroom58": {
+            "title": "Cabinet 2",
+            "src": "/assets/logos/bathroom58.png"
+        },
+        "bathroom59": {
+            "title": "Cabinet 3",
+            "src": "/assets/logos/bathroom59.png"
+        }
+    },
+    "Bedroom Symbols": {
+        "bedroom1": {
+            "title": "Single Bed 1",
+            "src": "/assets/logos/bedroom1.png"
+        },
+        "bedroom2": {
+            "title": "Single Bed 2",
+            "src": "/assets/logos/bedroom2.png"
+        },
+        "bedroom3": {
+            "title": "Single Bed 3",
+            "src": "/assets/logos/bedroom3.png"
+        },
+        "bedroom4": {
+            "title": "Single Bed 4",
+            "src": "/assets/logos/bedroom4.png"
+        },
+        "bedroom5": {
+            "title": "Single Bed 5",
+            "src": "/assets/logos/bedroom5.png"
+        },
+        "bedroom6": {
+            "title": "Single Bed 6",
+            "src": "/assets/logos/bedroom6.png"
+        },
+        "bedroom7": {
+            "title": "Single Bed 7",
+            "src": "/assets/logos/bedroom7.png"
+        },
+        "bedroom8": {
+            "title": "Single Bed 8",
+            "src": "/assets/logos/bedroom8.png"
+        },
+        "bedroom9": {
+            "title": "Double Bed 1",
+            "src": "/assets/logos/bedroom9.png"
+        },
+        "bedroom10": {
+            "title": "Double Bed 2",
+            "src": "/assets/logos/bedroom10.png"
+        },
+        "bedroom11": {
+            "title": "Double Bed 3",
+            "src": "/assets/logos/bedroom11.png"
+        },
+        "bedroom12": {
+            "title": "Double Bed 4",
+            "src": "/assets/logos/bedroom12.png"
+        },
+        "bedroom13": {
+            "title": "Double Bed 5",
+            "src": "/assets/logos/bedroom13.png"
+        },
+        "bedroom14": {
+            "title": "Double Bed 6",
+            "src": "/assets/logos/bedroom14.png"
+        },
+        "bedroom15": {
+            "title": "Double Bed 7",
+            "src": "/assets/logos/bedroom15.png"
+        },
+        "bedroom16": {
+            "title": "Double Bed 8",
+            "src": "/assets/logos/bedroom16.png"
+        },
+        "bedroom17": {
+            "title": "Single Trundle Bed",
+            "src": "/assets/logos/bedroom17.png"
+        },
+        "bedroom18": {
+            "title": "Bunk Bed",
+            "src": "/assets/logos/bedroom18.png"
+        },
+        "bedroom19": {
+            "title": "Bunk Bed 2",
+            "src": "/assets/logos/bedroom19.png"
+        },
+        "bedroom20": {
+            "title": "Crib",
+            "src": "/assets/logos/bedroom20.png"
+        },
+        "bedroom21": {
+            "title": "Bassinet",
+            "src": "/assets/logos/bedroom21.png"
+        },
+        "bedroom22": {
+            "title": "Vanity Table",
+            "src": "/assets/logos/bedroom22.png"
+        },
+        "bedroom23": {
+            "title": "Night Stand",
+            "src": "/assets/logos/bedroom23.png"
+        },
+        "bedroom24": {
+            "title": "Circular Bed",
+            "src": "/assets/logos/bedroom24.png"
+        },
+        "bedroom25": {
+            "title": "Circular Bed 2",
+            "src": "/assets/logos/bedroom25.png"
+        },
+        "bedroom26": {
+            "title": "Circular Bed 3",
+            "src": "/assets/logos/bedroom26.png"
+        },
+        "bedroom27": {
+            "title": "Circular Bed 4",
+            "src": "/assets/logos/bedroom27.png"
+        },
+        "bedroom28": {
+            "title": "Circular Carpet",
+            "src": "/assets/logos/bedroom28.png"
+        },
+        "bedroom29": {
+            "title": "Carpet",
+            "src": "/assets/logos/bedroom29.png"
+        },
+        "bedroom30": {
+            "title": "Carpet 2",
+            "src": "/assets/logos/bedroom30.png"
+        },
+        "bedroom31": {
+            "title": "Bedside Cabinet",
+            "src": "/assets/logos/bedroom31.png"
+        },
+        "bedroom32": {
+            "title": "Rectangle Table",
+            "src": "/assets/logos/bedroom32.png"
+        },
+        "bedroom33": {
+            "title": "House Plant 1",
+            "src": "/assets/logos/bedroom33.png"
+        },
+        "bedroom34": {
+            "title": "House Plant 2",
+            "src": "/assets/logos/bedroom34.png"
+        },
+        "bedroom35": {
+            "title": "House Plant 3",
+            "src": "/assets/logos/bedroom35.png"
+        },
+        "bedroom36": {
+            "title": "House Plant 4",
+            "src": "/assets/logos/bedroom36.png"
+        },
+        "bedroom37": {
+            "title": "House Plant 5",
+            "src": "/assets/logos/bedroom37.png"
+        },
+        "bedroom38": {
+            "title": "Flat-Panel TV",
+            "src": "/assets/logos/bedroom38.png"
+        },
+        "bedroom39": {
+            "title": "Spinet Piano",
+            "src": "/assets/logos/bedroom39.png"
+        },
+        "bedroom40": {
+            "title": "Bookcase",
+            "src": "/assets/logos/bedroom40.png"
+        },
+        "bedroom41": {
+            "title": "Pillow",
+            "src": "/assets/logos/bedroom41.png"
+        },
+        "bedroom42": {
+            "title": "Chest",
+            "src": "/assets/logos/bedroom42.png"
+        },
+        "bedroom43": {
+            "title": "Double Dresser",
+            "src": "/assets/logos/bedroom43.png"
+        },
+        "bedroom44": {
+            "title": "Tripper Dresser",
+            "src": "/assets/logos/bedroom44.png"
+        },
+        "bedroom45": {
+            "title": "Cabinet 1",
+            "src": "/assets/logos/bedroom45.png"
+        },
+        "bedroom46": {
+            "title": "Cabinet 2",
+            "src": "/assets/logos/bedroom46.png"
+        },
+        "bedroom47": {
+            "title": "Wardrobe 1",
+            "src": "/assets/logos/bedroom47.png"
+        },
+        "bedroom48": {
+            "title": "Wardrobe 2",
+            "src": "/assets/logos/bedroom48.png"
+        },
+        "bedroom49": {
+            "title": "Shoe Cabinet 1",
+            "src": "/assets/logos/bedroom49.png"
+        },
+        "bedroom50": {
+            "title": "Shoe Cabinet 2",
+            "src": "/assets/logos/bedroom50.png"
+        }
+    },
+    "Building Core Symbols": {
+        "building1": {
+            "title": "North",
+            "src": "/assets/logos/building1.png"
+        },
+        "building2": {
+            "title": "Direction",
+            "src": "/assets/logos/building2.png"
+        },
+        "building3": {
+            "title": "Arrow",
+            "src": "/assets/logos/building3.png"
+        },
+        "building4": {
+            "title": "Air-Conditioned Location",
+            "src": "/assets/logos/building4.png"
+        },
+        "building5": {
+            "title": "Solid Walls",
+            "src": "/assets/logos/building5.png"
+        },
+        "building6": {
+            "title": "Step",
+            "src": "/assets/logos/building6.png"
+        },
+        "building7": {
+            "title": "Ornamental Stair",
+            "src": "/assets/logos/building7.png"
+        },
+        "building8": {
+            "title": "Scissor Staircase",
+            "src": "/assets/logos/building8.png"
+        },
+        "building9": {
+            "title": "Straight Staircase",
+            "src": "/assets/logos/building9.png"
+        },
+        "building10": {
+            "title": "Curved Staircase 1",
+            "src": "/assets/logos/building10.png"
+        },
+        "building11": {
+            "title": "Curved Staircase 2",
+            "src": "/assets/logos/building11.png"
+        },
+        "building12": {
+            "title": "Winding Staircase",
+            "src": "/assets/logos/building12.png"
+        },
+        "building13": {
+            "title": "Z-Shape Staircase",
+            "src": "/assets/logos/building13.png"
+        },
+        "building14": {
+            "title": "Divided Staircase",
+            "src": "/assets/logos/building14.png"
+        },
+        "building15": {
+            "title": "Pocket Door",
+            "src": "/assets/logos/building15.png"
+        },
+        "building16": {
+            "title": "Double Pocket Door",
+            "src": "/assets/logos/building16.png"
+        },
+        "building17": {
+            "title": "Left Spiral Staircase",
+            "src": "/assets/logos/building17.png"
+        },
+        "building18": {
+            "title": "Right Spiral Staircase",
+            "src": "/assets/logos/building18.png"
+        },
+        "building19": {
+            "title": "Corner Landing",
+            "src": "/assets/logos/building19.png"
+        },
+        "building20": {
+            "title": "Stair Landing",
+            "src": "/assets/logos/building20.png"
+        },
+        "building21": {
+            "title": "Escalator",
+            "src": "/assets/logos/building21.png"
+        },
+        "building22": {
+            "title": "Ramp",
+            "src": "/assets/logos/building22.png"
+        },
+        "building23": {
+            "title": "Handrail",
+            "src": "/assets/logos/building23.png"
+        },
+        "building24": {
+            "title": "Corner Handrail",
+            "src": "/assets/logos/building24.png"
+        },
+        "building25": {
+            "title": "Toilet",
+            "src": "/assets/logos/building25.png"
+        },
+        "building26": {
+            "title": "Mulit Sink",
+            "src": "/assets/logos/building26.png"
+        },
+        "building27": {
+            "title": "Mulit Urinal",
+            "src": "/assets/logos/building27.png"
+        },
+        "building28": {
+            "title": "Mulit Stall",
+            "src": "/assets/logos/building28.png"
+        },
+        "building29": {
+            "title": "Countertop Sink",
+            "src": "/assets/logos/building29.png"
+        },
+        "building30": {
+            "title": "Toilet Stall",
+            "src": "/assets/logos/building30.png"
+        },
+        "building31": {
+            "title": "Elevator",
+            "src": "/assets/logos/building31.png"
+        },
+        "building32": {
+            "title": "Freight Elevator",
+            "src": "/assets/logos/building32.png"
+        },
+        "building33": {
+            "title": "Chute",
+            "src": "/assets/logos/building33.png"
+        }
+    },
+    "Cabinet and Bookcases Symbols": {
+        "cabinet-1": {
+            "title": "Work Surface",
+            "src": "/assets/logos/cabinet-1.png"
+        },
+        "cabinet-2": {
+            "title": "Corner Surface",
+            "src": "/assets/logos/cabinet-2.png"
+        },
+        "cabinet-3": {
+            "title": "Corner Surface 2",
+            "src": "/assets/logos/cabinet-3.png"
+        },
+        "cabinet-4": {
+            "title": "Corner Surface 3",
+            "src": "/assets/logos/cabinet-4.png"
+        },
+        "cabinet-5": {
+            "title": "Corner Surface 4",
+            "src": "/assets/logos/cabinet-5.png"
+        },
+        "cabinet-6": {
+            "title": "Island",
+            "src": "/assets/logos/cabinet-6.png"
+        },
+        "cabinet-7": {
+            "title": "Corner Counter",
+            "src": "/assets/logos/cabinet-7.png"
+        },
+        "cabinet-8": {
+            "title": "Platter Counter",
+            "src": "/assets/logos/cabinet-8.png"
+        },
+        "cabinet-9": {
+            "title": "Bevel Counter",
+            "src": "/assets/logos/cabinet-9.png"
+        },
+        "cabinet-10": {
+            "title": "Bent Counter",
+            "src": "/assets/logos/cabinet-10.png"
+        },
+        "cabinet-11": {
+            "title": "Work Peninsula",
+            "src": "/assets/logos/cabinet-11.png"
+        },
+        "cabinet-12": {
+            "title": "Base",
+            "src": "/assets/logos/cabinet-12.png"
+        },
+        "cabinet-13": {
+            "title": "Base 2",
+            "src": "/assets/logos/cabinet-13.png"
+        },
+        "cabinet-14": {
+            "title": "Base 3",
+            "src": "/assets/logos/cabinet-14.png"
+        },
+        "cabinet-15": {
+            "title": "Base 4",
+            "src": "/assets/logos/cabinet-15.png"
+        },
+        "cabinet-16": {
+            "title": "Base 5",
+            "src": "/assets/logos/cabinet-16.png"
+        },
+        "cabinet-17": {
+            "title": "Base 6",
+            "src": "/assets/logos/cabinet-17.png"
+        },
+        "cabinet-18": {
+            "title": "Drawer",
+            "src": "/assets/logos/cabinet-18.png"
+        },
+        "cabinet-19": {
+            "title": "Drawer 2",
+            "src": "/assets/logos/cabinet-19.png"
+        },
+        "cabinet-20": {
+            "title": "Drawer 3",
+            "src": "/assets/logos/cabinet-20.png"
+        },
+        "cabinet-21": {
+            "title": "Drawer 4",
+            "src": "/assets/logos/cabinet-21.png"
+        },
+        "cabinet-22": {
+            "title": "Cabinet",
+            "src": "/assets/logos/cabinet-22.png"
+        },
+        "cabinet-23": {
+            "title": "Cabinet 2",
+            "src": "/assets/logos/cabinet-23.png"
+        },
+        "cabinet-24": {
+            "title": "Cabinet 3",
+            "src": "/assets/logos/cabinet-24.png"
+        },
+        "cabinet-25": {
+            "title": "Cabinet 4",
+            "src": "/assets/logos/cabinet-25.png"
+        },
+        "cabinet-26": {
+            "title": "Peninsula End-Shelf",
+            "src": "/assets/logos/cabinet-26.png"
+        },
+        "cabinet-27": {
+            "title": "Base Peninsula",
+            "src": "/assets/logos/cabinet-27.png"
+        },
+        "cabinet-28": {
+            "title": "Base Peninsula 2",
+            "src": "/assets/logos/cabinet-28.png"
+        },
+        "cabinet-29": {
+            "title": "Wall End-Shelf",
+            "src": "/assets/logos/cabinet-29.png"
+        },
+        "cabinet-30": {
+            "title": "Wall Corner",
+            "src": "/assets/logos/cabinet-30.png"
+        },
+        "cabinet-31": {
+            "title": "Wall Angle Cabinet",
+            "src": "/assets/logos/cabinet-31.png"
+        },
+        "cabinet-32": {
+            "title": "Track End-Bevel",
+            "src": "/assets/logos/cabinet-32.png"
+        },
+        "cabinet-33": {
+            "title": "Track 45 Deg",
+            "src": "/assets/logos/cabinet-33.png"
+        },
+        "cabinet-34": {
+            "title": "Track Corner",
+            "src": "/assets/logos/cabinet-34.png"
+        },
+        "cabinet-35": {
+            "title": "Tray Track",
+            "src": "/assets/logos/cabinet-35.png"
+        },
+        "cabinet-36": {
+            "title": "Locker",
+            "src": "/assets/logos/cabinet-36.png"
+        },
+        "cabinet-37": {
+            "title": "Handle",
+            "src": "/assets/logos/cabinet-37.png"
+        },
+        "cabinet-38": {
+            "title": "Handle 2",
+            "src": "/assets/logos/cabinet-38.png"
+        },
+        "cabinet-39": {
+            "title": "Handle 3",
+            "src": "/assets/logos/cabinet-39.png"
+        },
+        "cabinet-40": {
+            "title": "Handle 4",
+            "src": "/assets/logos/cabinet-40.png"
+        },
+        "cabinet-41": {
+            "title": "Handle 5",
+            "src": "/assets/logos/cabinet-41.png"
+        }
+    },
+    "Carpet Symbols": {
+        "carpet": {
+            "title": "Carpet 1",
+            "src": "/assets/logos/carpet.png"
+        },
+        "carpet1": {
+            "title": "Carpet 2",
+            "src": "/assets/logos/carpet1.png"
+        },
+        "carpet2": {
+            "title": "Carpet 3",
+            "src": "/assets/logos/carpet2.png"
+        },
+        "carpet3": {
+            "title": "Carpet 4",
+            "src": "/assets/logos/carpet3.png"
+        },
+        "carpet4": {
+            "title": "Carpet 5",
+            "src": "/assets/logos/carpet4.png"
+        },
+        "carpet5": {
+            "title": "Carpet 6",
+            "src": "/assets/logos/carpet5.png"
+        },
+        "carpet6": {
+            "title": "Carpet 7",
+            "src": "/assets/logos/carpet6.png"
+        },
+        "carpet7": {
+            "title": "Carpet 8",
+            "src": "/assets/logos/carpet7.png"
+        },
+        "carpet8": {
+            "title": "Carpet 9",
+            "src": "/assets/logos/carpet8.png"
+        },
+        "carpet9": {
+            "title": "Carpet 10",
+            "src": "/assets/logos/carpet9.png"
+        },
+        "carpet10": {
+            "title": "Carpet 11",
+            "src": "/assets/logos/carpet10.png"
+        },
+        "carpet11": {
+            "title": "Carpet 12",
+            "src": "/assets/logos/carpet11.png"
+        },
+        "carpet12": {
+            "title": "Carpet 13",
+            "src": "/assets/logos/carpet12.png"
+        },
+        "carpet13": {
+            "title": "Carpet 14",
+            "src": "/assets/logos/carpet13.png"
+        }
+    },
+    "Dimensioning Symbols": {
+        "dimensions1": {
+            "title": "Dimension 1",
+            "src": "/assets/logos/dimensions1.png"
+        },
+        "dimensions2": {
+            "title": "Dimension 2",
+            "src": "/assets/logos/dimensions2.png"
+        },
+        "dimensions3": {
+            "title": "Dimension 3",
+            "src": "/assets/logos/dimensions3.png"
+        },
+        "dimensions4": {
+            "title": "Dimension 4",
+            "src": "/assets/logos/dimensions4.png"
+        },
+        "dimensions5": {
+            "title": "Dimension 5",
+            "src": "/assets/logos/dimensions5.png"
+        },
+        "dimensions6": {
+            "title": "Dimension 6",
+            "src": "/assets/logos/dimensions6.png"
+        },
+        "dimensions7": {
+            "title": "Dimension 7",
+            "src": "/assets/logos/dimensions7.png"
+        },
+        "dimensions8": {
+            "title": "Dimension 8",
+            "src": "/assets/logos/dimensions8.png"
+        },
+        "dimensions9": {
+            "title": "Dimension 9",
+            "src": "/assets/logos/dimensions9.png"
+        },
+        "dimensions10": {
+            "title": "Dimension 10",
+            "src": "/assets/logos/dimensions10.png"
+        },
+        "dimensions11": {
+            "title": "Dimension 11",
+            "src": "/assets/logos/dimensions11.png"
+        },
+        "dimensions12": {
+            "title": "Dimension 12",
+            "src": "/assets/logos/dimensions12.png"
+        },
+        "dimensions13": {
+            "title": "Dimension 13",
+            "src": "/assets/logos/dimensions13.png"
+        },
+        "dimensions14": {
+            "title": "Dimension 14",
+            "src": "/assets/logos/dimensions14.png"
+        },
+        "dimensions15": {
+            "title": "Dimension 15",
+            "src": "/assets/logos/dimensions15.png"
+        },
+        "dimensions16": {
+            "title": "Dimension 16",
+            "src": "/assets/logos/dimensions16.png"
+        },
+        "dimensions17": {
+            "title": "Dimension 17",
+            "src": "/assets/logos/dimensions17.png"
+        },
+        "dimensions18": {
+            "title": "Dimension 18",
+            "src": "/assets/logos/dimensions18.png"
+        },
+        "dimensions19": {
+            "title": "Dimension 19",
+            "src": "/assets/logos/dimensions19.png"
+        },
+        "dimensions20": {
+            "title": "Dimension 20",
+            "src": "/assets/logos/dimensions20.png"
+        },
+        "dimensions21": {
+            "title": "Dimension 21",
+            "src": "/assets/logos/dimensions21.png"
+        }
+    },
+    "Fire and Emergency Symbols": {
+        "slidedoorleft": {
+            "title": "Slide Door Left",
+            "src": "/assets/logos/slidedoorleft.png"
+        },
+        "slidedoorright": {
+            "title": "Slide Door Right",
+            "src": "/assets/logos/slidedoorright.png"
+        },
+        "firebreakglass": {
+            "title": "Fire Break Glass",
+            "src": "/assets/logos/firebreakglass.png"
+        },
+        "emergencyambulance": {
+            "title": "Emergency Ambulance",
+            "src": "/assets/logos/emergencyambulance.png"
+        },
+        "emergencyaccess": {
+            "title": "Emergency Access",
+            "src": "/assets/logos/emergencyaccess.png"
+        },
+        "emergencyaccess2": {
+            "title": "Emergency Access 2",
+            "src": "/assets/logos/emergencyaccess2.png"
+        },
+        "emergencyexit": {
+            "title": "Emergency Exit",
+            "src": "/assets/logos/emergencyexit.png"
+        },
+        "emergencyexit2": {
+            "title": "Emergency Exit 2",
+            "src": "/assets/logos/emergencyexit2.png"
+        },
+        "usestairsinfire": {
+            "title": "Use Stairs in Fire",
+            "src": "/assets/logos/usestairsinfire.png"
+        },
+        "usestairs": {
+            "title": "Use Stairs",
+            "src": "/assets/logos/usestairs.png"
+        },
+        "fireladder": {
+            "title": "Fire Ladder",
+            "src": "/assets/logos/fireladder.png"
+        },
+        "handicapaccessible": {
+            "title": "Handicap Accessible",
+            "src": "/assets/logos/handicapaccessible.png"
+        },
+        "arrow": {
+            "title": "Arrow",
+            "src": "/assets/logos/arrow.png"
+        },
+        "indicatingarrow": {
+            "title": "Indicating Arrow 3",
+            "src": "/assets/logos/indicatingarrow.png"
+        },
+        "indicatingarrow2": {
+            "title": "Indicating Arrow 2",
+            "src": "/assets/logos/indicatingarrow2.png"
+        },
+        "assemblypoint": {
+            "title": "Assembly Point",
+            "src": "/assets/logos/assemblypoint.png"
+        },
+        "refugearea": {
+            "title": "Refuge Area",
+            "src": "/assets/logos/refugearea.png"
+        },
+        "youarehere": {
+            "title": "You are Here",
+            "src": "/assets/logos/youarehere.png"
+        },
+        "emergencyexit3": {
+            "title": "Fire Emergency Exit",
+            "src": "/assets/logos/emergencyexit3.png"
+        },
+        "emergencyexit4": {
+            "title": "Fire Emergency Exit 2",
+            "src": "/assets/logos/emergencyexit4.png"
+        },
+        "fireextinguisher": {
+            "title": "Fire Extinguisher",
+            "src": "/assets/logos/fireextinguisher.png"
+        },
+        "firehydrant": {
+            "title": "Fire Hydrant",
+            "src": "/assets/logos/firehydrant.png"
+        },
+        "firehydrant2": {
+            "title": "Fire Hydrant 2",
+            "src": "/assets/logos/firehydrant2.png"
+        },
+        "emergencyphone": {
+            "title": "Emergency Phone",
+            "src": "/assets/logos/emergencyphone.png"
+        },
+        "emergencyphone2": {
+            "title": "Emergency Phone 2",
+            "src": "/assets/logos/emergencyphone2.png"
+        },
+        "call911": {
+            "title": "Call 911",
+            "src": "/assets/logos/call911.png"
+        },
+        "fireextinguisher2": {
+            "title": "Fire Extinguisher 2",
+            "src": "/assets/logos/fireextinguisher2.png"
+        },
+        "firealarmcallpoint": {
+            "title": "Fire Alarm Call Point",
+            "src": "/assets/logos/firealarmcallpoint.png"
+        },
+        "firehose": {
+            "title": "Fire Hose",
+            "src": "/assets/logos/firehose.png"
+        },
+        "firehose2": {
+            "title": "Fire Hose 2",
+            "src": "/assets/logos/firehose2.png"
+        },
+        "gasshutoffvalve": {
+            "title": "Gas Shutoff Valve",
+            "src": "/assets/logos/gasshutoffvalve.png"
+        },
+        "automaticsprinklercontrolvalve": {
+            "title": "Sprinkler Control Valve",
+            "src": "/assets/logos/automaticsprinklercontrolvalve.png"
+        },
+        "automaticsprinklerconnection": {
+            "title": "Sprinkler Connection",
+            "src": "/assets/logos/automaticsprinklerconnection.png"
+        },
+        "singleautomaticsprinklerconnection": {
+            "title": "Single Sprinkler Connection",
+            "src": "/assets/logos/singleautomaticsprinklerconnection.png"
+        },
+        "combinedautomaticsprinkler": {
+            "title": "Combined Automatic Sprinkler",
+            "src": "/assets/logos/combinedautomaticsprinkler.png"
+        },
+        "standpipeconnection": {
+            "title": "Standpipe Connection",
+            "src": "/assets/logos/standpipeconnection.png"
+        },
+        "fireaxe": {
+            "title": "Fire Axe",
+            "src": "/assets/logos/fireaxe.png"
+        },
+        "firefightingequipment": {
+            "title": "Fire Fighting Equipment",
+            "src": "/assets/logos/firefightingequipment.png"
+        },
+        "alarm": {
+            "title": "Alarm",
+            "src": "/assets/logos/alarm.png"
+        },
+        "firealarm": {
+            "title": "Fire Alarm",
+            "src": "/assets/logos/firealarm.png"
+        },
+        "manualactivatingdevice": {
+            "title": "Manual Activating Device",
+            "src": "/assets/logos/manualactivatingdevice.png"
+        },
+        "electricpanelshutoff": {
+            "title": "Electric Panel Shutoff",
+            "src": "/assets/logos/electricpanelshutoff.png"
+        },
+        "childcarecenter": {
+            "title": "Child Care Center",
+            "src": "/assets/logos/childcarecenter.png"
+        },
+        "smokedetector": {
+            "title": "Smoke Detector",
+            "src": "/assets/logos/smokedetector.png"
+        },
+        "firesprinkler": {
+            "title": "Fire Sprinkler",
+            "src": "/assets/logos/firesprinkler.png"
+        },
+        "firesprinkler2": {
+            "title": "Fire Sprinkler 2",
+            "src": "/assets/logos/firesprinkler2.png"
+        },
+        "airconditioningvents": {
+            "title": "Air Conditioning Vent",
+            "src": "/assets/logos/airconditioningvents.png"
+        },
+        "vents": {
+            "title": "Vent",
+            "src": "/assets/logos/vents.png"
+        },
+        "notanexit": {
+            "title": "Not an Exit",
+            "src": "/assets/logos/notanexit.png"
+        },
+        "don'tgoback": {
+            "title": "Don't Go Back",
+            "src": "/assets/logos/don'tgoback.png"
+        },
+        "don'tusetheelevator": {
+            "title": "Don't Use the Elevator",
+            "src": "/assets/logos/don'tusetheelevator.png"
+        },
+        "nofire": {
+            "title": "No Fire",
+            "src": "/assets/logos/nofire.png"
+        },
+        "nosmoking": {
+            "title": "No Smoking",
+            "src": "/assets/logos/nosmoking.png"
+        },
+        "nocooking": {
+            "title": "No Cooking",
+            "src": "/assets/logos/nocooking.png"
+        },
+        "radiationhazard": {
+            "title": "Radiation Hazard",
+            "src": "/assets/logos/radiationhazard.png"
+        },
+        "non-ionisingradiation": {
+            "title": "Non-ionising Radiation",
+            "src": "/assets/logos/non-ionisingradiation.png"
+        },
+        "explosives": {
+            "title": "Explosives",
+            "src": "/assets/logos/explosives.png"
+        },
+        "toxicgas": {
+            "title": "Toxic Gas",
+            "src": "/assets/logos/toxicgas.png"
+        },
+        "medicalwaste": {
+            "title": "Medical Waste",
+            "src": "/assets/logos/medicalwaste.png"
+        },
+        "flammablematerial": {
+            "title": "Flammable Material",
+            "src": "/assets/logos/flammablematerial.png"
+        },
+        "comburent": {
+            "title": "Comburent",
+            "src": "/assets/logos/comburent.png"
+        },
+        "dangerouschemical": {
+            "title": "Dangerous Chemical",
+            "src": "/assets/logos/dangerouschemical.png"
+        },
+        "corrosivematerial": {
+            "title": "Corrosive Material",
+            "src": "/assets/logos/corrosivematerial.png"
+        },
+        "noise": {
+            "title": "Noise",
+            "src": "/assets/logos/noise.png"
+        },
+        "becarefulsuffocation": {
+            "title": "Be Careful Suffocation",
+            "src": "/assets/logos/becarefulsuffocation.png"
+        },
+        "harmfulgoods": {
+            "title": "Harmful Goods",
+            "src": "/assets/logos/harmfulgoods.png"
+        },
+        "chemicalweapon": {
+            "title": "Chemical Weapon",
+            "src": "/assets/logos/chemicalweapon.png"
+        },
+        "warningsign": {
+            "title": "Warning Sign",
+            "src": "/assets/logos/warningsign.png"
+        },
+        "highvoltagesign": {
+            "title": "High Voltage Sign",
+            "src": "/assets/logos/highvoltagesign.png"
+        },
+        "laserhazzardsign": {
+            "title": "Laser Hazzard Sign",
+            "src": "/assets/logos/laserhazzardsign.png"
+        },
+        "radiationdanger": {
+            "title": "Radiation Danger",
+            "src": "/assets/logos/radiationdanger.png"
+        }
+    },
+    "Garden Symbols": {
+        "evergreen1": {
+            "title": "Evergreen Tree 1",
+            "src": "/assets/logos/evergreen1.png"
+        },
+        "evergreen2": {
+            "title": "Evergreen Tree 2",
+            "src": "/assets/logos/evergreen2.png"
+        },
+        "evergreen3": {
+            "title": "Evergreen Tree 3",
+            "src": "/assets/logos/evergreen3.png"
+        },
+        "evergreen4": {
+            "title": "Evergreen Tree 4",
+            "src": "/assets/logos/evergreen4.png"
+        },
+        "evergreen5": {
+            "title": "Evergreen Tree 5",
+            "src": "/assets/logos/evergreen5.png"
+        },
+        "evergreen6": {
+            "title": "Evergreen Tree 6",
+            "src": "/assets/logos/evergreen6.png"
+        },
+        "evergreen7": {
+            "title": "Evergreen Tree 7",
+            "src": "/assets/logos/evergreen7.png"
+        },
+        "evergreen8": {
+            "title": "Evergreen Tree 8",
+            "src": "/assets/logos/evergreen8.png"
+        },
+        "evergreen9": {
+            "title": "Evergreen Tree 9",
+            "src": "/assets/logos/evergreen9.png"
+        },
+        "evergreen10": {
+            "title": "Evergreen Tree 10",
+            "src": "/assets/logos/evergreen10.png"
+        },
+        "deciduous1": {
+            "title": "Deciduous Tree 1",
+            "src": "/assets/logos/deciduous1.png"
+        },
+        "deciduous2": {
+            "title": "Deciduous Tree 2",
+            "src": "/assets/logos/deciduous2.png"
+        },
+        "deciduous3": {
+            "title": "Deciduous Tree 3",
+            "src": "/assets/logos/deciduous3.png"
+        },
+        "deciduous4": {
+            "title": "Deciduous Tree 4",
+            "src": "/assets/logos/deciduous4.png"
+        },
+        "deciduous5": {
+            "title": "Deciduous Tree 5",
+            "src": "/assets/logos/deciduous5.png"
+        },
+        "deciduous6": {
+            "title": "Deciduous Tree 6",
+            "src": "/assets/logos/deciduous6.png"
+        },
+        "deciduous7": {
+            "title": "Deciduous Tree 7",
+            "src": "/assets/logos/deciduous7.png"
+        },
+        "deciduous8": {
+            "title": "Deciduous Tree 8",
+            "src": "/assets/logos/deciduous8.png"
+        },
+        "deciduous9": {
+            "title": "Deciduous Tree 9",
+            "src": "/assets/logos/deciduous9.png"
+        },
+        "deciduous10": {
+            "title": "Deciduous Tree 10",
+            "src": "/assets/logos/deciduous10.png"
+        },
+        "shrub1": {
+            "title": "Shrub 1",
+            "src": "/assets/logos/shrub1.png"
+        },
+        "shrub2": {
+            "title": "Shrub 2",
+            "src": "/assets/logos/shrub2.png"
+        },
+        "shrub3": {
+            "title": "Shrub 3",
+            "src": "/assets/logos/shrub3.png"
+        },
+        "shrub4": {
+            "title": "Shrub 4",
+            "src": "/assets/logos/shrub4.png"
+        },
+        "shrub5": {
+            "title": "Shrub 5",
+            "src": "/assets/logos/shrub5.png"
+        },
+        "shrub6": {
+            "title": "Shrub 6",
+            "src": "/assets/logos/shrub6.png"
+        },
+        "shrub7": {
+            "title": "Shrub 7",
+            "src": "/assets/logos/shrub7.png"
+        },
+        "shrub8": {
+            "title": "Shrub 8",
+            "src": "/assets/logos/shrub8.png"
+        },
+        "flower1": {
+            "title": "Flower 1",
+            "src": "/assets/logos/flower1.png"
+        },
+        "flower2": {
+            "title": "Flower 2",
+            "src": "/assets/logos/flower2.png"
+        },
+        "flower3": {
+            "title": "Flower 3",
+            "src": "/assets/logos/flower3.png"
+        },
+        "flower4": {
+            "title": "Flower 4",
+            "src": "/assets/logos/flower4.png"
+        },
+        "flower5": {
+            "title": "Flower 5",
+            "src": "/assets/logos/flower5.png"
+        },
+        "flower6": {
+            "title": "Flower 6",
+            "src": "/assets/logos/flower6.png"
+        },
+        "flower7": {
+            "title": "Flower 7",
+            "src": "/assets/logos/flower7.png"
+        },
+        "flower8": {
+            "title": "Flower 8",
+            "src": "/assets/logos/flower8.png"
+        },
+        "flower9": {
+            "title": "Flower 9",
+            "src": "/assets/logos/flower9.png"
+        },
+        "flower10": {
+            "title": "Flower 10",
+            "src": "/assets/logos/flower10.png"
+        },
+        "flower11": {
+            "title": "Flower 11",
+            "src": "/assets/logos/flower11.png"
+        },
+        "flower12": {
+            "title": "Flower 12",
+            "src": "/assets/logos/flower12.png"
+        },
+        "flower13": {
+            "title": "Flower 13",
+            "src": "/assets/logos/flower13.png"
+        },
+        "flower14": {
+            "title": "Flower 14",
+            "src": "/assets/logos/flower14.png"
+        },
+        "flower15": {
+            "title": "Flower 15",
+            "src": "/assets/logos/flower15.png"
+        },
+        "flower16": {
+            "title": "Flower 16",
+            "src": "/assets/logos/flower16.png"
+        },
+        "flower17": {
+            "title": "Flower 17",
+            "src": "/assets/logos/flower17.png"
+        },
+        "flower18": {
+            "title": "Flower 18",
+            "src": "/assets/logos/flower18.png"
+        },
+        "flower19": {
+            "title": "Flower 19",
+            "src": "/assets/logos/flower19.png"
+        },
+        "flower20": {
+            "title": "Flower 20",
+            "src": "/assets/logos/flower20.png"
+        },
+        "flower21": {
+            "title": "Flower 21",
+            "src": "/assets/logos/flower21.png"
+        },
+        "flower22": {
+            "title": "Flower 22",
+            "src": "/assets/logos/flower22.png"
+        },
+        "flower23": {
+            "title": "Flower 23",
+            "src": "/assets/logos/flower23.png"
+        },
+        "flower24": {
+            "title": "Flower 24",
+            "src": "/assets/logos/flower24.png"
+        },
+        "grass1": {
+            "title": "Ornamental Grass 1",
+            "src": "/assets/logos/grass1.png"
+        },
+        "grass2": {
+            "title": "Ornamental Grass 2",
+            "src": "/assets/logos/grass2.png"
+        },
+        "grass3": {
+            "title": "Ornamental Grass 3",
+            "src": "/assets/logos/grass3.png"
+        },
+        "grass4": {
+            "title": "Ornamental Grass 4",
+            "src": "/assets/logos/grass4.png"
+        },
+        "grass5": {
+            "title": "Ornamental Grass 5",
+            "src": "/assets/logos/grass5.png"
+        },
+        "grass6": {
+            "title": "Ornamental Grass 6",
+            "src": "/assets/logos/grass6.png"
+        },
+        "grass7": {
+            "title": "Ornamental Grass 7",
+            "src": "/assets/logos/grass7.png"
+        },
+        "grass8": {
+            "title": "Ornamental Grass 8",
+            "src": "/assets/logos/grass8.png"
+        },
+        "grass9": {
+            "title": "Ornamental Grass 9",
+            "src": "/assets/logos/grass9.png"
+        },
+        "grass10": {
+            "title": "Ornamental Grass 10",
+            "src": "/assets/logos/grass10.png"
+        },
+        "chair1": {
+            "title": "Stone Table & Chair 1",
+            "src": "/assets/logos/chair1.png"
+        },
+        "chair2": {
+            "title": "Stone Table & Chair 2",
+            "src": "/assets/logos/chair2.png"
+        },
+        "chair3": {
+            "title": "Stone Table & Chair 3",
+            "src": "/assets/logos/chair3.png"
+        },
+        "chair4": {
+            "title": "Wood Table & Chair",
+            "src": "/assets/logos/chair4.png"
+        },
+        "bench2": {
+            "title": "Swing Bench",
+            "src": "/assets/logos/bench2.png"
+        },
+        "bench3": {
+            "title": "Recliner Bench 1",
+            "src": "/assets/logos/bench3.png"
+        },
+        "bench4": {
+            "title": "Recliner Bench 2",
+            "src": "/assets/logos/bench4.png"
+        },
+        "bench5": {
+            "title": "Wood Bench 1",
+            "src": "/assets/logos/bench5.png"
+        },
+        "bench6": {
+            "title": "Long Bench",
+            "src": "/assets/logos/bench6.png"
+        },
+        "bench7": {
+            "title": "Wood Bench 2",
+            "src": "/assets/logos/bench7.png"
+        },
+        "bench8": {
+            "title": "Wood Bench 3",
+            "src": "/assets/logos/bench8.png"
+        },
+        "bench9": {
+            "title": "Seven Glyph Bench 1",
+            "src": "/assets/logos/bench9.png"
+        },
+        "bench10": {
+            "title": "Seven Glyph Bench 2",
+            "src": "/assets/logos/bench10.png"
+        },
+        "bench11": {
+            "title": "U-Shaped Bench",
+            "src": "/assets/logos/bench11.png"
+        },
+        "bridge1": {
+            "title": "Stone Bridge 1",
+            "src": "/assets/logos/bridge1.png"
+        },
+        "bridge2": {
+            "title": "Stone Bridge 2",
+            "src": "/assets/logos/bridge2.png"
+        },
+        "bridge3": {
+            "title": "Timber Bridge 1",
+            "src": "/assets/logos/bridge3.png"
+        },
+        "bridge4": {
+            "title": "Timber Bridge 2",
+            "src": "/assets/logos/bridge4.png"
+        },
+        "bridge5": {
+            "title": "Timber Bridge 3",
+            "src": "/assets/logos/bridge5.png"
+        },
+        "bridge6": {
+            "title": "Wooden Bridge",
+            "src": "/assets/logos/bridge6.png"
+        },
+        "bridge7": {
+            "title": "Bridge",
+            "src": "/assets/logos/bridge7.png"
+        },
+        "bridge8": {
+            "title": "River Bridge",
+            "src": "/assets/logos/bridge8.png"
+        },
+        "light1": {
+            "title": "Garden Lamp 1",
+            "src": "/assets/logos/light1.png"
+        },
+        "light2": {
+            "title": "Garden Lamp 2",
+            "src": "/assets/logos/light2.png"
+        },
+        "light3": {
+            "title": "Garden Lamp 3",
+            "src": "/assets/logos/light3.png"
+        },
+        "light4": {
+            "title": "Garden Lamp 4",
+            "src": "/assets/logos/light4.png"
+        },
+        "stone1": {
+            "title": "Stone Road",
+            "src": "/assets/logos/stone1.png"
+        },
+        "stone2": {
+            "title": "Cobbled Roadway",
+            "src": "/assets/logos/stone2.png"
+        },
+        "stone3": {
+            "title": "Rock Garden",
+            "src": "/assets/logos/stone3.png"
+        },
+        "stone4": {
+            "title": "Road Path 1",
+            "src": "/assets/logos/stone4.png"
+        },
+        "stone5": {
+            "title": "Road Path 2",
+            "src": "/assets/logos/stone5.png"
+        },
+        "stone6": {
+            "title": "Road Path 3",
+            "src": "/assets/logos/stone6.png"
+        },
+        "stone7": {
+            "title": "Garden Stone 1",
+            "src": "/assets/logos/stone7.png"
+        },
+        "stone8": {
+            "title": "Garden Stone 2",
+            "src": "/assets/logos/stone8.png"
+        },
+        "stone9": {
+            "title": "Garden Stone 3",
+            "src": "/assets/logos/stone9.png"
+        },
+        "stone10": {
+            "title": "Round Stone",
+            "src": "/assets/logos/stone10.png"
+        },
+        "stone11": {
+            "title": "Square Stone",
+            "src": "/assets/logos/stone11.png"
+        },
+        "stone12": {
+            "title": "Flagstone",
+            "src": "/assets/logos/stone12.png"
+        },
+        "stone13": {
+            "title": "Hexagon Stone",
+            "src": "/assets/logos/stone13.png"
+        },
+        "stone14": {
+            "title": "Stone Driveway",
+            "src": "/assets/logos/stone14.png"
+        },
+        "stone15": {
+            "title": "Brick Pathway",
+            "src": "/assets/logos/stone15.png"
+        },
+        "stone16": {
+            "title": "Patio Pathway",
+            "src": "/assets/logos/stone16.png"
+        },
+        "pool1": {
+            "title": "Swimming Pool 1",
+            "src": "/assets/logos/pool1.png"
+        },
+        "pool2": {
+            "title": "Swimming Pool 2",
+            "src": "/assets/logos/pool2.png"
+        },
+        "pool3": {
+            "title": "Swimming Pool 3",
+            "src": "/assets/logos/pool3.png"
+        },
+        "pool4": {
+            "title": "Fountain Pool 1",
+            "src": "/assets/logos/pool4.png"
+        },
+        "pool5": {
+            "title": "Fountain Pool 2",
+            "src": "/assets/logos/pool5.png"
+        },
+        "pool6": {
+            "title": "Fountain Pool 3",
+            "src": "/assets/logos/pool6.png"
+        },
+        "pool7": {
+            "title": "Fountain Pool 4",
+            "src": "/assets/logos/pool7.png"
+        },
+        "pool8": {
+            "title": "Fountain Pool 5",
+            "src": "/assets/logos/pool8.png"
+        },
+        "pool9": {
+            "title": "Fountain Pool 6",
+            "src": "/assets/logos/pool9.png"
+        },
+        "pool10": {
+            "title": "Fountain Pool 7",
+            "src": "/assets/logos/pool10.png"
+        },
+        "pool11": {
+            "title": "Fountain Pool 8",
+            "src": "/assets/logos/pool11.png"
+        },
+        "pool12": {
+            "title": "Pond 1",
+            "src": "/assets/logos/pool12.png"
+        },
+        "pool13": {
+            "title": "Pond 2",
+            "src": "/assets/logos/pool13.png"
+        },
+        "pool14": {
+            "title": "Pond 3",
+            "src": "/assets/logos/pool14.png"
+        },
+        "pool15": {
+            "title": "Pond 4",
+            "src": "/assets/logos/pool15.png"
+        },
+        "pool16": {
+            "title": "Pond 5",
+            "src": "/assets/logos/pool16.png"
+        },
+        "pool17": {
+            "title": "Swimming Ring 1",
+            "src": "/assets/logos/pool17.png"
+        },
+        "pool18": {
+            "title": "Swimming Ring 2",
+            "src": "/assets/logos/pool18.png"
+        },
+        "pool19": {
+            "title": "Umbrella 1",
+            "src": "/assets/logos/pool19.png"
+        },
+        "pool20": {
+            "title": "Umbrella 2",
+            "src": "/assets/logos/pool20.png"
+        },
+        "fitness1": {
+            "title": "Duty Room",
+            "src": "/assets/logos/fitness1.png"
+        },
+        "fitness2": {
+            "title": "Wood Post",
+            "src": "/assets/logos/fitness2.png"
+        },
+        "fitness3": {
+            "title": "Pavilion",
+            "src": "/assets/logos/fitness3.png"
+        },
+        "fitness4": {
+            "title": "Garbage Can 1",
+            "src": "/assets/logos/fitness4.png"
+        },
+        "fitness5": {
+            "title": "Garbage Can 2",
+            "src": "/assets/logos/fitness5.png"
+        },
+        "fitness6": {
+            "title": "Play Ground",
+            "src": "/assets/logos/fitness6.png"
+        },
+        "fitness7": {
+            "title": "Flower Bed",
+            "src": "/assets/logos/fitness7.png"
+        },
+        "fitness8": {
+            "title": "Fitness Equipment 1",
+            "src": "/assets/logos/fitness8.png"
+        },
+        "fitness9": {
+            "title": "Fitness Equipment 2",
+            "src": "/assets/logos/fitness9.png"
+        },
+        "fitness10": {
+            "title": "Fitness Equipment 3",
+            "src": "/assets/logos/fitness10.png"
+        },
+        "fitness11": {
+            "title": "Fitness Equipment 4",
+            "src": "/assets/logos/fitness11.png"
+        },
+        "fitness12": {
+            "title": "Children Play Area",
+            "src": "/assets/logos/fitness12.png"
+        }
+    },
+    "HVAC Symbols": {
+        "temperature": {
+            "title": "Temperature",
+            "src": "/assets/logos/temperature.png"
+        },
+        "humidity": {
+            "title": "Humidity",
+            "src": "/assets/logos/humidity.png"
+        },
+        "enthalpy": {
+            "title": "Enthalpy",
+            "src": "/assets/logos/enthalpy.png"
+        },
+        "pressure": {
+            "title": "Pressure",
+            "src": "/assets/logos/pressure.png"
+        },
+        "flow": {
+            "title": "Flow",
+            "src": "/assets/logos/flow.png"
+        },
+        "velocity": {
+            "title": "Velocity",
+            "src": "/assets/logos/velocity.png"
+        },
+        "voltage": {
+            "title": "Voltage",
+            "src": "/assets/logos/voltage.png"
+        },
+        "current": {
+            "title": "Current",
+            "src": "/assets/logos/current.png"
+        },
+        "rotation": {
+            "title": "Rotation",
+            "src": "/assets/logos/rotation.png"
+        },
+        "light": {
+            "title": "Light",
+            "src": "/assets/logos/light.png"
+        },
+        "vibration": {
+            "title": "Vibration",
+            "src": "/assets/logos/vibration.png"
+        },
+        "timer": {
+            "title": "Timer",
+            "src": "/assets/logos/timer.png"
+        },
+        "power": {
+            "title": "Power",
+            "src": "/assets/logos/power.png"
+        },
+        "airquality": {
+            "title": "Air quality",
+            "src": "/assets/logos/airquality.png"
+        },
+        "level": {
+            "title": "Level",
+            "src": "/assets/logos/level.png"
+        },
+        "endswitch": {
+            "title": "End switch",
+            "src": "/assets/logos/endswitch.png"
+        },
+        "smoke": {
+            "title": "Smoke",
+            "src": "/assets/logos/smoke.png"
+        },
+        "powerconnection": {
+            "title": "Power connection",
+            "src": "/assets/logos/powerconnection.png"
+        },
+        "io-point": {
+            "title": "I/O point",
+            "src": "/assets/logos/io-point.png"
+        },
+        "actuator": {
+            "title": "Actuator",
+            "src": "/assets/logos/actuator.png"
+        },
+        "connectorline": {
+            "title": "Connector line",
+            "src": "/assets/logos/connectorline.png"
+        },
+        "label": {
+            "title": "Label",
+            "src": "/assets/logos/label.png"
+        },
+        "pump": {
+            "title": "Pump",
+            "src": "/assets/logos/pump.png"
+        },
+        "rotarypump": {
+            "title": "Rotary pump",
+            "src": "/assets/logos/rotarypump.png"
+        },
+        "centrifugalpump": {
+            "title": "Centrifugal pump",
+            "src": "/assets/logos/centrifugalpump.png"
+        },
+        "reciprocatingpump": {
+            "title": "Reciprocating pump",
+            "src": "/assets/logos/reciprocatingpump.png"
+        },
+        "screwpump": {
+            "title": "Screw pump",
+            "src": "/assets/logos/screwpump.png"
+        },
+        "fan": {
+            "title": "Fan",
+            "src": "/assets/logos/fan.png"
+        },
+        "centrifugalfan": {
+            "title": "Centrifugal Fan",
+            "src": "/assets/logos/centrifugalfan.png"
+        },
+        "fanblades": {
+            "title": "Fan blades",
+            "src": "/assets/logos/fanblades.png"
+        },
+        "moistureeliminator": {
+            "title": "Moisture eliminator",
+            "src": "/assets/logos/moistureeliminator.png"
+        },
+        "silencer": {
+            "title": "Silencer",
+            "src": "/assets/logos/silencer.png"
+        },
+        "silencer2": {
+            "title": "Silencer 2",
+            "src": "/assets/logos/silencer2.png"
+        },
+        "condenser": {
+            "title": "Condenser",
+            "src": "/assets/logos/condenser.png"
+        },
+        "airfilter": {
+            "title": "Air filter",
+            "src": "/assets/logos/airfilter.png"
+        },
+        "drier": {
+            "title": "Drier",
+            "src": "/assets/logos/drier.png"
+        },
+        "pipecoil": {
+            "title": "Pipe coil",
+            "src": "/assets/logos/pipecoil.png"
+        },
+        "exhausthood": {
+            "title": "Exhaust hood",
+            "src": "/assets/logos/exhausthood.png"
+        },
+        "muffler": {
+            "title": "Muffler",
+            "src": "/assets/logos/muffler.png"
+        },
+        "airvolumecontrolvalve": {
+            "title": "Air volume control valve",
+            "src": "/assets/logos/airvolumecontrolvalve.png"
+        },
+        "thefilter": {
+            "title": "Filter",
+            "src": "/assets/logos/thefilter.png"
+        },
+        "regulator": {
+            "title": "Regulator",
+            "src": "/assets/logos/regulator.png"
+        },
+        "theheater": {
+            "title": "Heater",
+            "src": "/assets/logos/theheater.png"
+        },
+        "surfaceaircooler": {
+            "title": "Surface air cooler",
+            "src": "/assets/logos/surfaceaircooler.png"
+        },
+        "humidifier": {
+            "title": "Humidifier",
+            "src": "/assets/logos/humidifier.png"
+        },
+        "highefficiencyfilter": {
+            "title": "High efficiency filter",
+            "src": "/assets/logos/highefficiencyfilter.png"
+        },
+        "ozonegenerator": {
+            "title": "Ozone generator",
+            "src": "/assets/logos/ozonegenerator.png"
+        },
+        "primaryfilter-mid-effectfilter": {
+            "title": "Primary filter",
+            "src": "/assets/logos/primaryfilter-mid-effectfilter.png"
+        },
+        "aircompressor": {
+            "title": "Air compressor",
+            "src": "/assets/logos/aircompressor.png"
+        },
+        "oxygen-enrichedfilter": {
+            "title": "Oxygen-enriched filter",
+            "src": "/assets/logos/oxygen-enrichedfilter.png"
+        },
+        "membraneclearbox": {
+            "title": "Membrane clear box",
+            "src": "/assets/logos/membraneclearbox.png"
+        },
+        "vacuumpump": {
+            "title": "Vacuum pump",
+            "src": "/assets/logos/vacuumpump.png"
+        },
+        "valve": {
+            "title": "Valve",
+            "src": "/assets/logos/valve.png"
+        },
+        "vacuumgauge": {
+            "title": "Vacuum Gauge",
+            "src": "/assets/logos/vacuumgauge.png"
+        },
+        "steamseparator": {
+            "title": "Steam separator",
+            "src": "/assets/logos/steamseparator.png"
+        },
+        "pressurizersystem": {
+            "title": "Pressurizer system",
+            "src": "/assets/logos/pressurizersystem.png"
+        },
+        "dehumidifyingsystem": {
+            "title": "Dehumidifying system",
+            "src": "/assets/logos/dehumidifyingsystem.png"
+        },
+        "boosterfan": {
+            "title": "Booster fan",
+            "src": "/assets/logos/boosterfan.png"
+        },
+        "preheatingsystem": {
+            "title": "Preheating system",
+            "src": "/assets/logos/preheatingsystem.png"
+        },
+        "nozzle": {
+            "title": "Nozzle",
+            "src": "/assets/logos/nozzle.png"
+        },
+        "boiler": {
+            "title": "Boiler",
+            "src": "/assets/logos/boiler.png"
+        },
+        "coldwaterpump": {
+            "title": "Cold water pump",
+            "src": "/assets/logos/coldwaterpump.png"
+        },
+        "flowvalve": {
+            "title": "Flow valve",
+            "src": "/assets/logos/flowvalve.png"
+        },
+        "watertower": {
+            "title": "Water tower",
+            "src": "/assets/logos/watertower.png"
+        },
+        "supplyairgrill": {
+            "title": "Supply air grill",
+            "src": "/assets/logos/supplyairgrill.png"
+        },
+        "pipenetwork": {
+            "title": "Pipe network",
+            "src": "/assets/logos/pipenetwork.png"
+        },
+        "coolingcoil": {
+            "title": "Cooling coil",
+            "src": "/assets/logos/coolingcoil.png"
+        },
+        "returnairgrill": {
+            "title": "Return air grill",
+            "src": "/assets/logos/returnairgrill.png"
+        },
+        "pipeline": {
+            "title": "Pipeline",
+            "src": "/assets/logos/pipeline.png"
+        },
+        "zonedamper": {
+            "title": "Zone damper",
+            "src": "/assets/logos/zonedamper.png"
+        },
+        "outsideairduct": {
+            "title": "Outside air duct",
+            "src": "/assets/logos/outsideairduct.png"
+        },
+        "ventilator": {
+            "title": "Ventilator",
+            "src": "/assets/logos/ventilator.png"
+        },
+        "refrigerantreceiver": {
+            "title": "Refrigerant receiver",
+            "src": "/assets/logos/refrigerantreceiver.png"
+        },
+        "chiller": {
+            "title": "Chiller",
+            "src": "/assets/logos/chiller.png"
+        },
+        "axiafan": {
+            "title": "Axia fan",
+            "src": "/assets/logos/axiafan.png"
+        },
+        "accessdoor": {
+            "title": "Access door",
+            "src": "/assets/logos/accessdoor.png"
+        },
+        "straightduct": {
+            "title": "Straight duct",
+            "src": "/assets/logos/straightduct.png"
+        },
+        "miterbend": {
+            "title": "Miter bend",
+            "src": "/assets/logos/miterbend.png"
+        },
+        "miterbend2": {
+            "title": "Miter bend 2",
+            "src": "/assets/logos/miterbend2.png"
+        },
+        "miterbend3": {
+            "title": "Miter bend 3",
+            "src": "/assets/logos/miterbend3.png"
+        },
+        "miterbend4": {
+            "title": "Miter bend 4",
+            "src": "/assets/logos/miterbend4.png"
+        },
+        "variablebend": {
+            "title": "Variable bend",
+            "src": "/assets/logos/variablebend.png"
+        },
+        "variablebend2": {
+            "title": "Variable bend 2",
+            "src": "/assets/logos/variablebend2.png"
+        },
+        "branchduct": {
+            "title": "Branch duct",
+            "src": "/assets/logos/branchduct.png"
+        },
+        "branchduct2": {
+            "title": "Branch duct 2",
+            "src": "/assets/logos/branchduct2.png"
+        },
+        "junctionbottom": {
+            "title": "Junction bottom",
+            "src": "/assets/logos/junctionbottom.png"
+        },
+        "junctionup": {
+            "title": "Junction up",
+            "src": "/assets/logos/junctionup.png"
+        },
+        "3wayjunction": {
+            "title": "3 way junction",
+            "src": "/assets/logos/3wayjunction.png"
+        },
+        "yjunction": {
+            "title": "Y junction",
+            "src": "/assets/logos/yjunction.png"
+        },
+        "beveledjunction": {
+            "title": "Beveled junction",
+            "src": "/assets/logos/beveledjunction.png"
+        },
+        "transition": {
+            "title": "Transition",
+            "src": "/assets/logos/transition.png"
+        },
+        "offsettransition": {
+            "title": "Offset transition",
+            "src": "/assets/logos/offsettransition.png"
+        },
+        "supply": {
+            "title": "Supply",
+            "src": "/assets/logos/supply.png"
+        },
+        "return": {
+            "title": "Return",
+            "src": "/assets/logos/return.png"
+        },
+        "flexibleconnection1": {
+            "title": "Flexible connection 1",
+            "src": "/assets/logos/flexibleconnection1.png"
+        },
+        "flexibleconnector": {
+            "title": "Flexible connector",
+            "src": "/assets/logos/flexibleconnector.png"
+        },
+        "verticalduct": {
+            "title": "Vertical duct",
+            "src": "/assets/logos/verticalduct.png"
+        },
+        "vavbox": {
+            "title": "VAV Box",
+            "src": "/assets/logos/vavbox.png"
+        },
+        "slidingdamper": {
+            "title": "Sliding damper",
+            "src": "/assets/logos/slidingdamper.png"
+        },
+        "damper": {
+            "title": "Damper",
+            "src": "/assets/logos/damper.png"
+        },
+        "duct": {
+            "title": "Duct",
+            "src": "/assets/logos/duct.png"
+        },
+        "returnduct": {
+            "title": "Return Duct",
+            "src": "/assets/logos/returnduct.png"
+        },
+        "returnduct2": {
+            "title": "Return Duct 2",
+            "src": "/assets/logos/returnduct2.png"
+        },
+        "supplyduct": {
+            "title": "Supply Duct",
+            "src": "/assets/logos/supplyduct.png"
+        },
+        "supplyduct2": {
+            "title": "Supply Duct 2",
+            "src": "/assets/logos/supplyduct2.png"
+        },
+        "2-fansections": {
+            "title": "2-Fan Sections",
+            "src": "/assets/logos/2-fansections.png"
+        },
+        "3-fansections": {
+            "title": "3-Fan Sections",
+            "src": "/assets/logos/3-fansections.png"
+        },
+        "4-fansections": {
+            "title": "4-Fan Sections",
+            "src": "/assets/logos/4-fansections.png"
+        },
+        "ddvavbox": {
+            "title": "DD VAV Box",
+            "src": "/assets/logos/ddvavbox.png"
+        },
+        "faincoilhousing": {
+            "title": "Fain Coil Housing",
+            "src": "/assets/logos/faincoilhousing.png"
+        },
+        "unitheater": {
+            "title": "Unit Heater",
+            "src": "/assets/logos/unitheater.png"
+        },
+        "propellerfan": {
+            "title": "Propeller Fan",
+            "src": "/assets/logos/propellerfan.png"
+        },
+        "vaneaxialfan": {
+            "title": "Vane Axial Fan",
+            "src": "/assets/logos/vaneaxialfan.png"
+        },
+        "filter": {
+            "title": "Filter",
+            "src": "/assets/logos/filter.png"
+        },
+        "airflowstation": {
+            "title": "Air Flow Station",
+            "src": "/assets/logos/airflowstation.png"
+        },
+        "htg-clg-coil": {
+            "title": "Htg/Clg Coil",
+            "src": "/assets/logos/htg-clg-coil.png"
+        },
+        "gatevalve": {
+            "title": "Gate Valve",
+            "src": "/assets/logos/gatevalve.png"
+        },
+        "waterflowmeter": {
+            "title": "Water Flow Meter",
+            "src": "/assets/logos/waterflowmeter.png"
+        },
+        "coolingtower": {
+            "title": "Cooling Tower",
+            "src": "/assets/logos/coolingtower.png"
+        },
+        "equipment": {
+            "title": "Equipment",
+            "src": "/assets/logos/equipment.png"
+        },
+        "vsd": {
+            "title": "VSD",
+            "src": "/assets/logos/vsd.png"
+        },
+        "start": {
+            "title": "Start",
+            "src": "/assets/logos/start.png"
+        },
+        "sidetosidepipe": {
+            "title": "Side to Side Pipe",
+            "src": "/assets/logos/sidetosidepipe.png"
+        },
+        "toptobottompipe": {
+            "title": "Top to Bottom Pipe",
+            "src": "/assets/logos/toptobottompipe.png"
+        },
+        "sidetobottompipe": {
+            "title": "Side to Bottom Pipe",
+            "src": "/assets/logos/sidetobottompipe.png"
+        },
+        "pipeflowarrow": {
+            "title": "Pipe Flow Arrow",
+            "src": "/assets/logos/pipeflowarrow.png"
+        }
+    },
+    "Kitchen and Dinning Room Symbols": {
+        "kitchen1": {
+            "title": "Refrigerator 1",
+            "src": "/assets/logos/kitchen1.png"
+        },
+        "kitchen2": {
+            "title": "Refrigerator 2",
+            "src": "/assets/logos/kitchen2.png"
+        },
+        "kitchen3": {
+            "title": "Refrigerator 3",
+            "src": "/assets/logos/kitchen3.png"
+        },
+        "kitchen4": {
+            "title": "Refrigerator 4",
+            "src": "/assets/logos/kitchen4.png"
+        },
+        "kitchen92": {
+            "title": "Closet 5",
+            "src": "/assets/logos/kitchen92.png"
+        },
+        "kitchen5": {
+            "title": "Refrigerator 5",
+            "src": "/assets/logos/kitchen5.png"
+        },
+        "kitchen6": {
+            "title": "Refrigerator 6",
+            "src": "/assets/logos/kitchen6.png"
+        },
+        "kitchen7": {
+            "title": "Refrigerator 7",
+            "src": "/assets/logos/kitchen7.png"
+        },
+        "kitchen8": {
+            "title": "Refrigerator 8",
+            "src": "/assets/logos/kitchen8.png"
+        },
+        "kitchen9": {
+            "title": "Two-Door Refrigerator",
+            "src": "/assets/logos/kitchen9.png"
+        },
+        "kitchen10": {
+            "title": "Kitchen Ventilator 1",
+            "src": "/assets/logos/kitchen10.png"
+        },
+        "kitchen11": {
+            "title": "Kitchen Ventilator 2",
+            "src": "/assets/logos/kitchen11.png"
+        },
+        "kitchen12": {
+            "title": "Kitchen Ventilator 3",
+            "src": "/assets/logos/kitchen12.png"
+        },
+        "kitchen13": {
+            "title": "Kitchen Ventilator 4",
+            "src": "/assets/logos/kitchen13.png"
+        },
+        "kitchen14": {
+            "title": "Microwave Oven 1",
+            "src": "/assets/logos/kitchen14.png"
+        },
+        "kitchen15": {
+            "title": "Microwave Oven 2",
+            "src": "/assets/logos/kitchen15.png"
+        },
+        "kitchen16": {
+            "title": "Turner 1",
+            "src": "/assets/logos/kitchen16.png"
+        },
+        "kitchen17": {
+            "title": "Turner 2",
+            "src": "/assets/logos/kitchen17.png"
+        },
+        "kitchen18": {
+            "title": "Soup Ladle",
+            "src": "/assets/logos/kitchen18.png"
+        },
+        "kitchen19": {
+            "title": "Kitchen Ware",
+            "src": "/assets/logos/kitchen19.png"
+        },
+        "kitchen20": {
+            "title": "Teapot",
+            "src": "/assets/logos/kitchen20.png"
+        },
+        "kitchen21": {
+            "title": "Teacup 1",
+            "src": "/assets/logos/kitchen21.png"
+        },
+        "kitchen22": {
+            "title": "Teacup 2",
+            "src": "/assets/logos/kitchen22.png"
+        },
+        "kitchen23": {
+            "title": "Teacup 3",
+            "src": "/assets/logos/kitchen23.png"
+        },
+        "kitchen24": {
+            "title": "Kettle",
+            "src": "/assets/logos/kitchen24.png"
+        },
+        "kitchen25": {
+            "title": "Steamer",
+            "src": "/assets/logos/kitchen25.png"
+        },
+        "kitchen26": {
+            "title": "Frying Pan",
+            "src": "/assets/logos/kitchen26.png"
+        },
+        "kitchen27": {
+            "title": "Chafing Dish",
+            "src": "/assets/logos/kitchen27.png"
+        },
+        "kitchen28": {
+            "title": "Sauce Pan",
+            "src": "/assets/logos/kitchen28.png"
+        },
+        "kitchen29": {
+            "title": "Gas Cooker",
+            "src": "/assets/logos/kitchen29.png"
+        },
+        "kitchen30": {
+            "title": "Disinfection Machine",
+            "src": "/assets/logos/kitchen30.png"
+        },
+        "kitchen31": {
+            "title": "Disinfection Machine 2",
+            "src": "/assets/logos/kitchen31.png"
+        },
+        "kitchen32": {
+            "title": "Range Hood",
+            "src": "/assets/logos/kitchen32.png"
+        },
+        "kitchen33": {
+            "title": "Washer 1",
+            "src": "/assets/logos/kitchen33.png"
+        },
+        "kitchen34": {
+            "title": "Washer 2",
+            "src": "/assets/logos/kitchen34.png"
+        },
+        "kitchen35": {
+            "title": "Detergent 1",
+            "src": "/assets/logos/kitchen35.png"
+        },
+        "kitchen36": {
+            "title": "Detergent 2",
+            "src": "/assets/logos/kitchen36.png"
+        },
+        "kitchen37": {
+            "title": "Detergent 3",
+            "src": "/assets/logos/kitchen37.png"
+        },
+        "kitchen38": {
+            "title": "Shampoo",
+            "src": "/assets/logos/kitchen38.png"
+        },
+        "kitchen39": {
+            "title": "Shower Cream",
+            "src": "/assets/logos/kitchen39.png"
+        },
+        "kitchen40": {
+            "title": "Sink 2",
+            "src": "/assets/logos/kitchen40.png"
+        },
+        "kitchen41": {
+            "title": "Sink 3",
+            "src": "/assets/logos/kitchen41.png"
+        },
+        "kitchen42": {
+            "title": "Sink 4",
+            "src": "/assets/logos/kitchen42.png"
+        },
+        "kitchen43": {
+            "title": "Sink 5",
+            "src": "/assets/logos/kitchen43.png"
+        },
+        "kitchen44": {
+            "title": "Sink 6",
+            "src": "/assets/logos/kitchen44.png"
+        },
+        "kitchen45": {
+            "title": "Sink 7",
+            "src": "/assets/logos/kitchen45.png"
+        },
+        "kitchen46": {
+            "title": "Sink 8",
+            "src": "/assets/logos/kitchen46.png"
+        },
+        "kitchen47": {
+            "title": "Sink 9",
+            "src": "/assets/logos/kitchen47.png"
+        },
+        "kitchen48": {
+            "title": "Sink 10",
+            "src": "/assets/logos/kitchen48.png"
+        },
+        "kitchen49": {
+            "title": "Basin",
+            "src": "/assets/logos/kitchen49.png"
+        },
+        "kitchen50": {
+            "title": "Double Basin",
+            "src": "/assets/logos/kitchen50.png"
+        },
+        "kitchen51": {
+            "title": "Pedestal Basin",
+            "src": "/assets/logos/kitchen51.png"
+        },
+        "kitchen52": {
+            "title": "Countertop Sink",
+            "src": "/assets/logos/kitchen52.png"
+        },
+        "kitchen53": {
+            "title": "Dispenser",
+            "src": "/assets/logos/kitchen53.png"
+        },
+        "kitchen54": {
+            "title": "Towel Rack",
+            "src": "/assets/logos/kitchen54.png"
+        },
+        "kitchen55": {
+            "title": "Circular Dining Table",
+            "src": "/assets/logos/kitchen55.png"
+        },
+        "kitchen56": {
+            "title": "Circle Table",
+            "src": "/assets/logos/kitchen56.png"
+        },
+        "kitchen57": {
+            "title": "Dining Table",
+            "src": "/assets/logos/kitchen57.png"
+        },
+        "kitchen58": {
+            "title": "Oblong Dining Table",
+            "src": "/assets/logos/kitchen58.png"
+        },
+        "kitchen59": {
+            "title": "Oval Dining Table",
+            "src": "/assets/logos/kitchen59.png"
+        },
+        "kitchen60": {
+            "title": "Square Table",
+            "src": "/assets/logos/kitchen60.png"
+        },
+        "kitchen61": {
+            "title": "Ref",
+            "src": "/assets/logos/kitchen61.png"
+        },
+        "kitchen62": {
+            "title": "Ref 2",
+            "src": "/assets/logos/kitchen62.png"
+        },
+        "kitchen63": {
+            "title": "Cabinet",
+            "src": "/assets/logos/kitchen63.png"
+        },
+        "kitchen64": {
+            "title": "Cabinet 2",
+            "src": "/assets/logos/kitchen64.png"
+        },
+        "kitchen65": {
+            "title": "Cabinet 3",
+            "src": "/assets/logos/kitchen65.png"
+        },
+        "kitchen66": {
+            "title": "Toaster",
+            "src": "/assets/logos/kitchen66.png"
+        },
+        "kitchen67": {
+            "title": "Toaster 2",
+            "src": "/assets/logos/kitchen67.png"
+        },
+        "kitchen68": {
+            "title": "Oven",
+            "src": "/assets/logos/kitchen68.png"
+        },
+        "kitchen69": {
+            "title": "Electric Barbecue",
+            "src": "/assets/logos/kitchen69.png"
+        },
+        "kitchen70": {
+            "title": "Sauce Pan",
+            "src": "/assets/logos/kitchen70.png"
+        },
+        "kitchen71": {
+            "title": "Sauce Pan 2",
+            "src": "/assets/logos/kitchen71.png"
+        },
+        "kitchen72": {
+            "title": "Slow Cooker",
+            "src": "/assets/logos/kitchen72.png"
+        },
+        "kitchen73": {
+            "title": "Slow Cooker 2",
+            "src": "/assets/logos/kitchen73.png"
+        },
+        "kitchen74": {
+            "title": "Induction Cooker",
+            "src": "/assets/logos/kitchen74.png"
+        },
+        "kitchen75": {
+            "title": "Pan",
+            "src": "/assets/logos/kitchen75.png"
+        },
+        "kitchen76": {
+            "title": "Dish",
+            "src": "/assets/logos/kitchen76.png"
+        },
+        "kitchen77": {
+            "title": "Dish 2",
+            "src": "/assets/logos/kitchen77.png"
+        },
+        "kitchen78": {
+            "title": "Fruit Plate",
+            "src": "/assets/logos/kitchen78.png"
+        },
+        "kitchen79": {
+            "title": "Fruit Plate 2",
+            "src": "/assets/logos/kitchen79.png"
+        },
+        "kitchen80": {
+            "title": "Chopping Board",
+            "src": "/assets/logos/kitchen80.png"
+        },
+        "kitchen81": {
+            "title": "Smoke Machine",
+            "src": "/assets/logos/kitchen81.png"
+        },
+        "kitchen82": {
+            "title": "Disinfection Cabinet",
+            "src": "/assets/logos/kitchen82.png"
+        },
+        "kitchen83": {
+            "title": "Refrigerator",
+            "src": "/assets/logos/kitchen83.png"
+        },
+        "kitchen84": {
+            "title": "Refrigerator 2",
+            "src": "/assets/logos/kitchen84.png"
+        },
+        "kitchen85": {
+            "title": "Flue",
+            "src": "/assets/logos/kitchen85.png"
+        },
+        "kitchen86": {
+            "title": "Placement",
+            "src": "/assets/logos/kitchen86.png"
+        },
+        "kitchen87": {
+            "title": "Chest Freezer",
+            "src": "/assets/logos/kitchen87.png"
+        },
+        "kitchen88": {
+            "title": "Built-in Refrigerator",
+            "src": "/assets/logos/kitchen88.png"
+        },
+        "kitchen89": {
+            "title": "Water Cooler",
+            "src": "/assets/logos/kitchen89.png"
+        },
+        "kitchen90": {
+            "title": "Coffee Maker",
+            "src": "/assets/logos/kitchen90.png"
+        },
+        "kitchen91": {
+            "title": "Water Heater",
+            "src": "/assets/logos/kitchen91.png"
+        }
+    },
+    "Office Symbols": {
+        "office-E1": {
+            "title": "Desktop PC",
+            "src": "/assets/logos/office-E1.png"
+        },
+        "office-E2": {
+            "title": "PC",
+            "src": "/assets/logos/office-E2.png"
+        },
+        "office-E3": {
+            "title": "Phone",
+            "src": "/assets/logos/office-E3.png"
+        },
+        "office-E4": {
+            "title": "Mobile Phone",
+            "src": "/assets/logos/office-E4.png"
+        },
+        "office-E5": {
+            "title": "Fax",
+            "src": "/assets/logos/office-E5.png"
+        },
+        "office-E6": {
+            "title": "PC Monitor",
+            "src": "/assets/logos/office-E6.png"
+        },
+        "office-E7": {
+            "title": "Keyboard",
+            "src": "/assets/logos/office-E7.png"
+        },
+        "office-E8": {
+            "title": "Tower PC",
+            "src": "/assets/logos/office-E8.png"
+        },
+        "office-E9": {
+            "title": "Mouse",
+            "src": "/assets/logos/office-E9.png"
+        },
+        "office-E10": {
+            "title": "Modem",
+            "src": "/assets/logos/office-E10.png"
+        },
+        "office-E11": {
+            "title": "Scanner",
+            "src": "/assets/logos/office-E11.png"
+        },
+        "office-E12": {
+            "title": "Printer",
+            "src": "/assets/logos/office-E12.png"
+        },
+        "office-E13": {
+            "title": "Xerox",
+            "src": "/assets/logos/office-E13.png"
+        },
+        "office-E14": {
+            "title": "Plotter",
+            "src": "/assets/logos/office-E14.png"
+        },
+        "office-E15": {
+            "title": "Document Shredder",
+            "src": "/assets/logos/office-E15.png"
+        },
+        "office-E16": {
+            "title": "Router",
+            "src": "/assets/logos/office-E16.png"
+        },
+        "office-E17": {
+            "title": "Switch",
+            "src": "/assets/logos/office-E17.png"
+        },
+        "office-E18": {
+            "title": "Wireless Hub",
+            "src": "/assets/logos/office-E18.png"
+        },
+        "office-E19": {
+            "title": "Hub",
+            "src": "/assets/logos/office-E19.png"
+        },
+        "office-E20": {
+            "title": "Office Lamp",
+            "src": "/assets/logos/office-E20.png"
+        },
+        "office-E21": {
+            "title": "Projector",
+            "src": "/assets/logos/office-E21.png"
+        },
+        "office-E22": {
+            "title": "Overhead Projector",
+            "src": "/assets/logos/office-E22.png"
+        },
+        "office-E23": {
+            "title": "Projector Screen",
+            "src": "/assets/logos/office-E23.png"
+        },
+        "office-E24": {
+            "title": "Marker Board",
+            "src": "/assets/logos/office-E24.png"
+        },
+        "office-E25": {
+            "title": "Plasma Panel",
+            "src": "/assets/logos/office-E25.png"
+        },
+        "office-E26": {
+            "title": "Cash Register",
+            "src": "/assets/logos/office-E26.png"
+        },
+        "office-E27": {
+            "title": "POS-Terminal",
+            "src": "/assets/logos/office-E27.png"
+        },
+        "office-E28": {
+            "title": "Paper Tray",
+            "src": "/assets/logos/office-E28.png"
+        },
+        "office-E29": {
+            "title": "Coat Rack",
+            "src": "/assets/logos/office-E29.png"
+        },
+        "office-E30": {
+            "title": "Waste Can",
+            "src": "/assets/logos/office-E30.png"
+        },
+        "office-f1": {
+            "title": "Single Cubicle",
+            "src": "/assets/logos/office-f1.png"
+        },
+        "office-f2": {
+            "title": "2 Seats Cubicle",
+            "src": "/assets/logos/office-f2.png"
+        },
+        "office-f3": {
+            "title": "2 Seats Cubicle 2",
+            "src": "/assets/logos/office-f3.png"
+        },
+        "office-f4": {
+            "title": "2 Seats Cubicle 3",
+            "src": "/assets/logos/office-f4.png"
+        },
+        "office-f5": {
+            "title": "Cubicle 1",
+            "src": "/assets/logos/office-f5.png"
+        },
+        "office-f66": {
+            "title": "Cubicle 2",
+            "src": "/assets/logos/office-f66.png"
+        },
+        "office-f6": {
+            "title": "Cubicle 3",
+            "src": "/assets/logos/office-f6.png"
+        },
+        "office-f7": {
+            "title": "Cubicle 4",
+            "src": "/assets/logos/office-f7.png"
+        },
+        "office-f8": {
+            "title": "Cubicle 5",
+            "src": "/assets/logos/office-f8.png"
+        },
+        "office-f9": {
+            "title": "Cubicle 6",
+            "src": "/assets/logos/office-f9.png"
+        },
+        "office-f10": {
+            "title": "Cubicle 7",
+            "src": "/assets/logos/office-f10.png"
+        },
+        "office-f11": {
+            "title": "Straight Workstation",
+            "src": "/assets/logos/office-f11.png"
+        },
+        "office-f12": {
+            "title": "Council Workstation",
+            "src": "/assets/logos/office-f12.png"
+        },
+        "office-f13": {
+            "title": "L Workstation",
+            "src": "/assets/logos/office-f13.png"
+        },
+        "office-f14": {
+            "title": "Table",
+            "src": "/assets/logos/office-f14.png"
+        },
+        "office-f15": {
+            "title": "Round Table",
+            "src": "/assets/logos/office-f15.png"
+        },
+        "office-f16": {
+            "title": "Desk",
+            "src": "/assets/logos/office-f16.png"
+        },
+        "office-f17": {
+            "title": "Racetrack Table",
+            "src": "/assets/logos/office-f17.png"
+        },
+        "office-f18": {
+            "title": "Boat Table",
+            "src": "/assets/logos/office-f18.png"
+        },
+        "office-f19": {
+            "title": "4 Seats Table",
+            "src": "/assets/logos/office-f19.png"
+        },
+        "office-f20": {
+            "title": "6 Seats Table",
+            "src": "/assets/logos/office-f20.png"
+        },
+        "office-f21": {
+            "title": "8 Seats Table",
+            "src": "/assets/logos/office-f21.png"
+        },
+        "office-f22": {
+            "title": "10 Seats Table",
+            "src": "/assets/logos/office-f22.png"
+        },
+        "office-f23": {
+            "title": "10 Seats Table 2",
+            "src": "/assets/logos/office-f23.png"
+        },
+        "office-f24": {
+            "title": "10 Seats Table 3",
+            "src": "/assets/logos/office-f24.png"
+        },
+        "office-f25": {
+            "title": "12 Seats Table",
+            "src": "/assets/logos/office-f25.png"
+        },
+        "office-f26": {
+            "title": "16 Seats Table",
+            "src": "/assets/logos/office-f26.png"
+        },
+        "office-f27": {
+            "title": "Multi-chair Round Table",
+            "src": "/assets/logos/office-f27.png"
+        },
+        "office-f28": {
+            "title": "Corner Table",
+            "src": "/assets/logos/office-f28.png"
+        },
+        "office-f29": {
+            "title": "Round Corner",
+            "src": "/assets/logos/office-f29.png"
+        },
+        "office-f30": {
+            "title": "Work Surface",
+            "src": "/assets/logos/office-f30.png"
+        },
+        "office-f31": {
+            "title": "Conner Surface",
+            "src": "/assets/logos/office-f31.png"
+        },
+        "office-f32": {
+            "title": "Conner Surface 2",
+            "src": "/assets/logos/office-f32.png"
+        },
+        "office-f33": {
+            "title": "Conner Surface 3",
+            "src": "/assets/logos/office-f33.png"
+        },
+        "office-f34": {
+            "title": "Conner Surface 4",
+            "src": "/assets/logos/office-f34.png"
+        },
+        "office-f35": {
+            "title": "Work Peninsula",
+            "src": "/assets/logos/office-f35.png"
+        },
+        "office-f36": {
+            "title": "Book Shelf",
+            "src": "/assets/logos/office-f36.png"
+        },
+        "office-f37": {
+            "title": "Credenza",
+            "src": "/assets/logos/office-f37.png"
+        },
+        "office-f38": {
+            "title": "Pedestal",
+            "src": "/assets/logos/office-f38.png"
+        },
+        "office-f39": {
+            "title": "Cabinet",
+            "src": "/assets/logos/office-f39.png"
+        },
+        "office-f40": {
+            "title": "Cabinet 2",
+            "src": "/assets/logos/office-f40.png"
+        },
+        "office-f41": {
+            "title": "Cabinet 3",
+            "src": "/assets/logos/office-f41.png"
+        },
+        "office-f42": {
+            "title": "Storage Unit",
+            "src": "/assets/logos/office-f42.png"
+        },
+        "office-f43": {
+            "title": "Susp Coat Bar",
+            "src": "/assets/logos/office-f43.png"
+        },
+        "office-f44": {
+            "title": "Susp Open Shelf",
+            "src": "/assets/logos/office-f44.png"
+        },
+        "office-f45": {
+            "title": "Suspended Lateral File",
+            "src": "/assets/logos/office-f45.png"
+        },
+        "office-f46": {
+            "title": "File",
+            "src": "/assets/logos/office-f46.png"
+        },
+        "office-f47": {
+            "title": "Lateral File",
+            "src": "/assets/logos/office-f47.png"
+        },
+        "office-f48": {
+            "title": "Flat File",
+            "src": "/assets/logos/office-f48.png"
+        },
+        "office-f49": {
+            "title": "Swivel Tilt Chair",
+            "src": "/assets/logos/office-f49.png"
+        },
+        "office-f50": {
+            "title": "2 Seat Sofa",
+            "src": "/assets/logos/office-f50.png"
+        },
+        "office-f51": {
+            "title": "3 Seat Sofa",
+            "src": "/assets/logos/office-f51.png"
+        },
+        "office-f52": {
+            "title": "4 Seat Sofa",
+            "src": "/assets/logos/office-f52.png"
+        },
+        "office-f53": {
+            "title": "90 Deg Table",
+            "src": "/assets/logos/office-f53.png"
+        },
+        "office-f54": {
+            "title": "Chair 1",
+            "src": "/assets/logos/office-f54.png"
+        },
+        "office-f55": {
+            "title": "Chair 2",
+            "src": "/assets/logos/office-f55.png"
+        },
+        "office-f56": {
+            "title": "Chair 3",
+            "src": "/assets/logos/office-f56.png"
+        },
+        "office-f57": {
+            "title": "30 Deg Seat",
+            "src": "/assets/logos/office-f57.png"
+        },
+        "office-f58": {
+            "title": "Desk Chair",
+            "src": "/assets/logos/office-f58.png"
+        },
+        "office-f59": {
+            "title": "High Stool",
+            "src": "/assets/logos/office-f59.png"
+        },
+        "office-f60": {
+            "title": "Stool",
+            "src": "/assets/logos/office-f60.png"
+        },
+        "office-f61": {
+            "title": "Panel",
+            "src": "/assets/logos/office-f61.png"
+        },
+        "office-f62": {
+            "title": "2 Panel",
+            "src": "/assets/logos/office-f62.png"
+        },
+        "office-f63": {
+            "title": "3 Panel",
+            "src": "/assets/logos/office-f63.png"
+        },
+        "office-f64": {
+            "title": "4 Panel",
+            "src": "/assets/logos/office-f64.png"
+        },
+        "office-f65": {
+            "title": "Cross Panel",
+            "src": "/assets/logos/office-f65.png"
+        }
+    },
+    "Plumbing and Piping Symbols": {
+        "plumbing1": {
+            "title": "Bolier",
+            "src": "/assets/logos/plumbing1.png"
+        },
+        "plumbing2": {
+            "title": "Bolier 2",
+            "src": "/assets/logos/plumbing2.png"
+        },
+        "plumbing3": {
+            "title": "Heat Exchanges",
+            "src": "/assets/logos/plumbing3.png"
+        },
+        "plumbing4": {
+            "title": "Heating / Cooling Coil",
+            "src": "/assets/logos/plumbing4.png"
+        },
+        "plumbing5": {
+            "title": "Heating / Cooling Coil",
+            "src": "/assets/logos/plumbing5.png"
+        },
+        "plumbing6": {
+            "title": "Pump",
+            "src": "/assets/logos/plumbing6.png"
+        },
+        "plumbing7": {
+            "title": "Pump 2",
+            "src": "/assets/logos/plumbing7.png"
+        },
+        "plumbing8": {
+            "title": "Heater / Cooler",
+            "src": "/assets/logos/plumbing8.png"
+        },
+        "plumbing9": {
+            "title": "Radiator",
+            "src": "/assets/logos/plumbing9.png"
+        },
+        "plumbing10": {
+            "title": "Convector",
+            "src": "/assets/logos/plumbing10.png"
+        },
+        "plumbing11": {
+            "title": "Radiant Panel",
+            "src": "/assets/logos/plumbing11.png"
+        },
+        "plumbing12": {
+            "title": "Radiant Panel 2",
+            "src": "/assets/logos/plumbing12.png"
+        },
+        "plumbing13": {
+            "title": "Open Tank",
+            "src": "/assets/logos/plumbing13.png"
+        },
+        "plumbing14": {
+            "title": "Closed Tank",
+            "src": "/assets/logos/plumbing14.png"
+        },
+        "plumbing15": {
+            "title": "Water Surface",
+            "src": "/assets/logos/plumbing15.png"
+        },
+        "plumbing16": {
+            "title": "Pipe Coil",
+            "src": "/assets/logos/plumbing16.png"
+        },
+        "plumbing17": {
+            "title": "Sink",
+            "src": "/assets/logos/plumbing17.png"
+        },
+        "plumbing18": {
+            "title": "Basin",
+            "src": "/assets/logos/plumbing18.png"
+        },
+        "plumbing19": {
+            "title": "Toilet",
+            "src": "/assets/logos/plumbing19.png"
+        },
+        "plumbing20": {
+            "title": "Bath",
+            "src": "/assets/logos/plumbing20.png"
+        },
+        "plumbing21": {
+            "title": "Basin (Side)",
+            "src": "/assets/logos/plumbing21.png"
+        },
+        "plumbing22": {
+            "title": "Toilet (Side)",
+            "src": "/assets/logos/plumbing22.png"
+        },
+        "plumbing23": {
+            "title": "Bath (Side)",
+            "src": "/assets/logos/plumbing23.png"
+        },
+        "plumbing24": {
+            "title": "End View",
+            "src": "/assets/logos/plumbing24.png"
+        },
+        "plumbing25": {
+            "title": "Shower Head",
+            "src": "/assets/logos/plumbing25.png"
+        },
+        "plumbing26": {
+            "title": "Towel Rail",
+            "src": "/assets/logos/plumbing26.png"
+        },
+        "piping1": {
+            "title": "Major Pipeline",
+            "src": "/assets/logos/piping1.png"
+        },
+        "piping2": {
+            "title": "Connect Pipeline",
+            "src": "/assets/logos/piping2.png"
+        },
+        "piping3": {
+            "title": "Major Straight Pipeline",
+            "src": "/assets/logos/piping3.png"
+        },
+        "piping4": {
+            "title": "Straight Line Pipe",
+            "src": "/assets/logos/piping4.png"
+        },
+        "piping5": {
+            "title": "Process Connection",
+            "src": "/assets/logos/piping5.png"
+        },
+        "piping6": {
+            "title": "Future Line",
+            "src": "/assets/logos/piping6.png"
+        },
+        "piping7": {
+            "title": "Battery Limit Line",
+            "src": "/assets/logos/piping7.png"
+        },
+        "piping8": {
+            "title": "Side by Side",
+            "src": "/assets/logos/piping8.png"
+        },
+        "piping9": {
+            "title": "Top-Bottom",
+            "src": "/assets/logos/piping9.png"
+        },
+        "piping10": {
+            "title": "One-to-Many",
+            "src": "/assets/logos/piping10.png"
+        },
+        "piping11": {
+            "title": "Traced Line",
+            "src": "/assets/logos/piping11.png"
+        },
+        "piping12": {
+            "title": "Multi-Lines",
+            "src": "/assets/logos/piping12.png"
+        },
+        "piping13": {
+            "title": "Mid Arrow",
+            "src": "/assets/logos/piping13.png"
+        },
+        "piping14": {
+            "title": "Multi-Lines Elbow",
+            "src": "/assets/logos/piping14.png"
+        },
+        "piping15": {
+            "title": "Top to Top",
+            "src": "/assets/logos/piping15.png"
+        },
+        "piping16": {
+            "title": "Electrical Signal",
+            "src": "/assets/logos/piping16.png"
+        },
+        "piping17": {
+            "title": "Sonic Signal",
+            "src": "/assets/logos/piping17.png"
+        },
+        "piping18": {
+            "title": "Nuclear",
+            "src": "/assets/logos/piping18.png"
+        },
+        "piping19": {
+            "title": "Pneumatic Control",
+            "src": "/assets/logos/piping19.png"
+        },
+        "piping20": {
+            "title": "Pneumatic Binary Signal Line",
+            "src": "/assets/logos/piping20.png"
+        },
+        "piping21": {
+            "title": "Electric Signal Line",
+            "src": "/assets/logos/piping21.png"
+        },
+        "piping-22": {
+            "title": "Electric Binary Signal Line",
+            "src": "/assets/logos/piping-22.png"
+        },
+        "piping23": {
+            "title": "Electric Binary Signal Line 2",
+            "src": "/assets/logos/piping23.png"
+        },
+        "piping24": {
+            "title": "Hydraulic Signal Line",
+            "src": "/assets/logos/piping24.png"
+        },
+        "piping25": {
+            "title": "Sleeve Joint",
+            "src": "/assets/logos/piping25.png"
+        },
+        "piping26": {
+            "title": "General Joint",
+            "src": "/assets/logos/piping26.png"
+        },
+        "piping27": {
+            "title": "Butt Weld",
+            "src": "/assets/logos/piping27.png"
+        },
+        "piping28": {
+            "title": "Welded Connection",
+            "src": "/assets/logos/piping28.png"
+        },
+        "piping29": {
+            "title": "Mecanical Link",
+            "src": "/assets/logos/piping29.png"
+        },
+        "piping30": {
+            "title": "Soldered / Solvent",
+            "src": "/assets/logos/piping30.png"
+        },
+        "piping31": {
+            "title": "Double Containment",
+            "src": "/assets/logos/piping31.png"
+        },
+        "piping32": {
+            "title": "Flange",
+            "src": "/assets/logos/piping32.png"
+        },
+        "piping33": {
+            "title": "End Caps",
+            "src": "/assets/logos/piping33.png"
+        },
+        "piping34": {
+            "title": "End Caps 2",
+            "src": "/assets/logos/piping34.png"
+        },
+        "piping35": {
+            "title": "Breather",
+            "src": "/assets/logos/piping35.png"
+        },
+        "piping36": {
+            "title": "Drip Pan Elbow",
+            "src": "/assets/logos/piping36.png"
+        },
+        "piping37": {
+            "title": "Flange",
+            "src": "/assets/logos/piping37.png"
+        },
+        "piping38": {
+            "title": "Union",
+            "src": "/assets/logos/piping38.png"
+        },
+        "piping39": {
+            "title": "Socked Weld",
+            "src": "/assets/logos/piping39.png"
+        },
+        "piping40": {
+            "title": "Screwed Connection",
+            "src": "/assets/logos/piping40.png"
+        },
+        "piping41": {
+            "title": "Orifice Plate",
+            "src": "/assets/logos/piping41.png"
+        },
+        "piping42": {
+            "title": "Flanged Dummy Cover",
+            "src": "/assets/logos/piping42.png"
+        },
+        "piping43": {
+            "title": "Electrical Bounded",
+            "src": "/assets/logos/piping43.png"
+        },
+        "piping44": {
+            "title": "Slope Requirement Line",
+            "src": "/assets/logos/piping44.png"
+        },
+        "piping45": {
+            "title": "Reducer",
+            "src": "/assets/logos/piping45.png"
+        },
+        "piping46": {
+            "title": "Electrically Insulated",
+            "src": "/assets/logos/piping46.png"
+        },
+        "piping47": {
+            "title": "In-Line Mixer",
+            "src": "/assets/logos/piping47.png"
+        },
+        "piping48": {
+            "title": "Seperator",
+            "src": "/assets/logos/piping48.png"
+        },
+        "piping49": {
+            "title": "Bursting Disc",
+            "src": "/assets/logos/piping49.png"
+        },
+        "piping50": {
+            "title": "Flame Arrester",
+            "src": "/assets/logos/piping50.png"
+        },
+        "piping51": {
+            "title": "Drain Silencer",
+            "src": "/assets/logos/piping51.png"
+        },
+        "piping52": {
+            "title": "Exhaust Silencer",
+            "src": "/assets/logos/piping52.png"
+        },
+        "piping53": {
+            "title": "Strainer",
+            "src": "/assets/logos/piping53.png"
+        },
+        "piping54": {
+            "title": "Exhaust Head",
+            "src": "/assets/logos/piping54.png"
+        },
+        "piping55": {
+            "title": "Triangle Seperator",
+            "src": "/assets/logos/piping55.png"
+        },
+        "piping56": {
+            "title": "Triangle Seperator 2",
+            "src": "/assets/logos/piping56.png"
+        },
+        "piping57": {
+            "title": "Tundish",
+            "src": "/assets/logos/piping57.png"
+        },
+        "piping58": {
+            "title": "Open Vent",
+            "src": "/assets/logos/piping58.png"
+        },
+        "piping59": {
+            "title": "Syphon Drain",
+            "src": "/assets/logos/piping59.png"
+        },
+        "piping60": {
+            "title": "Hyrant",
+            "src": "/assets/logos/piping60.png"
+        },
+        "piping61": {
+            "title": "Swivel Joint",
+            "src": "/assets/logos/piping61.png"
+        },
+        "piping62": {
+            "title": "Expansion Joint",
+            "src": "/assets/logos/piping62.png"
+        },
+        "piping63": {
+            "title": "Hose",
+            "src": "/assets/logos/piping63.png"
+        },
+        "piping64": {
+            "title": "Flexible Hose",
+            "src": "/assets/logos/piping64.png"
+        },
+        "piping65": {
+            "title": "Flow Indicator",
+            "src": "/assets/logos/piping65.png"
+        },
+        "piping66": {
+            "title": "Bell Mouse",
+            "src": "/assets/logos/piping66.png"
+        },
+        "piping67": {
+            "title": "Removable Spool",
+            "src": "/assets/logos/piping67.png"
+        },
+        "piping68": {
+            "title": "Basket Strainer",
+            "src": "/assets/logos/piping68.png"
+        },
+        "piping69": {
+            "title": "Breather",
+            "src": "/assets/logos/piping69.png"
+        },
+        "piping70": {
+            "title": "Damper",
+            "src": "/assets/logos/piping70.png"
+        },
+        "piping71": {
+            "title": "Breakthrough",
+            "src": "/assets/logos/piping71.png"
+        },
+        "piping72": {
+            "title": "Orifice",
+            "src": "/assets/logos/piping72.png"
+        },
+        "piping73": {
+            "title": "Clamped Flange Coupling",
+            "src": "/assets/logos/piping73.png"
+        },
+        "piping74": {
+            "title": "Compensate",
+            "src": "/assets/logos/piping74.png"
+        },
+        "piping75": {
+            "title": "Coupling",
+            "src": "/assets/logos/piping75.png"
+        },
+        "piping76": {
+            "title": "Y-Type Strainer",
+            "src": "/assets/logos/piping76.png"
+        },
+        "piping77": {
+            "title": "Y-Strainer",
+            "src": "/assets/logos/piping77.png"
+        },
+        "piping78": {
+            "title": "Diverter Valve",
+            "src": "/assets/logos/piping78.png"
+        },
+        "piping79": {
+            "title": "Blind Disc",
+            "src": "/assets/logos/piping79.png"
+        },
+        "piping80": {
+            "title": "Spectacle Blind",
+            "src": "/assets/logos/piping80.png"
+        },
+        "piping81": {
+            "title": "Interchangeable Blind",
+            "src": "/assets/logos/piping81.png"
+        },
+        "piping82": {
+            "title": "Open Disc",
+            "src": "/assets/logos/piping82.png"
+        },
+        "piping83": {
+            "title": "Orifice Plate",
+            "src": "/assets/logos/piping83.png"
+        },
+        "piping84": {
+            "title": "Pulsation Dampener",
+            "src": "/assets/logos/piping84.png"
+        },
+        "piping85": {
+            "title": "Duplex Strainer",
+            "src": "/assets/logos/piping85.png"
+        },
+        "piping86": {
+            "title": "Vent Silencer",
+            "src": "/assets/logos/piping86.png"
+        },
+        "piping87": {
+            "title": "Basket Strainer",
+            "src": "/assets/logos/piping87.png"
+        },
+        "piping88": {
+            "title": "Cone Strainer",
+            "src": "/assets/logos/piping88.png"
+        },
+        "piping89": {
+            "title": "Detonation Arrestor",
+            "src": "/assets/logos/piping89.png"
+        },
+        "piping90": {
+            "title": "Flame Arrestor",
+            "src": "/assets/logos/piping90.png"
+        },
+        "piping91": {
+            "title": "In-line Silencer",
+            "src": "/assets/logos/piping91.png"
+        },
+        "piping92": {
+            "title": "Stream Trap",
+            "src": "/assets/logos/piping92.png"
+        },
+        "piping93": {
+            "title": "Desupherheater",
+            "src": "/assets/logos/piping93.png"
+        },
+        "piping94": {
+            "title": "Eductor",
+            "src": "/assets/logos/piping94.png"
+        },
+        "piping95": {
+            "title": "Exhaust Head",
+            "src": "/assets/logos/piping95.png"
+        },
+        "piping96": {
+            "title": "Rotary Valve",
+            "src": "/assets/logos/piping96.png"
+        },
+        "piping97": {
+            "title": "Expansion Joint 2",
+            "src": "/assets/logos/piping97.png"
+        },
+        "piping98": {
+            "title": "Bursting Disc",
+            "src": "/assets/logos/piping98.png"
+        },
+        "piping99": {
+            "title": "Electrical Insulated",
+            "src": "/assets/logos/piping99.png"
+        },
+        "piping100": {
+            "title": "Flame Arrestor",
+            "src": "/assets/logos/piping100.png"
+        },
+        "piping101": {
+            "title": "Explosion-Profe Flame Arrestor",
+            "src": "/assets/logos/piping101.png"
+        },
+        "piping102": {
+            "title": "Detonation-Profe Flame Arrestor",
+            "src": "/assets/logos/piping102.png"
+        },
+        "piping103": {
+            "title": "Fire-Resistant Flame Arrestor",
+            "src": "/assets/logos/piping103.png"
+        },
+        "piping104": {
+            "title": "Fire-Resistant Flame Arrestor 2",
+            "src": "/assets/logos/piping104.png"
+        },
+        "piping105": {
+            "title": "Pilot Operated Relief",
+            "src": "/assets/logos/piping105.png"
+        },
+        "piping106": {
+            "title": "Valve Manifold",
+            "src": "/assets/logos/piping106.png"
+        }
+    },
+    "Reflected Ceiling Plan Symbols": {
+        "lighting1": {
+            "title": "Luminaire Ceiling Mount",
+            "src": "/assets/logos/lighting1.png"
+        },
+        "lighting2": {
+            "title": "End Ceiling Lum",
+            "src": "/assets/logos/lighting2.png"
+        },
+        "lighting3": {
+            "title": "Wall Light",
+            "src": "/assets/logos/lighting3.png"
+        },
+        "lighting4": {
+            "title": "Downlight",
+            "src": "/assets/logos/lighting4.png"
+        },
+        "lighting5": {
+            "title": "Outdoor Lighting",
+            "src": "/assets/logos/lighting5.png"
+        },
+        "lighting6": {
+            "title": "Multi-Light Bar",
+            "src": "/assets/logos/lighting6.png"
+        },
+        "lighting7": {
+            "title": "Batten Fluores",
+            "src": "/assets/logos/lighting7.png"
+        },
+        "lighting8": {
+            "title": "Modular Fluores",
+            "src": "/assets/logos/lighting8.png"
+        },
+        "lighting9": {
+            "title": "Emerg Light",
+            "src": "/assets/logos/lighting9.png"
+        },
+        "lighting10": {
+            "title": "Emerg Sign",
+            "src": "/assets/logos/lighting10.png"
+        },
+        "lighting11": {
+            "title": "Light",
+            "src": "/assets/logos/lighting11.png"
+        },
+        "lighting12": {
+            "title": "Recessed Ceiling Light",
+            "src": "/assets/logos/lighting12.png"
+        },
+        "lighting13": {
+            "title": "Ceiling Fan",
+            "src": "/assets/logos/lighting13.png"
+        },
+        "lighting14": {
+            "title": "Ceiling Fan",
+            "src": "/assets/logos/lighting14.png"
+        },
+        "lighting15": {
+            "title": "Weatherproof Light",
+            "src": "/assets/logos/lighting15.png"
+        },
+        "lighting16": {
+            "title": "Ceiling Light 2",
+            "src": "/assets/logos/lighting16.png"
+        },
+        "lighting17": {
+            "title": "Emergency Battery Unit",
+            "src": "/assets/logos/lighting17.png"
+        },
+        "lighting18": {
+            "title": "Spotlight",
+            "src": "/assets/logos/lighting18.png"
+        },
+        "lighting19": {
+            "title": "Exit Sign",
+            "src": "/assets/logos/lighting19.png"
+        },
+        "lighting20": {
+            "title": "Light",
+            "src": "/assets/logos/lighting20.png"
+        },
+        "lighting21": {
+            "title": "Roadway Light",
+            "src": "/assets/logos/lighting21.png"
+        },
+        "lighting22": {
+            "title": "Twin Lights",
+            "src": "/assets/logos/lighting22.png"
+        },
+        "lighting23": {
+            "title": "Light 2",
+            "src": "/assets/logos/lighting23.png"
+        },
+        "lighting24": {
+            "title": "Lights",
+            "src": "/assets/logos/lighting24.png"
+        },
+        "lighting25": {
+            "title": "Integrated Light",
+            "src": "/assets/logos/lighting25.png"
+        },
+        "lighting26": {
+            "title": "Night Light",
+            "src": "/assets/logos/lighting26.png"
+        },
+        "lighting27": {
+            "title": "Louvers",
+            "src": "/assets/logos/lighting27.png"
+        },
+        "Electrical1": {
+            "title": "Electrical Switchbox",
+            "src": "/assets/logos/Electrical1.png"
+        },
+        "Electrical2": {
+            "title": "Single Pole Switch",
+            "src": "/assets/logos/Electrical2.png"
+        },
+        "Electrical3": {
+            "title": "Three-Way Switch",
+            "src": "/assets/logos/Electrical3.png"
+        },
+        "Electrical4": {
+            "title": "1P Switch",
+            "src": "/assets/logos/Electrical4.png"
+        },
+        "Electrical5": {
+            "title": "2P Switch",
+            "src": "/assets/logos/Electrical5.png"
+        },
+        "Electrical6": {
+            "title": "4P Switch",
+            "src": "/assets/logos/Electrical6.png"
+        },
+        "Electrical7": {
+            "title": "10P Switch",
+            "src": "/assets/logos/Electrical7.png"
+        },
+        "Electrical8": {
+            "title": "20P Switch",
+            "src": "/assets/logos/Electrical8.png"
+        },
+        "Electrical9": {
+            "title": "Water Tap",
+            "src": "/assets/logos/Electrical9.png"
+        },
+        "Electrical10": {
+            "title": "Lum. Ceiling Mount",
+            "src": "/assets/logos/Electrical10.png"
+        },
+        "Electrical11": {
+            "title": "End Ceiling Lum",
+            "src": "/assets/logos/Electrical11.png"
+        },
+        "Electrical12": {
+            "title": "Wall Light",
+            "src": "/assets/logos/Electrical12.png"
+        },
+        "Electrical13": {
+            "title": "Circuit Breaker",
+            "src": "/assets/logos/Electrical13.png"
+        },
+        "Electrical14": {
+            "title": "Multi-Light Bar",
+            "src": "/assets/logos/Electrical14.png"
+        },
+        "Electrical15": {
+            "title": "Light Bar",
+            "src": "/assets/logos/Electrical15.png"
+        },
+        "Electrical16": {
+            "title": "Downlight",
+            "src": "/assets/logos/Electrical16.png"
+        },
+        "Electrical17": {
+            "title": "Outdoor Lighting",
+            "src": "/assets/logos/Electrical17.png"
+        },
+        "Electrical18": {
+            "title": "Singleaplex Receptacle",
+            "src": "/assets/logos/Electrical18.png"
+        },
+        "Electrical19": {
+            "title": "Duplex Receptacle",
+            "src": "/assets/logos/Electrical19.png"
+        },
+        "Electrical20": {
+            "title": "Dishwasher Outlet",
+            "src": "/assets/logos/Electrical20.png"
+        },
+        "Electrical21": {
+            "title": "Triplex Receptacle Outlet",
+            "src": "/assets/logos/Electrical21.png"
+        },
+        "Electrical22": {
+            "title": "Fourlex Receptacle",
+            "src": "/assets/logos/Electrical22.png"
+        },
+        "Electrical23": {
+            "title": "Range Outlet",
+            "src": "/assets/logos/Electrical23.png"
+        },
+        "Electrical24": {
+            "title": "Dryer Outlet",
+            "src": "/assets/logos/Electrical24.png"
+        },
+        "Electrical25": {
+            "title": "Waterproof Receptacle Outlet",
+            "src": "/assets/logos/Electrical25.png"
+        },
+        "Electrical26": {
+            "title": "Switch and Convenience Outlet",
+            "src": "/assets/logos/Electrical26.png"
+        },
+        "Electrical27": {
+            "title": "Split Wired Duplex Outlet",
+            "src": "/assets/logos/Electrical27.png"
+        },
+        "Electrical28": {
+            "title": "Split Wired Triplex Outlet",
+            "src": "/assets/logos/Electrical28.png"
+        },
+        "Electrical29": {
+            "title": "Duplex Special Purpose Outlet",
+            "src": "/assets/logos/Electrical29.png"
+        },
+        "Electrical30": {
+            "title": "Dishwasher Outlet",
+            "src": "/assets/logos/Electrical30.png"
+        },
+        "Electrical31": {
+            "title": "Drop Cord",
+            "src": "/assets/logos/Electrical31.png"
+        },
+        "Electrical32": {
+            "title": "Fan Outlet",
+            "src": "/assets/logos/Electrical32.png"
+        },
+        "Electrical33": {
+            "title": "Junction Box",
+            "src": "/assets/logos/Electrical33.png"
+        },
+        "Electrical34": {
+            "title": "Lamp Holder",
+            "src": "/assets/logos/Electrical34.png"
+        },
+        "Electrical35": {
+            "title": "Lamp Holder 2",
+            "src": "/assets/logos/Electrical35.png"
+        },
+        "Electrical36": {
+            "title": "Pull Switch",
+            "src": "/assets/logos/Electrical36.png"
+        },
+        "Electrical37": {
+            "title": "Vapor Discharge",
+            "src": "/assets/logos/Electrical37.png"
+        },
+        "Electrical38": {
+            "title": "Exit Light Outlet",
+            "src": "/assets/logos/Electrical38.png"
+        },
+        "Electrical39": {
+            "title": "Clock Outlet",
+            "src": "/assets/logos/Electrical39.png"
+        },
+        "Electrical40": {
+            "title": "Blanked Outlet",
+            "src": "/assets/logos/Electrical40.png"
+        },
+        "Electrical41": {
+            "title": "TV Outlet",
+            "src": "/assets/logos/Electrical41.png"
+        },
+        "Electrical42": {
+            "title": "Exhaust Fan",
+            "src": "/assets/logos/Electrical42.png"
+        },
+        "Electrical43": {
+            "title": "Water Heater",
+            "src": "/assets/logos/Electrical43.png"
+        },
+        "Electrical44": {
+            "title": "Telephone Jack",
+            "src": "/assets/logos/Electrical44.png"
+        },
+        "Electrical45": {
+            "title": "Electrical Panel",
+            "src": "/assets/logos/Electrical45.png"
+        },
+        "Electrical46": {
+            "title": "Battery",
+            "src": "/assets/logos/Electrical46.png"
+        },
+        "Electrical47": {
+            "title": "Batten Fluores",
+            "src": "/assets/logos/Electrical47.png"
+        },
+        "Electrical48": {
+            "title": "Distribution Box",
+            "src": "/assets/logos/Electrical48.png"
+        },
+        "Electrical49": {
+            "title": "Modular Fluores",
+            "src": "/assets/logos/Electrical49.png"
+        },
+        "Electrical50": {
+            "title": "Office Fluores",
+            "src": "/assets/logos/Electrical50.png"
+        },
+        "Electrical51": {
+            "title": "Pull-Cord Switch",
+            "src": "/assets/logos/Electrical51.png"
+        },
+        "Electrical52": {
+            "title": "Emerg. Light",
+            "src": "/assets/logos/Electrical52.png"
+        },
+        "Electrical53": {
+            "title": "Emerg. Sign",
+            "src": "/assets/logos/Electrical53.png"
+        },
+        "Electrical54": {
+            "title": "Switches",
+            "src": "/assets/logos/Electrical54.png"
+        },
+        "Electrical55": {
+            "title": "Dimmer Switch",
+            "src": "/assets/logos/Electrical55.png"
+        },
+        "Electrical56": {
+            "title": "Socket Outlet",
+            "src": "/assets/logos/Electrical56.png"
+        },
+        "Electrical57": {
+            "title": "Socket Outlet 2",
+            "src": "/assets/logos/Electrical57.png"
+        },
+        "Electrical58": {
+            "title": "Telephone Outlet",
+            "src": "/assets/logos/Electrical58.png"
+        },
+        "Electrical59": {
+            "title": "Stereo Outlet",
+            "src": "/assets/logos/Electrical59.png"
+        },
+        "Electrical60": {
+            "title": "Ceiling Fan",
+            "src": "/assets/logos/Electrical60.png"
+        },
+        "Electrical61": {
+            "title": "Ceiling Fan 2",
+            "src": "/assets/logos/Electrical61.png"
+        },
+        "Electrical62": {
+            "title": "Combination Fan",
+            "src": "/assets/logos/Electrical62.png"
+        },
+        "Electrical63": {
+            "title": "Service Panels",
+            "src": "/assets/logos/Electrical63.png"
+        },
+        "Electrical64": {
+            "title": "Thermostat",
+            "src": "/assets/logos/Electrical64.png"
+        },
+        "Electrical65": {
+            "title": "Air Conditioning",
+            "src": "/assets/logos/Electrical65.png"
+        },
+        "Electrical66": {
+            "title": "Open Hold Unit",
+            "src": "/assets/logos/Electrical66.png"
+        },
+        "Electrical67": {
+            "title": "Detector",
+            "src": "/assets/logos/Electrical67.png"
+        },
+        "Electrical68": {
+            "title": "Fire Alarm",
+            "src": "/assets/logos/Electrical68.png"
+        },
+        "Electrical69": {
+            "title": "Monitor",
+            "src": "/assets/logos/Electrical69.png"
+        },
+        "Electrical70": {
+            "title": "Alarm",
+            "src": "/assets/logos/Electrical70.png"
+        },
+        "Electrical71": {
+            "title": "Doorbell",
+            "src": "/assets/logos/Electrical71.png"
+        },
+        "Electrical72": {
+            "title": "Smoke Detector",
+            "src": "/assets/logos/Electrical72.png"
+        },
+        "Electrical73": {
+            "title": "Household Circuit Breaker Box",
+            "src": "/assets/logos/Electrical73.png"
+        },
+        "Electrical74": {
+            "title": "Call",
+            "src": "/assets/logos/Electrical74.png"
+        },
+        "Electrical75": {
+            "title": "Tel",
+            "src": "/assets/logos/Electrical75.png"
+        },
+        "Electrical76": {
+            "title": "Main Control",
+            "src": "/assets/logos/Electrical76.png"
+        },
+        "Electrical77": {
+            "title": "Ground",
+            "src": "/assets/logos/Electrical77.png"
+        },
+        "Electrical78": {
+            "title": "Line",
+            "src": "/assets/logos/Electrical78.png"
+        },
+        "Electrical79": {
+            "title": "Wire",
+            "src": "/assets/logos/Electrical79.png"
+        },
+        "Electrical80": {
+            "title": "Cut Line",
+            "src": "/assets/logos/Electrical80.png"
+        },
+        "Electrical81": {
+            "title": "Cut Line 2",
+            "src": "/assets/logos/Electrical81.png"
+        }
+    },
+    "Seating Chart Symbols": {
+        "tables1": {
+            "title": "Chair 1",
+            "src": "/assets/logos/tables1.png"
+        },
+        "tables2": {
+            "title": "Chair 2",
+            "src": "/assets/logos/tables2.png"
+        },
+        "tables3": {
+            "title": "Chair 3",
+            "src": "/assets/logos/tables3.png"
+        },
+        "tables4": {
+            "title": "Chair 4",
+            "src": "/assets/logos/tables4.png"
+        },
+        "tables5": {
+            "title": "Chair 5",
+            "src": "/assets/logos/tables5.png"
+        },
+        "tables6": {
+            "title": "Chair 6",
+            "src": "/assets/logos/tables6.png"
+        },
+        "tables79": {
+            "title": "Chair 7",
+            "src": "/assets/logos/tables79.png"
+        },
+        "tables80": {
+            "title": "Chair 8",
+            "src": "/assets/logos/tables80.png"
+        },
+        "tables7": {
+            "title": "Chair 9",
+            "src": "/assets/logos/tables7.png"
+        },
+        "tables8": {
+            "title": "Chair 10",
+            "src": "/assets/logos/tables8.png"
+        },
+        "tables9": {
+            "title": "Chair 11",
+            "src": "/assets/logos/tables9.png"
+        },
+        "tables10": {
+            "title": "Chair 12",
+            "src": "/assets/logos/tables10.png"
+        },
+        "tables11": {
+            "title": "Chair 13",
+            "src": "/assets/logos/tables11.png"
+        },
+        "tables12": {
+            "title": "Chair 14",
+            "src": "/assets/logos/tables12.png"
+        },
+        "tables13": {
+            "title": "Chair 15",
+            "src": "/assets/logos/tables13.png"
+        },
+        "tables14": {
+            "title": "Chair 16",
+            "src": "/assets/logos/tables14.png"
+        },
+        "tables15": {
+            "title": "Chair 17",
+            "src": "/assets/logos/tables15.png"
+        },
+        "tables16": {
+            "title": "Chair 18",
+            "src": "/assets/logos/tables16.png"
+        },
+        "tables17": {
+            "title": "Chair 19",
+            "src": "/assets/logos/tables17.png"
+        },
+        "tables18": {
+            "title": "Chair 20",
+            "src": "/assets/logos/tables18.png"
+        },
+        "tables19": {
+            "title": "Recliner",
+            "src": "/assets/logos/tables19.png"
+        },
+        "tables20": {
+            "title": "Sling Chair",
+            "src": "/assets/logos/tables20.png"
+        },
+        "tables21": {
+            "title": "Lounge Chair",
+            "src": "/assets/logos/tables21.png"
+        },
+        "tables22": {
+            "title": "Table with Chairs",
+            "src": "/assets/logos/tables22.png"
+        },
+        "tables23": {
+            "title": "Style Station 1",
+            "src": "/assets/logos/tables23.png"
+        },
+        "tables24": {
+            "title": "Style Station 2",
+            "src": "/assets/logos/tables24.png"
+        },
+        "tables25": {
+            "title": "Style Station 3",
+            "src": "/assets/logos/tables25.png"
+        },
+        "tables26": {
+            "title": "Style Station 4",
+            "src": "/assets/logos/tables26.png"
+        },
+        "tables27": {
+            "title": "Style Station 5",
+            "src": "/assets/logos/tables27.png"
+        },
+        "tables28": {
+            "title": "Style Station 6",
+            "src": "/assets/logos/tables28.png"
+        },
+        "tables29": {
+            "title": "Style Station 7",
+            "src": "/assets/logos/tables29.png"
+        },
+        "tables30": {
+            "title": "Longue Chair 1",
+            "src": "/assets/logos/tables30.png"
+        },
+        "tables31": {
+            "title": "Longue Chair 2",
+            "src": "/assets/logos/tables31.png"
+        },
+        "tables32": {
+            "title": "Longue Chair 3",
+            "src": "/assets/logos/tables32.png"
+        },
+        "tables33": {
+            "title": "Longue Chair 4",
+            "src": "/assets/logos/tables33.png"
+        },
+        "tables34": {
+            "title": "Longue Chair 5",
+            "src": "/assets/logos/tables34.png"
+        },
+        "tables35": {
+            "title": "Bar Counter 1",
+            "src": "/assets/logos/tables35.png"
+        },
+        "tables36": {
+            "title": "Bar Counter 2",
+            "src": "/assets/logos/tables36.png"
+        },
+        "tables37": {
+            "title": "Bar Counter 3",
+            "src": "/assets/logos/tables37.png"
+        },
+        "tables38": {
+            "title": "Bar Counter 4",
+            "src": "/assets/logos/tables38.png"
+        },
+        "tables39": {
+            "title": "Bar Counter 5",
+            "src": "/assets/logos/tables39.png"
+        },
+        "tables40": {
+            "title": "Bar Counter 6",
+            "src": "/assets/logos/tables40.png"
+        },
+        "tables41": {
+            "title": "The Chair & Table 1",
+            "src": "/assets/logos/tables41.png"
+        },
+        "tables42": {
+            "title": "The Chair & Table 2",
+            "src": "/assets/logos/tables42.png"
+        },
+        "tables43": {
+            "title": "Sofa & Sofa Table 1",
+            "src": "/assets/logos/tables43.png"
+        },
+        "tables44": {
+            "title": "Sofa & Sofa Table 2",
+            "src": "/assets/logos/tables44.png"
+        },
+        "tables45": {
+            "title": "Dining Table 1",
+            "src": "/assets/logos/tables45.png"
+        },
+        "tables46": {
+            "title": "Dining Table 2",
+            "src": "/assets/logos/tables46.png"
+        },
+        "tables47": {
+            "title": "Dining Table 3",
+            "src": "/assets/logos/tables47.png"
+        },
+        "tables48": {
+            "title": "Dining Table 4",
+            "src": "/assets/logos/tables48.png"
+        },
+        "tables49": {
+            "title": "Dining Table 5",
+            "src": "/assets/logos/tables49.png"
+        },
+        "tables50": {
+            "title": "Dining Table 6",
+            "src": "/assets/logos/tables50.png"
+        },
+        "tables51": {
+            "title": "Dining Table 7",
+            "src": "/assets/logos/tables51.png"
+        },
+        "tables52": {
+            "title": "Dining Table 8",
+            "src": "/assets/logos/tables52.png"
+        },
+        "tables53": {
+            "title": "Dining Table 9",
+            "src": "/assets/logos/tables53.png"
+        },
+        "tables54": {
+            "title": "Dining Table 10",
+            "src": "/assets/logos/tables54.png"
+        },
+        "tables55": {
+            "title": "Cicle Table & Chair 1",
+            "src": "/assets/logos/tables55.png"
+        },
+        "tables56": {
+            "title": "Cicle Table & Chair 2",
+            "src": "/assets/logos/tables56.png"
+        },
+        "tables57": {
+            "title": "Cicle Table & Chair 3",
+            "src": "/assets/logos/tables57.png"
+        },
+        "tables58": {
+            "title": "Cicle Table & Chair 4",
+            "src": "/assets/logos/tables58.png"
+        },
+        "tables59": {
+            "title": "Cicle Table & Chair 5",
+            "src": "/assets/logos/tables59.png"
+        },
+        "tables60": {
+            "title": "Cicle Table & Chair 6",
+            "src": "/assets/logos/tables60.png"
+        },
+        "tables61": {
+            "title": "Cicle Table & Chair 7",
+            "src": "/assets/logos/tables61.png"
+        },
+        "tables62": {
+            "title": "Cicle Table",
+            "src": "/assets/logos/tables62.png"
+        },
+        "tables63": {
+            "title": "Oval Table",
+            "src": "/assets/logos/tables63.png"
+        },
+        "tables64": {
+            "title": "Conference Table 1",
+            "src": "/assets/logos/tables64.png"
+        },
+        "tables65": {
+            "title": "Conference Table 2",
+            "src": "/assets/logos/tables65.png"
+        },
+        "tables66": {
+            "title": "Conference Table 3",
+            "src": "/assets/logos/tables66.png"
+        },
+        "tables67": {
+            "title": "Rectangle Table",
+            "src": "/assets/logos/tables67.png"
+        },
+        "tables68": {
+            "title": "Diamond Table 1",
+            "src": "/assets/logos/tables68.png"
+        },
+        "tables69": {
+            "title": "Diamond Table 2",
+            "src": "/assets/logos/tables69.png"
+        },
+        "tables70": {
+            "title": "Corner Table",
+            "src": "/assets/logos/tables70.png"
+        },
+        "tables71": {
+            "title": "Semicircle Table",
+            "src": "/assets/logos/tables71.png"
+        },
+        "tables72": {
+            "title": "Fan Table",
+            "src": "/assets/logos/tables72.png"
+        },
+        "tables73": {
+            "title": "Ping Pong Table",
+            "src": "/assets/logos/tables73.png"
+        },
+        "tables74": {
+            "title": "Desk Table 1",
+            "src": "/assets/logos/tables74.png"
+        },
+        "tables75": {
+            "title": "Desk Table 2",
+            "src": "/assets/logos/tables75.png"
+        },
+        "tables76": {
+            "title": "Desk Table 3",
+            "src": "/assets/logos/tables76.png"
+        },
+        "tables77": {
+            "title": "Desk Table 4",
+            "src": "/assets/logos/tables77.png"
+        },
+        "tables78": {
+            "title": "Dressing Table",
+            "src": "/assets/logos/tables78.png"
+        },
+        "sofas1": {
+            "title": "Sofa 1",
+            "src": "/assets/logos/sofas1.png"
+        },
+        "sofas2": {
+            "title": "Sofa 2",
+            "src": "/assets/logos/sofas2.png"
+        },
+        "sofas3": {
+            "title": "Sofa 3",
+            "src": "/assets/logos/sofas3.png"
+        },
+        "sofas4": {
+            "title": "Sofa 4",
+            "src": "/assets/logos/sofas4.png"
+        },
+        "sofas5": {
+            "title": "Sofa 5",
+            "src": "/assets/logos/sofas5.png"
+        },
+        "sofas6": {
+            "title": "Sofa 6",
+            "src": "/assets/logos/sofas6.png"
+        },
+        "sofas7": {
+            "title": "Sofa 7",
+            "src": "/assets/logos/sofas7.png"
+        },
+        "sofas8": {
+            "title": "Sofa 8",
+            "src": "/assets/logos/sofas8.png"
+        },
+        "sofas9": {
+            "title": "Sofa 9",
+            "src": "/assets/logos/sofas9.png"
+        },
+        "sofas10": {
+            "title": "Sofa 10",
+            "src": "/assets/logos/sofas10.png"
+        },
+        "sofas11": {
+            "title": "Sofa 11",
+            "src": "/assets/logos/sofas11.png"
+        },
+        "sofas12": {
+            "title": "Sofa 12",
+            "src": "/assets/logos/sofas12.png"
+        },
+        "sofas13": {
+            "title": "Sofa 13",
+            "src": "/assets/logos/sofas13.png"
+        },
+        "sofas14": {
+            "title": "Sofa 14",
+            "src": "/assets/logos/sofas14.png"
+        },
+        "sofas15": {
+            "title": "Sofa 15",
+            "src": "/assets/logos/sofas15.png"
+        },
+        "sofas16": {
+            "title": "Sofa 16",
+            "src": "/assets/logos/sofas16.png"
+        },
+        "sofas17": {
+            "title": "Sofa 17",
+            "src": "/assets/logos/sofas17.png"
+        },
+        "sofas18": {
+            "title": "Sofa 18",
+            "src": "/assets/logos/sofas18.png"
+        },
+        "sofas19": {
+            "title": "Sofa 19",
+            "src": "/assets/logos/sofas19.png"
+        },
+        "sofas20": {
+            "title": "Sofa 20",
+            "src": "/assets/logos/sofas20.png"
+        },
+        "sofas21": {
+            "title": "Sofa 21",
+            "src": "/assets/logos/sofas21.png"
+        },
+        "sofas22": {
+            "title": "Sofa 22",
+            "src": "/assets/logos/sofas22.png"
+        },
+        "sofas23": {
+            "title": "Sofa 23",
+            "src": "/assets/logos/sofas23.png"
+        },
+        "sofas24": {
+            "title": "Sofa 24",
+            "src": "/assets/logos/sofas24.png"
+        },
+        "sofas25": {
+            "title": "Sofa 25",
+            "src": "/assets/logos/sofas25.png"
+        },
+        "sofas26": {
+            "title": "Sofa 26",
+            "src": "/assets/logos/sofas26.png"
+        },
+        "sofas27": {
+            "title": "Sofa 27",
+            "src": "/assets/logos/sofas27.png"
+        },
+        "sofas28": {
+            "title": "Sofa 28",
+            "src": "/assets/logos/sofas28.png"
+        },
+        "sofas29": {
+            "title": "Sofa 29",
+            "src": "/assets/logos/sofas29.png"
+        },
+        "sofas30": {
+            "title": "Sofa 30",
+            "src": "/assets/logos/sofas30.png"
+        },
+        "sofas31": {
+            "title": "Sofa 31",
+            "src": "/assets/logos/sofas31.png"
+        },
+        "sofas32": {
+            "title": "Sofa 32",
+            "src": "/assets/logos/sofas32.png"
+        },
+        "sofas33": {
+            "title": "Sofa 33",
+            "src": "/assets/logos/sofas33.png"
+        },
+        "sofas34": {
+            "title": "Sofa 34",
+            "src": "/assets/logos/sofas34.png"
+        },
+        "sofas35": {
+            "title": "Sofa 35",
+            "src": "/assets/logos/sofas35.png"
+        },
+        "sofas36": {
+            "title": "Sofa 36",
+            "src": "/assets/logos/sofas36.png"
+        },
+        "sofas37": {
+            "title": "Sofa 37",
+            "src": "/assets/logos/sofas37.png"
+        },
+        "sofas38": {
+            "title": "Sofa 38",
+            "src": "/assets/logos/sofas38.png"
+        },
+        "sofas39": {
+            "title": "Sofa 39",
+            "src": "/assets/logos/sofas39.png"
+        },
+        "sofas40": {
+            "title": "Tea Table 1",
+            "src": "/assets/logos/sofas40.png"
+        },
+        "sofas41": {
+            "title": "Tea Table 2",
+            "src": "/assets/logos/sofas41.png"
+        },
+        "sofas42": {
+            "title": "Tea Table 3",
+            "src": "/assets/logos/sofas42.png"
+        },
+        "sofas43": {
+            "title": "Tea Table 4",
+            "src": "/assets/logos/sofas43.png"
+        },
+        "sofas44": {
+            "title": "Tea Table 5",
+            "src": "/assets/logos/sofas44.png"
+        },
+        "sofas45": {
+            "title": "Tea Table 6",
+            "src": "/assets/logos/sofas45.png"
+        },
+        "sofas46": {
+            "title": "Tea Table 7",
+            "src": "/assets/logos/sofas46.png"
+        },
+        "sofas47": {
+            "title": "Tea Table 8",
+            "src": "/assets/logos/sofas47.png"
+        },
+        "sofas48": {
+            "title": "Tea Table 9",
+            "src": "/assets/logos/sofas48.png"
+        },
+        "sofas49": {
+            "title": "Tea Table 10",
+            "src": "/assets/logos/sofas49.png"
+        },
+        "sofas50": {
+            "title": "Tea Table 11",
+            "src": "/assets/logos/sofas50.png"
+        },
+        "sofas51": {
+            "title": "Tea Table 12",
+            "src": "/assets/logos/sofas51.png"
+        },
+        "sofas52": {
+            "title": "Sofa Table 1",
+            "src": "/assets/logos/sofas52.png"
+        },
+        "sofas53": {
+            "title": "Sofa Table 2",
+            "src": "/assets/logos/sofas53.png"
+        },
+        "sofas54": {
+            "title": "Sofa Table 3",
+            "src": "/assets/logos/sofas54.png"
+        },
+        "sofas55": {
+            "title": "Sofa Table 4",
+            "src": "/assets/logos/sofas55.png"
+        },
+        "sofas56": {
+            "title": "Sofa Table 5",
+            "src": "/assets/logos/sofas56.png"
+        }
+    },
+    "Security Plan Symbols": {
+        "alarm1": {
+            "title": "Card Access",
+            "src": "/assets/logos/alarm1.png"
+        },
+        "alarm2": {
+            "title": "Biometric Access",
+            "src": "/assets/logos/alarm2.png"
+        },
+        "alarm3": {
+            "title": "Keypad Device",
+            "src": "/assets/logos/alarm3.png"
+        },
+        "alarm4": {
+            "title": "Card Reader with Keypad",
+            "src": "/assets/logos/alarm4.png"
+        },
+        "alarm5": {
+            "title": "Card Reader with Time",
+            "src": "/assets/logos/alarm5.png"
+        },
+        "alarm6": {
+            "title": "Smoke Detector",
+            "src": "/assets/logos/alarm6.png"
+        },
+        "alarm7": {
+            "title": "Gas Detector",
+            "src": "/assets/logos/alarm7.png"
+        },
+        "alarm8": {
+            "title": "Heat Detector",
+            "src": "/assets/logos/alarm8.png"
+        },
+        "alarm9": {
+            "title": "Turnstile",
+            "src": "/assets/logos/alarm9.png"
+        },
+        "alarm10": {
+            "title": "Revolving Door",
+            "src": "/assets/logos/alarm10.png"
+        },
+        "alarm11": {
+            "title": "Traffic Arm",
+            "src": "/assets/logos/alarm11.png"
+        },
+        "alarm12": {
+            "title": "Vehicle Loop Detector",
+            "src": "/assets/logos/alarm12.png"
+        },
+        "alarm13": {
+            "title": "Electronic Lock",
+            "src": "/assets/logos/alarm13.png"
+        },
+        "alarm14": {
+            "title": "Exit Device",
+            "src": "/assets/logos/alarm14.png"
+        },
+        "alarm15": {
+            "title": "Camera with Keypad",
+            "src": "/assets/logos/alarm15.png"
+        },
+        "alarm16": {
+            "title": "Camera with Intercom",
+            "src": "/assets/logos/alarm16.png"
+        },
+        "alarm17": {
+            "title": "Camera with Card Reader",
+            "src": "/assets/logos/alarm17.png"
+        },
+        "alarm18": {
+            "title": "Security Window Screen",
+            "src": "/assets/logos/alarm18.png"
+        },
+        "alarm19": {
+            "title": "Dome Camera",
+            "src": "/assets/logos/alarm19.png"
+        },
+        "alarm20": {
+            "title": "Dome Camera 2",
+            "src": "/assets/logos/alarm20.png"
+        },
+        "alarm21": {
+            "title": "Dome Camera 3",
+            "src": "/assets/logos/alarm21.png"
+        },
+        "alarm22": {
+            "title": "Bullet Camera",
+            "src": "/assets/logos/alarm22.png"
+        },
+        "alarm23": {
+            "title": "Bullet Camera 2",
+            "src": "/assets/logos/alarm23.png"
+        },
+        "alarm24": {
+            "title": "Bullet Camera 3",
+            "src": "/assets/logos/alarm24.png"
+        },
+        "alarm25": {
+            "title": "Bullet Camera 4",
+            "src": "/assets/logos/alarm25.png"
+        },
+        "alarm26": {
+            "title": "Bullet Camera 5",
+            "src": "/assets/logos/alarm26.png"
+        },
+        "alarm27": {
+            "title": "CCTV Camera 1",
+            "src": "/assets/logos/alarm27.png"
+        },
+        "alarm28": {
+            "title": "CCTV Camera 2",
+            "src": "/assets/logos/alarm28.png"
+        },
+        "alarm29": {
+            "title": "CCTV Camera 3",
+            "src": "/assets/logos/alarm29.png"
+        },
+        "alarm30": {
+            "title": "CCTV Camera 4",
+            "src": "/assets/logos/alarm30.png"
+        },
+        "alarm31": {
+            "title": "CCTV Camera 5",
+            "src": "/assets/logos/alarm31.png"
+        },
+        "alarm32": {
+            "title": "CCTV Camera 6",
+            "src": "/assets/logos/alarm32.png"
+        },
+        "alarm33": {
+            "title": "CCTV Camera 7",
+            "src": "/assets/logos/alarm33.png"
+        },
+        "alarm34": {
+            "title": "CCTV Camera 8",
+            "src": "/assets/logos/alarm34.png"
+        },
+        "alarm35": {
+            "title": "Emergency Battery",
+            "src": "/assets/logos/alarm35.png"
+        },
+        "alarm36": {
+            "title": "Strobe",
+            "src": "/assets/logos/alarm36.png"
+        },
+        "video1": {
+            "title": "Camera",
+            "src": "/assets/logos/video1.png"
+        },
+        "video2": {
+            "title": "Motion Detector",
+            "src": "/assets/logos/video2.png"
+        },
+        "video3": {
+            "title": "Glass Break Sensor",
+            "src": "/assets/logos/video3.png"
+        },
+        "video4": {
+            "title": "Screening Device",
+            "src": "/assets/logos/video4.png"
+        },
+        "video5": {
+            "title": "Monitor",
+            "src": "/assets/logos/video5.png"
+        },
+        "video6": {
+            "title": "Camera P/T/Z",
+            "src": "/assets/logos/video6.png"
+        },
+        "video7": {
+            "title": "Video Multiplexer",
+            "src": "/assets/logos/video7.png"
+        },
+        "video8": {
+            "title": "Push Button",
+            "src": "/assets/logos/video8.png"
+        },
+        "video9": {
+            "title": "Recorder",
+            "src": "/assets/logos/video9.png"
+        },
+        "video10": {
+            "title": "Switch Manual",
+            "src": "/assets/logos/video10.png"
+        },
+        "video11": {
+            "title": "Switch Automatic",
+            "src": "/assets/logos/video11.png"
+        },
+        "video12": {
+            "title": "Video Keyboard",
+            "src": "/assets/logos/video12.png"
+        },
+        "video13": {
+            "title": "Bi-static Beam Sensor",
+            "src": "/assets/logos/video13.png"
+        },
+        "video14": {
+            "title": "Security Window Screen",
+            "src": "/assets/logos/video14.png"
+        },
+        "video15": {
+            "title": "Video Motion Detector",
+            "src": "/assets/logos/video15.png"
+        },
+        "video16": {
+            "title": "Wire Connector",
+            "src": "/assets/logos/video16.png"
+        }
+    },
+    "Elevation Symbols": {
+        "elevation1": {
+            "title": "Frame",
+            "src": "/assets/logos/elevation1.png"
+        },
+        "elevation2": {
+            "title": "Frame 2",
+            "src": "/assets/logos/elevation2.png"
+        },
+        "elevation3": {
+            "title": "Divider-H",
+            "src": "/assets/logos/elevation3.png"
+        },
+        "elevation4": {
+            "title": "Divider-V",
+            "src": "/assets/logos/elevation4.png"
+        },
+        "elevation5": {
+            "title": "Divider-H 2",
+            "src": "/assets/logos/elevation5.png"
+        },
+        "elevation6": {
+            "title": "Divider-v 2",
+            "src": "/assets/logos/elevation6.png"
+        },
+        "elevation7": {
+            "title": "Divider 2",
+            "src": "/assets/logos/elevation7.png"
+        },
+        "elevation8": {
+            "title": "Rect",
+            "src": "/assets/logos/elevation8.png"
+        },
+        "elevation9": {
+            "title": "Door Left",
+            "src": "/assets/logos/elevation9.png"
+        },
+        "elevation24": {
+            "title": "Door Right",
+            "src": "/assets/logos/elevation24.png"
+        },
+        "elevation10": {
+            "title": "Door Double",
+            "src": "/assets/logos/elevation10.png"
+        },
+        "elevation11": {
+            "title": "Bedside Cabinet",
+            "src": "/assets/logos/elevation11.png"
+        },
+        "elevation12": {
+            "title": "Sofa",
+            "src": "/assets/logos/elevation12.png"
+        },
+        "elevation13": {
+            "title": "Washbasin",
+            "src": "/assets/logos/elevation13.png"
+        },
+        "elevation14": {
+            "title": "Plant",
+            "src": "/assets/logos/elevation14.png"
+        },
+        "elevation15": {
+            "title": "Fireplace",
+            "src": "/assets/logos/elevation15.png"
+        },
+        "elevation16": {
+            "title": "Painting",
+            "src": "/assets/logos/elevation16.png"
+        },
+        "elevation17": {
+            "title": "Wall",
+            "src": "/assets/logos/elevation17.png"
+        },
+        "elevation18": {
+            "title": "Flue",
+            "src": "/assets/logos/elevation18.png"
+        },
+        "elevation19": {
+            "title": "Table Facet",
+            "src": "/assets/logos/elevation19.png"
+        },
+        "elevation20": {
+            "title": "L Table Facet",
+            "src": "/assets/logos/elevation20.png"
+        },
+        "elevation21": {
+            "title": "Drainage Pipe",
+            "src": "/assets/logos/elevation21.png"
+        },
+        "elevation22": {
+            "title": "Outlet",
+            "src": "/assets/logos/elevation22.png"
+        },
+        "elevation23": {
+            "title": "Intake",
+            "src": "/assets/logos/elevation23.png"
+        },
+        "wardrobe1": {
+            "title": "Cabinet Dimension",
+            "src": "/assets/logos/wardrobe1.png"
+        },
+        "wardrobe2": {
+            "title": "Chest",
+            "src": "/assets/logos/wardrobe2.png"
+        },
+        "wardrobe3": {
+            "title": "Horizontal Board",
+            "src": "/assets/logos/wardrobe3.png"
+        },
+        "wardrobe4": {
+            "title": "Vertical Board",
+            "src": "/assets/logos/wardrobe4.png"
+        },
+        "wardrobe5": {
+            "title": "Clapboard with Size",
+            "src": "/assets/logos/wardrobe5.png"
+        },
+        "wardrobe6": {
+            "title": "Horizontal Clapboard",
+            "src": "/assets/logos/wardrobe6.png"
+        },
+        "wardrobe7": {
+            "title": "Vertical Clapboard",
+            "src": "/assets/logos/wardrobe7.png"
+        },
+        "wardrobe8": {
+            "title": "Top Box",
+            "src": "/assets/logos/wardrobe8.png"
+        },
+        "wardrobe9": {
+            "title": "Top Box (Right)",
+            "src": "/assets/logos/wardrobe9.png"
+        },
+        "wardrobe10": {
+            "title": "Drawer 1",
+            "src": "/assets/logos/wardrobe10.png"
+        },
+        "wardrobe11": {
+            "title": "Drawer 2",
+            "src": "/assets/logos/wardrobe11.png"
+        },
+        "wardrobe12": {
+            "title": "Drawer 3",
+            "src": "/assets/logos/wardrobe12.png"
+        },
+        "wardrobe13": {
+            "title": "Drawer 4",
+            "src": "/assets/logos/wardrobe13.png"
+        },
+        "wardrobe14": {
+            "title": "Drawer 5",
+            "src": "/assets/logos/wardrobe14.png"
+        },
+        "wardrobe15": {
+            "title": "Drawer 6",
+            "src": "/assets/logos/wardrobe15.png"
+        },
+        "wardrobe16": {
+            "title": "Drawer 7",
+            "src": "/assets/logos/wardrobe16.png"
+        },
+        "wardrobe17": {
+            "title": "Basket",
+            "src": "/assets/logos/wardrobe17.png"
+        },
+        "wardrobe18": {
+            "title": "Suitcase",
+            "src": "/assets/logos/wardrobe18.png"
+        },
+        "wardrobe19": {
+            "title": "Suitcase 2",
+            "src": "/assets/logos/wardrobe19.png"
+        },
+        "wardrobe20": {
+            "title": "Lattice",
+            "src": "/assets/logos/wardrobe20.png"
+        },
+        "wardrobe21": {
+            "title": "Clothes Hanger",
+            "src": "/assets/logos/wardrobe21.png"
+        },
+        "wardrobe22": {
+            "title": "Trouser Hanger",
+            "src": "/assets/logos/wardrobe22.png"
+        },
+        "wardrobe23": {
+            "title": "Suitcase 3",
+            "src": "/assets/logos/wardrobe23.png"
+        },
+        "wardrobe24": {
+            "title": "Box",
+            "src": "/assets/logos/wardrobe24.png"
+        },
+        "wardrobe25": {
+            "title": "Towel",
+            "src": "/assets/logos/wardrobe25.png"
+        },
+        "wardrobe26": {
+            "title": "Towel 2",
+            "src": "/assets/logos/wardrobe26.png"
+        },
+        "wardrobe27": {
+            "title": "Pillow",
+            "src": "/assets/logos/wardrobe27.png"
+        },
+        "wardrobe28": {
+            "title": "Quilt 1",
+            "src": "/assets/logos/wardrobe28.png"
+        },
+        "wardrobe29": {
+            "title": "Quilt 2",
+            "src": "/assets/logos/wardrobe29.png"
+        },
+        "wardrobe30": {
+            "title": "Quilt 3",
+            "src": "/assets/logos/wardrobe30.png"
+        },
+        "wardrobe31": {
+            "title": "Hat",
+            "src": "/assets/logos/wardrobe31.png"
+        },
+        "wardrobe32": {
+            "title": "Hanger",
+            "src": "/assets/logos/wardrobe32.png"
+        },
+        "wardrobe33": {
+            "title": "Photo Frame",
+            "src": "/assets/logos/wardrobe33.png"
+        },
+        "wardrobe34": {
+            "title": "Clothes",
+            "src": "/assets/logos/wardrobe34.png"
+        },
+        "wardrobe35": {
+            "title": "Pants",
+            "src": "/assets/logos/wardrobe35.png"
+        },
+        "wardrobe36": {
+            "title": "Hooks",
+            "src": "/assets/logos/wardrobe36.png"
+        },
+        "wardrobe37": {
+            "title": "Closet Framework",
+            "src": "/assets/logos/wardrobe37.png"
+        },
+        "wardrobe38": {
+            "title": "Horizontal Clapboard 2",
+            "src": "/assets/logos/wardrobe38.png"
+        },
+        "wardrobe39": {
+            "title": "Vertical Clapboard 2",
+            "src": "/assets/logos/wardrobe39.png"
+        },
+        "wardrobe40": {
+            "title": "Clothes Hanger",
+            "src": "/assets/logos/wardrobe40.png"
+        },
+        "wardrobe41": {
+            "title": "Drawer 4",
+            "src": "/assets/logos/wardrobe41.png"
+        },
+        "wardrobe42": {
+            "title": "Drawer 5",
+            "src": "/assets/logos/wardrobe42.png"
+        },
+        "wardrobe43": {
+            "title": "Suitcase 2",
+            "src": "/assets/logos/wardrobe43.png"
+        },
+        "wardrobe44": {
+            "title": "Hanger 2",
+            "src": "/assets/logos/wardrobe44.png"
+        },
+        "wardrobe45": {
+            "title": "Towel 3",
+            "src": "/assets/logos/wardrobe45.png"
+        },
+        "wardrobe46": {
+            "title": "Towel 4",
+            "src": "/assets/logos/wardrobe46.png"
+        },
+        "wardrobe47": {
+            "title": "Towel 5",
+            "src": "/assets/logos/wardrobe47.png"
+        },
+        "wardrobe48": {
+            "title": "Quilt 2",
+            "src": "/assets/logos/wardrobe48.png"
+        },
+        "wardrobe49": {
+            "title": "Pillow 2",
+            "src": "/assets/logos/wardrobe49.png"
+        },
+        "wardrobe50": {
+            "title": "Hat 2",
+            "src": "/assets/logos/wardrobe50.png"
+        },
+        "wardrobe51": {
+            "title": "Blue Dress",
+            "src": "/assets/logos/wardrobe51.png"
+        },
+        "wardrobe52": {
+            "title": "Red Dress",
+            "src": "/assets/logos/wardrobe52.png"
+        },
+        "wardrobe53": {
+            "title": "T-Shirt",
+            "src": "/assets/logos/wardrobe53.png"
+        },
+        "wardrobe54": {
+            "title": "Shirt",
+            "src": "/assets/logos/wardrobe54.png"
+        },
+        "wardrobe55": {
+            "title": "Toy",
+            "src": "/assets/logos/wardrobe55.png"
+        },
+        "wardrobe56": {
+            "title": "Photo Frame 2",
+            "src": "/assets/logos/wardrobe56.png"
+        },
+        "wardrobe57": {
+            "title": "Cabinet Light",
+            "src": "/assets/logos/wardrobe57.png"
+        },
+        "wardrobe58": {
+            "title": "Droplight",
+            "src": "/assets/logos/wardrobe58.png"
+        },
+        "wardrobe59": {
+            "title": "Ceiling Light",
+            "src": "/assets/logos/wardrobe59.png"
+        },
+        "wardrobe60": {
+            "title": "Desk Lamp",
+            "src": "/assets/logos/wardrobe60.png"
+        }
+    }
+}

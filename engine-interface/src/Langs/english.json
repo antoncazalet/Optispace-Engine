@@ -1,0 +1,363 @@
+{
+    "ERROR_TOKEN_NOT_FOUND": "Token not found",
+    "ERROR_WRONG_URL": "Wrong URL",
+    "ERROR_PROJECT_NOT_FOUND": "Project not found",
+    "ERROR_PROJECT_FILE_NOT_FOUND": "Project file not found",
+    "PROJECT_SAVE_SUCCESS": "Project saved successfully",
+    "PROJECT_SAVE_FAILED": "Project save failed",
+    "3D_VIEW": "3D View",
+    "2D_VIEW": "2D View",
+    "3D_ORTHO": "3D Orthographic view",
+    "FREE_ROAM_MODE": "Free Roam Mode",
+    "DRAW_WALL_MODE": "Draw Wall Mode",
+    "DELETE_WALL_MODE": "Delete Wall Mode",
+    "ADD_TEXT": "Add text",
+    "ADD_IMAGE": "Add image",
+    "ADD_LOGO": "Add logo",
+    "UPDATE_TEXT": "Update text",
+    "UPDATE_IMAGE": "Update image",
+    "TOOLBAR_3D": {
+        "TRANSLATE_MODE": "Translate mode",
+        "ROTATE_MODE": "Rotate mode",
+        "SCALE_MODE": "Scale mode"
+    },
+    "SELECTION_MODE": "Selection mode",
+    "ZOOM": "Zoom",
+    "SETTINGS": "Settings",
+    "SCREENSHOT": "Screenshot",
+    "ABOUT": "About",
+    "SAVE": "Save",
+    "LANGUAGES": "Languages",
+    "HELP_CENTER": "Help center",
+    "KEYBOARD_SHORTCUTS": "Keyboard shortcuts",
+    "LANGUAGE_CHANGE_SUCCESS": "Language changed successfully",
+    "FURNITURE": {
+        "FURNITURES": "Furnitures",
+        "ADD": "Add furniture",
+        "NO_FURNITURES": "No furnitures",
+        "LOADING_FURNITURES": "Loading furnitures...",
+        "SEARCH_FURNITURES": "Search furnitures",
+        "FURNITURE_TYPES": {
+            "TYPES": "Furniture Types",
+            "FURNITURE": "Furniture",
+            "FLOOR": "Floor furniture",
+            "WALL": "Wall furniture",
+            "DOOR_WINDOWS": "Door and Windows",
+            "CEILING": "Ceiling objects",
+            "ID5": "ID5: Unknown",
+            "ID6": "ID6: Unknown",
+            "IN_WALL_FLOOR": "In Wall and Floor furniture",
+            "ON_FLOOR": "On Floor furniture",
+            "WALL_FLOOR": "Wall and Floor furniture"
+        }
+    },
+    "UNIT_MENU": {
+        "UNIT": "Unit",
+        "UNIT_FEETS": "Feets",
+        "UNIT_METERS": "Meters",
+        "UNIT_CENTIMETERS": "Centimeters",
+        "UNIT_MILLIMETERS": "Millimeters",
+        "UNIT_INCHES": "Inches"
+    },
+    "3D_MENU": {
+        "3D": "3D",
+        "MENU_CAMERA": "Camera",
+        "CAMERA_RANGE": "Range",
+        "LOCK_CAMERA": "Lock Camera",
+        "RESET_CAMERA": "Reset Camera"
+    },
+    "2D_MENU": {
+        "2D": "2D",
+        "MENU_MEASURES": "Measures",
+        "SNAP_TO_GRID": "Snap to Grid",
+        "SNAP_EVERY_METERS": "Snap every",
+        "WALL_MEASUREMENTS": "Wall measurements",
+        "DISPLAY_LABELS": "Display labels",
+        "DISPLAY_EXTERIOR_LABELS": "Display exterior labels",
+        "DISPLAY_INTERIOR_LABELS": "Display interior labels",
+        "DISPLAY_MIDLINE_LABELS": "Display midline labels",
+        "EXTERIOR_LABEL": "Exterior label",
+        "INTERIOR_LABEL": "Interior label",
+        "MIDLINE_LABEL": "Midline label"
+    },
+    "DIALOG": {
+        "CLOSE": "Close",
+        "CANCEL": "Cancel",
+        "SAVE": "Save",
+        "OK": "OK"
+    },
+    "HELP_CENTER_TAB": {
+        "HEADER": "Help Center",
+        "TITLE": "How can we help you ?",
+        "NO_RESULT": "We found no answers to your question yet. Please send us a message using the button on the right.",
+        "QUESTIONS": {
+            "1": {
+                "QUESTION": "How to switch from 2D to 3D view?",
+                "ANSWER": "You can switch from 2D to 3D view by clicking on the first button in the toolbar on the left of your screen."
+            },
+            "2": {
+                "QUESTION": "How to switch from 3D to 2D view?",
+                "ANSWER": "You can switch from 3D to 2D view by clicking on the second button in the toolbar on the left of your screen."
+            },
+            "3": {
+                "QUESTION": "How to move in 3D view?",
+                "ANSWER": "You can use your mouse to move. Use the left button to move and the right button to rotate."
+            },
+            "4": {
+                "QUESTION": "How to move in 2D view?",
+                "ANSWER": "You can use your mouse to move. Use the left button to move the view."
+            },
+            "5": {
+                "QUESTION": "How to zoom in 3D view?",
+                "ANSWER": "You can use your mouse to zoom. Use the scroll wheel to zoom in and out."
+            },
+            "6": {
+                "QUESTION": "How to zoom in 2D view?",
+                "ANSWER": "You can use the 'Zoom' button in the toolbar. A popup will appear where you can zoom in and out."
+            },
+            "7": {
+                "QUESTION": "How to draw a wall in 2D view?",
+                "ANSWER": "You can use the 'Draw Wall' button in the toolbar. Your mouse will change to a pencil. Start drawing by clicking on a position with the left button on your mouse. The start of the wall will be created. Click again on another position to set the end of the wall."
+            },
+            "8": {
+                "QUESTION": "How to delete a wall in 2D view?",
+                "ANSWER": "You can use the 'Delete Wall' button in the toolbar. Your mouse will change to a cross. Click on a wall to delete it."
+            },
+            "9": {
+                "QUESTION": "How to move a wall in 2D view?",
+                "ANSWER": "You can use the 'Selection' button in the toolbar. Your mouse will change to a cross. Click on a wall to move it. Move the mouse and stay pressed on the left button to move the wall."
+            },
+            "10": {
+                "QUESTION": "How to change the unit of measure?",
+                "ANSWER": "You can change the unit of measure in the 'Settings' menu, available in the toolbar."
+            },
+            "11": {
+                "QUESTION": "How to display measurements in 2D view?",
+                "ANSWER": "You can display measurements in the 'Settings' menu, available in the toolbar."
+            },
+            "12": {
+                "QUESTION": "How to add a furniture?",
+                "ANSWER": "You can add a furniture by clicking on the 'Add Furniture' button in the toolbar. A popup will appear where you can search for a furniture. Click on the furniture you want to add and click on the 'Add' button."
+            }
+        }
+    },
+    "EDITION_MODE": "You're in edition mode.",
+    "WELCOME_CENTER": {
+        "WELCOME_TAB": {
+            "TAB_TITLE": "Welcome 👋",
+            "TITLE": "Welcome on the Optispace's dedicated plateform for managing your premises. You will find here all the necessary tools to start creating 🚀",
+            "SUBTITLE": "N. B: The platform is still under construction, do not hesitate to send us your feedback/bugs by using the small 'Help' button at the top right of your screen."
+        },
+        "GET_INFOS": {
+            "TAB_TITLE": "Let's get some informations first ℹ️",
+            "TYPE_OF_PROJECT": "Do you have a name for this project ?"
+        },
+        "GET_SPECS_INFOS": {
+            "TAB_TITLE": "Tell us more about your project 📐",
+            "KIND_OF_PROJECT": {
+                "TITLE": "What kind of project do you plan to create ?",
+                "ANSWERS": {
+                    "1": "House",
+                    "2": "Office",
+                    "3": "Shop",
+                    "4": "Public place",
+                    "5": "Other"
+                }
+            }
+        },
+        "UPLOAD_PLAN_OR_PLACEHOLDER": {
+            "TAB_TITLE": "Let's create ✏️",
+            "QUESTION": "Do you have an architectural plan (in DXF format) ?",
+            "CHOICES": {
+                "1": "Yes",
+                "2": "No"
+            },
+            "UPLOAD_YES": {
+                "TITLE": "Please upload your file using the button below. Your plan will be uploaded to our servers to be scanned and will converted for our visualizer.",
+                "SELECT_A_FILE": "Select a file",
+                "SELECT_A_FILE_WRONG_FORMAT": "Please select a DXF file",
+                "REQUEST_SUCCESS": "Your file has been uploaded successfully. You can now start designing your project.",
+                "REQUEST_FAILED": "An error occured while uploading your file. Please try again later."
+            },
+            "PLACEHOLDER_NO": {
+                "TITLE": "You can select a placeholder to start your project. You will be able to upload your plan later. Please select a placeholder to start your project.",
+                "REQUEST_SUCCESS": "Your placeholder has been uploaded successfully. You can now start designing your project.",
+                "REQUEST_FAILED": "An error occured while uploading your placeholder. Please try again later."
+            }
+        }
+    },
+    "ALGORITHM_PANEL": {
+        "HEADER": "Plan generator",
+        "GENERATOR_SETTINGS": "Generator settings",
+        "PARAMETERS": {
+            "NEGATIVE_NUMBER": "Please enter a positive parameter value.",
+            "EMPLOYEES_NUMBER": "Number of employees",
+            "EMPLOYEES_DISTANCE": "Distance between employees (in meters)"
+        },
+        "PARAMETERS_INCOMPLETE": "Please fill all the parameters before generating your plan.",
+        "BUTTON_SUBMIT": "Generate plan",
+        "LOADING_SCREEN": {
+            "TITLE": "Generating plan...",
+            "DESCRIPTION": "Please wait while we generate your plan. It will take a few seconds."
+        },
+        "RESULT_SUCCESS": "Your plan has been generated successfully. You can now start designing your project.",
+        "RESULT_FAILED": "An error occured while generating your plan. Please try again later."
+    },
+    "SCREENSHOT_TOOL": {
+        "ACTION_SUCCESS": "Your screenshot is ready.",
+        "ACTION_FAILED": "An error occured while generating your screenshot. Please try again later.",
+        "DOWNLOAD": "Download",
+        "SHARE": "Share",
+        "SHARE_SET_PROJECT_IMAGE": "Set as project image",
+        "SHARE_SET_PROJECT_IMAGE_SUCCESS": "Your project image has been updated successfully.",
+        "SHARE_SET_PROJECT_IMAGE_FAILED": "An error occured while updating your project image. Please try again later."
+    },
+    "ITEM_PANEL": {
+        "HEADER": "Item",
+        "NAME": "Name",
+        "TYPE": "Type",
+        "POSITION": "Position",
+        "ROTATION": "Rotation",
+        "SCALE": "Scale",
+        "COLOR": "Color",
+        "UPDATE": "Update",
+        "UPDATE_SUCCESS": "Your item has been updated successfully.",
+        "DELETE": "Delete"
+    },
+    "ROOM_PANEL": {
+        "HEADER": "Room settings",
+        "PARAMETERS_NAME": "Name",
+        "PARAMETERS_TYPE": "Type",
+        "PARAMETERS_SIZE": "Size",
+        "PARAMETERS_TAGS": "Tags (keywords)",
+        "PARAMETERS_FLOOR_MATERIEL": "Changer floor texture",
+        "UPDATE": "Update",
+        "UPDATE_SUCCESS": "Your room has been updated successfully."
+    },
+    "STEPPER": {
+        "NEXT": "Next",
+        "PREVIOUS": "Previous",
+        "SKIP": "Skip",
+        "FINISH": "Finish"
+    },
+    "TAGS": {
+        "ADD": "Add",
+        "DELETE": "Delete",
+        "COLOR_TAG": "Color tag"
+    },
+    "TEXT_PANEL": {
+        "WRITE_TEXT": "Write your text here",
+        "UPDATE": "Update",
+        "DELETE": "Delete",
+        "ADD": "Add",
+        "PARAMETERS": {
+            "BOLD": "Bold",
+            "UNDERLINE": "Underline",
+            "ITALIC": "Italic",
+            "ALIGN_LEFT": "Align left",
+            "ALIGN_CENTER": "Align center",
+            "ALIGN_RIGHT": "Align right",
+            "BACKGROUND_COLOR": "Background color",
+            "FONT_COLOR": "Font color",
+            "FONT_SIZE": "Font size",
+            "FONT_FAMILY": "Font family"
+        },
+        "MESSAGES": {
+            "UPDATE_SUCCESS": "Your text has been updated successfully.",
+            "DELETE_SUCCESS": "Your text has been deleted successfully.",
+            "ADD_SUCCESS": "Your text has been added successfully.",
+            "NOT_VALID": "Please fill all the parameters before adding your text."
+        },
+        "COLORS": {
+            "transparant": "transparant",
+            "black": "black",
+            "white": "white",
+            "red": "red",
+            "green": "green",
+            "blue": "blue",
+            "yellow": "yellow",
+            "orange": "orange",
+            "purple": "purple",
+            "brown": "brown"
+        }
+    },
+    "IMAGE_PANEL": {
+        "SELECT_IMAGE": "Select your image",
+        "UPDATE": "Update",
+        "DELETE": "Delete",
+        "ADD": "Add",
+        "MESSAGES": {
+            "UPDATE_SUCCESS": "Your image has been updated successfully.",
+            "DELETE_SUCCESS": "Your image has been deleted successfully.",
+            "ADD_SUCCESS": "Your image has been added successfully.",
+            "NOT_VALID": "Please fill all the parameters before adding your image."
+        },
+        "PARAMETERS": {
+            "SIZE": "Size",
+            "POSITION": "Position"
+        }
+    },
+    "LOGO_PANEL": {
+        "LOGO_TYPES": "Logo types",
+        "SEARCH": "Search",
+        "AFFINATE_SEARCH": "Please affinate your search",
+        "SEARCH_DEFAULT": "Please select a category or search a logo",
+        "ADD_LOGO": "Add logo",
+        "CATEGORIES": {
+            "Wall Shell and Structure Symbols": "Wall Shell and Structure Symbols",
+            "Doors and Windows Symbols": "Doors and Windows Symbols",
+            "Applicance Symbols": "Applicance Symbols",
+            "Athletic Ground Symbols": "Athletic Ground Symbols",
+            "Bathroom Symbols": "Bathroom Symbols",
+            "Bedroom Symbols": "Bedroom Symbols",
+            "Building Core Symbols": "Building Core Symbols",
+            "Cabinet and Bookcases Symbols": "Cabinet and Bookcases Symbols",
+            "Carpet Symbols": "Carpet Symbols",
+            "Dimensioning Symbols": "Dimensioning Symbols",
+            "Fire and Emergency Symbols": "Fire and Emergency Symbols",
+            "Garden Symbols": "Garden Symbols",
+            "HVAC Symbols": "HVAC Symbols",
+            "Kitchen and Dinning Room Symbols": "Kitchen and Dinning Room Symbols",
+            "Office Symbols": "Office Symbols",
+            "Plumbing and Piping Symbols": "Plumbing and Piping Symbols",
+            "Reflected Ceiling Plan Symbols": "Reflected Ceiling Plan Symbols",
+            "Seating Chart Symbols": "Seating Chart Symbols",
+            "Security Plan Symbols": "Security Plan Symbols",
+            "Elevation Symbols": "Elevation Symbols"
+        }
+    },
+    "KB_SHORTCUTS": {
+        "TOGGLE_2D_VIEW": "Toggle 2D view",
+        "TOGGLE_3D_VIEW": "Toggle 3D view",
+        "TOGGLE_3D_VIEW_ORTHO": "Toggle 3D view (Orthographic)"
+    },
+    "OBJECTS_LISTS": {
+        "HEADER": "Entities",
+        "TEXTS": "Texts",
+        "IMAGES": "Images",
+        "ROOMS": "Rooms",
+        "OBJECTS": "3D Objects"
+    },
+    "ROOM_TYPE": {
+        "LIVING": "Living",
+        "KITCHEN": "Kitchen",
+        "DINING_ROOM": "Dining room",
+        "BATHROOM": "Bathroom",
+        "LIVING_ROOM": "Living room",
+        "TOILET": "Toilet",
+        "OFFICE": "Office",
+        "MEETING_ROOM": "Meeting room",
+        "HALLWAY": "Hallway",
+        "UTILITY": "Utility",
+        "TERRACE": "Terrace",
+        "OTHER": "Other"
+    },
+    "ROOM_TYPE_WARNING": {
+        "TOILET": "A toilet must not exceed 200m² for an optimal result.",
+        "KITCHEN": "A kitchen must not exceed 200m² for an optimal result.",
+        "BATHROOM": "A bathroom must not exceed 150 for an optimal result."
+    },
+    "STATUS_ALGORITHM": {
+        "REMAINING_WORKERS": "The algorithm placed {1} employee(s) on a total of {2} employee(s)"
+    }
+}

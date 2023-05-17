@@ -1,0 +1,66 @@
+diff --git a/node_modules/three/examples/jsm/controls/FirstPersonControls.js b/node_modules/three/examples/jsm/controls/FirstPersonControls.js
+index 0d03421..fa699e6 100644
+--- a/node_modules/three/examples/jsm/controls/FirstPersonControls.js
++++ b/node_modules/three/examples/jsm/controls/FirstPersonControls.js
+@@ -60,6 +60,18 @@ class FirstPersonControls {
+ 
+ 		//
+ 
++        this.addEventListener = function ( type, listener ) {
++            if ( this.domElement ) {
++                this.domElement.addEventListener( type, listener, false );
++            }
++        };
++
++        this.removeEventListener = function ( type, listener ) {
++            if ( this.domElement ) {
++                this.domElement.removeEventListener( type, listener, false );
++            }
++        };
++
+ 		this.handleResize = function () {
+ 
+ 			if ( this.domElement === document ) {
+diff --git a/node_modules/three/examples/jsm/controls/OrbitControls.js b/node_modules/three/examples/jsm/controls/OrbitControls.js
+index 4288a01..83f2060 100644
+--- a/node_modules/three/examples/jsm/controls/OrbitControls.js
++++ b/node_modules/three/examples/jsm/controls/OrbitControls.js
+@@ -99,6 +99,14 @@ class OrbitControls extends EventDispatcher {
+ 		// public methods
+ 		//
+ 
++        this.zoomIn = function () {
++            return dollyIn(getZoomScale());
++        };
++
++        this.zoomOut = function () {
++            return dollyOut(getZoomScale());
++        };
++
+ 		this.getPolarAngle = function () {
+ 
+ 			return spherical.phi;
+diff --git a/node_modules/three/examples/jsm/controls/TransformControls.js b/node_modules/three/examples/jsm/controls/TransformControls.js
+index 839e8b5..79ac518 100644
+--- a/node_modules/three/examples/jsm/controls/TransformControls.js
++++ b/node_modules/three/examples/jsm/controls/TransformControls.js
+@@ -584,9 +584,6 @@ class TransformControls extends Object3D {
+ 			this.object.quaternion.copy( this._quaternionStart );
+ 			this.object.scale.copy( this._scaleStart );
+ 
+-			this.dispatchEvent( _changeEvent );
+-			this.dispatchEvent( _objectChangeEvent );
+-
+ 			this.pointStart.copy( this.pointEnd );
+ 
+ 		}
+@@ -1011,9 +1008,6 @@ class TransformControlsGizmo extends Object3D {
+ 			YZ: [
+ 				[ new Mesh( new BoxGeometry( 0.15, 0.15, 0.01 ), matRedTransparent ), [ 0, 0.15, 0.15 ], [ 0, Math.PI / 2, 0 ]]
+ 			],
+-			XZ: [
+-				[ new Mesh( new BoxGeometry( 0.15, 0.15, 0.01 ), matGreenTransparent ), [ 0.15, 0, 0.15 ], [ - Math.PI / 2, 0, 0 ]]
+-			],
+ 			XYZ: [
+ 				[ new Mesh( new BoxGeometry( 0.1, 0.1, 0.1 ), matWhiteTransparent.clone() ) ],
+ 			]

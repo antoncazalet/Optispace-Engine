@@ -1,0 +1,21 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+        "declaration": true,
+        "declarationDir": "./declarations",
+        "sourceMap": true,
+        "allowJs": true,
+        "strict": false,
+        "noImplicitAny": false,
+        "outDir": "dist",
+    },
+    "include": [
+        "./src/**/*.ts",
+    ],
+    "exclude": [
+        "node_modules",
+        "./node_modules",
+        "./node_modules/*",
+        "./node_modules/@types/node/index.d.ts",
+    ]
+}

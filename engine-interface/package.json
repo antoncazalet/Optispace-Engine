@@ -1,0 +1,76 @@
+{
+    "name": "engine-interface",
+    "version": "0.0.1",
+    "description": "The interface of the Optispace Engine.",
+    "private": true,
+    "main": "src/index.tsx",
+    "typings": "src/*.d.ts",
+    "scripts": {
+        "dev": "NODE_ENV=dev webpack serve --host 0.0.0.0 --port 8080 --config webpack.config.dev.js",
+        "build": "NODE_ENV=production webpack --config webpack.config.prod.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/optispace/optispace-engine/optispace-engine.git"
+    },
+    "keywords": [
+        "optispace",
+        "engine",
+        "interface"
+    ],
+    "author": "Anton CAZALET / Thomas SENECHAL",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://gitlab.com/optispace/optispace-engine/optispace-engine/issues"
+    },
+    "dependencies": {
+        "@emotion/react": "^11.10.4",
+        "@emotion/styled": "^11.10.4",
+        "@mui/icons-material": "^5.10.9",
+        "@mui/lab": "^5.0.0-alpha.104",
+        "@mui/material": "^5.10.10",
+        "@mui/x-data-grid": "^5.17.9",
+        "@types/lodash.get": "^4.4.7",
+        "@types/lodash.uniqueid": "^4.0.7",
+        "@types/node": "^18.11.3",
+        "@types/react": "^18.0.21",
+        "@types/react-color": "^3.0.6",
+        "@types/react-dom": "^18.0.6",
+        "@types/react-helmet": "^6.1.5",
+        "@types/react-router-dom": "^5.3.3",
+        "axios": "^1.1.3",
+        "clean-webpack-plugin": "^4.0.0",
+        "copy-webpack-plugin": "^11.0.0",
+        "dotenv": "^16.0.3",
+        "eslint-webpack-plugin": "^3.2.0",
+        "html-webpack-plugin": "^5.5.0",
+        "lodash.get": "^4.4.2",
+        "lodash.uniqueid": "^4.0.1",
+        "notistack": "^2.0.8",
+        "react": "^18.2.0",
+        "react-color": "^2.19.3",
+        "react-dom": "^18.2.0",
+        "react-draggable": "^4.4.5",
+        "react-helmet": "^6.1.0",
+        "react-router-dom": "^6.4.2",
+        "ts-loader": "^9.4.1",
+        "ts-pattern": "^4.0.5",
+        "typescript": "^4.8.4",
+        "webpack": "^5.74.0",
+        "webpack-cli": "^4.10.0",
+        "webpack-dev-server": "^4.11.1",
+        "webpack-merge": "^5.8.0"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}

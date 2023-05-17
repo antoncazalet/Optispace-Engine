@@ -1,0 +1,38 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
+        "declaration": false,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "noEmit": false,
+        "jsx": "react-jsx",
+        "noImplicitAny": true,
+        "downlevelIteration": true,
+        "typeRoots": [
+            "./src/@types",
+            "./node_modules/**/*"
+        ],
+        "paths": {
+            "*": [
+                "./src/@types/*"
+            ]
+        },
+        "types": [
+            "node"
+        ]
+    },
+    "include": [
+        "src/Optiengine/index.js",
+        "src/Declarations.d.ts"
+    ],
+}

@@ -1,0 +1,363 @@
+{
+    "ERROR_TOKEN_NOT_FOUND": "Token non trouvé",
+    "ERROR_WRONG_URL": "URL incorrecte",
+    "ERROR_PROJECT_NOT_FOUND": "Projet non trouvé",
+    "ERROR_PROJECT_FILE_NOT_FOUND": "Fichier de projet non trouvé",
+    "PROJECT_SAVE_SUCCESS": "Projet sauvegardé avec succès",
+    "PROJECT_SAVE_FAILED": "Échec de la sauvegarde du projet",
+    "3D_VIEW": "Vue 3D",
+    "2D_VIEW": "Vue 2D",
+    "3D_ORTHO": "Vue 3D Orthographique",
+    "FREE_ROAM_MODE": "Mode libre",
+    "DRAW_WALL_MODE": "Mode dessin de mur",
+    "DELETE_WALL_MODE": "Mode suppression de mur",
+    "ADD_TEXT": "Ajouter du texte",
+    "ADD_IMAGE": "Ajouter une image",
+    "ADD_LOGO": "Ajouer un logo",
+    "UPDATE_TEXT": "Mettre à jour le texte",
+    "UPDATE_IMAGE": "Mettre à jour l'image",
+    "TOOLBAR_3D": {
+        "TRANSLATE_MODE": "Mode de déplacement",
+        "ROTATE_MODE": "Mode de rotation",
+        "SCALE_MODE": "Mode d'échelle"
+    },
+    "SELECTION_MODE": "Mode sélection",
+    "ZOOM": "Zoom",
+    "SETTINGS": "Paramètres",
+    "SCREENSHOT": "Capture d'écran",
+    "ABOUT": "À propos",
+    "SAVE": "Sauvegarder",
+    "LANGUAGES": "Langues",
+    "HELP_CENTER": "Centre d'aide",
+    "KEYBOARD_SHORTCUTS": "Raccourcis clavier",
+    "LANGUAGE_CHANGE_SUCCESS": "Langue changée avec succès",
+    "FURNITURE": {
+        "FURNITURES": "Meubles",
+        "ADD": "Ajouter un meuble",
+        "NO_FURNITURES": "Aucun meuble",
+        "LOADING_FURNITURES": "Chargement des meubles...",
+        "SEARCH_FURNITURES": "Rechercher des meubles",
+        "FURNITURE_TYPES": {
+            "TYPES": "Types de meubles",
+            "FURNITURE": "Meuble",
+            "FLOOR": "Meuble au sol",
+            "WALL": "Meuble au mur",
+            "DOOR_WINDOWS": "Portes et fenêtres",
+            "CEILING": "Au plafond",
+            "ID5": "ID5: Inconnu",
+            "ID6": "ID6: Inconnu",
+            "IN_WALL_FLOOR": "Dans le mur ou au sol",
+            "ON_FLOOR": "Sur le sol",
+            "WALL_FLOOR": "Meubles au sol collé au mur"
+        }
+    },
+    "UNIT_MENU": {
+        "UNIT": "Unité",
+        "UNIT_FEETS": "Pieds",
+        "UNIT_METERS": "Mètres",
+        "UNIT_CENTIMETERS": "Centimètres",
+        "UNIT_MILLIMETERS": "Millimètres",
+        "UNIT_INCHES": "Pouces"
+    },
+    "3D_MENU": {
+        "3D": "3D",
+        "MENU_CAMERA": "Caméra",
+        "CAMERA_RANGE": "Portée",
+        "LOCK_CAMERA": "Verrouiller la caméra",
+        "RESET_CAMERA": "Réinitialiser la caméra"
+    },
+    "2D_MENU": {
+        "2D": "2D",
+        "MENU_MEASURES": "Mesures",
+        "SNAP_TO_GRID": "Grille",
+        "SNAP_EVERY_METERS": "Grille toutes les",
+        "WALL_MEASUREMENTS": "Mesures de mur",
+        "DISPLAY_LABELS": "Afficher les étiquettes",
+        "DISPLAY_EXTERIOR_LABELS": "Afficher les étiquettes extérieures",
+        "DISPLAY_INTERIOR_LABELS": "Afficher les étiquettes intérieures",
+        "DISPLAY_MIDLINE_LABELS": "Afficher les étiquettes de milieu",
+        "EXTERIOR_LABEL": "Étiquette extérieure",
+        "INTERIOR_LABEL": "Étiquette intérieure",
+        "MIDLINE_LABEL": "Étiquette de milieu"
+    },
+    "DIALOG": {
+        "CLOSE": "Fermer",
+        "CANCEL": "Annuler",
+        "SAVE": "Sauvegarder",
+        "OK": "OK"
+    },
+    "HELP_CENTER_TAB": {
+        "HEADER": "Centre d'aide",
+        "TITLE": "Comment pouvons-nous vous aider ?",
+        "NO_RESULT": "Nous n'avons trouvé aucune réponse à votre question. Merci de nous contacter en cliquant sur le bouton sur la droite.",
+        "QUESTIONS": {
+            "1": {
+                "QUESTION": "Comment passer de la vue 2D à la vue 3D ?",
+                "ANSWER": "Pour passer de la vue 2D à la vue 3D, cliquez sur le bouton \"Vue 3D\" dans la barre d'outil à gauche de votre écran."
+            },
+            "2": {
+                "QUESTION": "Comment passer de la vue 3D à la vue 2D?",
+                "ANSWER": "Vous pouvez passer de la vue 3D à la vue 2D en cliquant sur le deuxième bouton dans la barre d'outils à gauche de votre écran."
+            },
+            "3": {
+                "QUESTION": "Comment se déplacer dans la vue 3D?",
+                "ANSWER": "Vous pouvez utiliser votre souris pour vous déplacer. Utilisez le bouton gauche pour vous déplacer et le bouton droit pour faire pivoter."
+            },
+            "4": {
+                "QUESTION": "Comment se déplacer dans la vue 2D?",
+                "ANSWER": "Vous pouvez utiliser votre souris pour vous déplacer. Utilisez le bouton gauche pour déplacer la vue."
+            },
+            "5": {
+                "QUESTION": "Comment zoomer dans la vue 3D?",
+                "ANSWER": "Vous pouvez utiliser votre souris pour zoomer. Utilisez la molette de votre souris pour zoomer et dézoomer."
+            },
+            "6": {
+                "QUESTION": "Comment zoomer dans la vue 2D?",
+                "ANSWER": "Vous pouvez utiliser le bouton 'Zoom' dans la barre d'outils. Une fenêtre s'ouvrira où vous pourrez zoomer et dézoomer."
+            },
+            "7": {
+                "QUESTION": "Comment dessiner un mur dans la vue 2D?",
+                "ANSWER": "Vous pouvez utiliser le bouton 'Dessiner mur' (icône de crayon) dans la barre d'outils. Votre souris changera en un crayon. Commencez à dessiner en cliquant sur une position avec le bouton gauche de votre souris. Le début du mur sera créé. Cliquez à nouveau sur une autre position pour définir la fin du mur."
+            },
+            "8": {
+                "QUESTION": "Comment supprimer un mur dans la vue 2D?",
+                "ANSWER": "Vous pouvez utiliser le bouton 'Supprimer mur' (icône de croix) dans la barre d'outils. Votre souris changera en une croix. Cliquez sur un mur pour le supprimer."
+            },
+            "9": {
+                "QUESTION": "Comment déplacer un mur dans la vue 2D?",
+                "ANSWER": "Vous pouvez utiliser le bouton 'Selection' dans la barre d'outils. Votre souris changera en une croix. Cliquez sur un mur pour le déplacer. Déplacez la souris et maintenez le bouton gauche enfoncé pour déplacer le mur."
+            },
+            "10": {
+                "QUESTION": "Comment changer d'unité de mesure?",
+                "ANSWER": "Vous pouvez changer l'unité de mesure depuis le menu 'Paramètres', disponible via la barre d'outils."
+            },
+            "11": {
+                "QUESTION": "Comment afficher les mesures dans la vue 2D?",
+                "ANSWER": "Vous pouvez afficher les différentes mesures depuis le menu 'Paramètres', disponible via la barre d'outils."
+            },
+            "12": {
+                "QUESTION": "Comment ajouter un meuble?",
+                "ANSWER": "Vous pouvez ajouter un meuble en cliquant sur le bouton 'Ajouter meuble' dans la barre d'outils. Une fenêtre s'ouvrira où vous pourrez sélectionner le meuble que vous souhaitez ajouter. Vous pouvez ensuite cliquer sur le meuble que vous souhaitez ajouter."
+            }
+        }
+    },
+    "EDITION_MODE": "Vous êtes en mode édition.",
+    "WELCOME_CENTER": {
+        "WELCOME_TAB": {
+            "TAB_TITLE": "Bienvenue 👋",
+            "TITLE": "Bienvenue sur la plateforme dédiée d'Optispace pour gérer vos locaux. Vous y trouverez tous les outils nécessaires pour commencer à créer 🚀",
+            "SUBTITLE": "N. B: La plateforme est encore en construction, n'hésitez pas à nous envoyer vos retours/bugs en utilisant le petit bouton 'Aide' en haut à droite de votre écran."
+        },
+        "GET_INFOS": {
+            "TAB_TITLE": "Commencez par nous donner quelques informations ℹ️",
+            "TYPE_OF_PROJECT": "Avez-vous un nom pour ce projet ?"
+        },
+        "GET_SPECS_INFOS": {
+            "TAB_TITLE": "Parlez-nous un peu plus de votre projet 📐",
+            "KIND_OF_PROJECT": {
+                "TITLE": "Quel type de projet souhaitez-vous créer ?",
+                "ANSWERS": {
+                    "1": "Maison",
+                    "2": "Bureau",
+                    "3": "Magasin",
+                    "4": "Lieu public",
+                    "5": "Autre"
+                }
+            }
+        },
+        "UPLOAD_PLAN_OR_PLACEHOLDER": {
+            "TAB_TITLE": "Créons ensemble ✏️",
+            "QUESTION": "Avez-vous un plan architectural (au format DXF) ?",
+            "CHOICES": {
+                "1": "Oui",
+                "2": "Non"
+            },
+            "UPLOAD_YES": {
+                "TITLE": "Veuillez télécharger votre fichier en utilisant le bouton ci-dessous. Votre plan sera téléchargé sur nos serveurs pour être scanné et converti pour notre visualiseur.",
+                "SELECT_A_FILE": "Sélectionner un fichier",
+                "SELECT_A_FILE_WRONG_FORMAT": "Veuillez sélectionner un fichier DXF",
+                "REQUEST_SUCCESS": "Votre fichier a été téléchargé avec succès. Vous pouvez maintenant commencer à concevoir votre projet.",
+                "REQUEST_FAILED": "Une erreur s'est produite lors du téléchargement de votre fichier. Veuillez réessayer plus tard."
+            },
+            "PLACEHOLDER_NO": {
+                "TITLE": "Vous pouvez sélectionner un placeholder pour commencer votre projet. Vous pourrez ensuite télécharger votre plan. Veuillez sélectionner un placeholder pour commencer votre projet.",
+                "REQUEST_SUCCESS": "Votre placeholder a été téléchargé avec succès. Vous pouvez maintenant commencer à concevoir votre projet.",
+                "REQUEST_FAILED": "Une erreur s'est produite lors du téléchargement de votre placeholder. Veuillez réessayer plus tard"
+            }
+        }
+    },
+    "ALGORITHM_PANEL": {
+        "HEADER": "Générateur de plan",
+        "GENERATOR_SETTINGS": "Paramètres du générateur",
+        "PARAMETERS": {
+            "NEGATIVE_NUMBER": "Vous devez insérer un paramètre positif.",
+            "EMPLOYEES_NUMBER": "Nombre d'employés",
+            "EMPLOYEES_DISTANCE": "Distance entre les employés (en mètres)"
+        },
+        "PARAMETERS_INCOMPLETE": "Veuillez remplir tous les paramètres avant de générer votre plan.",
+        "BUTTON_SUBMIT": "Générer le plan",
+        "LOADING_SCREEN": {
+            "TITLE": "Génération du plan...",
+            "DESCRIPTION": "Veuillez patienter pendant que nous générons votre plan. Cela prendra quelques secondes."
+        },
+        "RESULT_SUCCESS": "Votre plan a été généré avec succès. Vous pouvez maintenant commencer à concevoir votre projet.",
+        "RESULT_FAILED": "Une erreur s'est produite lors de la génération de votre plan. Veuillez réeesayer utérieurement."
+    },
+    "SCREENSHOT_TOOL": {
+        "ACTION_SUCCESS": "Votre capture d'écran est prête.",
+        "ACTION_FAILED": "Une erreur s'est produite lors de la génération de votre capture d'écran. Veuillez réessayer.",
+        "DOWNLOAD": "Télécharger",
+        "SHARE": "Partager",
+        "SHARE_SET_PROJECT_IMAGE": "Définir comme image de projet",
+        "SHARE_SET_PROJECT_IMAGE_SUCCESS": "Votre image de projet a été mise à jour avec succès.",
+        "SHARE_SET_PROJECT_IMAGE_FAILED": "Une erreur s'est produite lors de la mise à jour de votre image de projet. Veuillez réessayer plus tard"
+    },
+    "ITEM_PANEL": {
+        "HEADER": "Objet",
+        "NAME": "Nom",
+        "TYPE": "Type",
+        "POSITION": "Position",
+        "ROTATION": "Rotation",
+        "SCALE": "Echelle",
+        "COLOR": "Couleur",
+        "UPDATE": "Mettre à jour",
+        "UPDATE_SUCCESS": "L'object a été mis à jour avec succès.",
+        "DELETE": "Supprimer"
+    },
+    "ROOM_PANEL": {
+        "HEADER": "Gestion de la pièce",
+        "PARAMETERS_NAME": "Nom",
+        "PARAMETERS_TYPE": "Type",
+        "PARAMETERS_SIZE": "Taille",
+        "PARAMETERS_TAGS": "Tags (mots-clés)",
+        "PARAMETERS_FLOOR_MATERIEL": "Changer la texture du sol",
+        "UPDATE": "Mettre à jour",
+        "UPDATE_SUCCESS": "La pièce a été mise à jour avec succès."
+    },
+    "STEPPER": {
+        "NEXT": "Suivant",
+        "PREVIOUS": "Précédent",
+        "SKIP": "Passer",
+        "FINISH": "Terminer"
+    },
+    "TAGS": {
+        "ADD": "Ajouter",
+        "DELETE": "Supprimer",
+        "COLOR_TAG": "Colorier le tag"
+    },
+    "TEXT_PANEL": {
+        "WRITE_TEXT": "Ecrivez votre texte ici",
+        "UPDATE": "Mettre à jour",
+        "DELETE": "Supprimer",
+        "ADD": "Ajouter",
+        "PARAMETERS": {
+            "BOLD": "Gras",
+            "UNDERLINE": "Souligné",
+            "ITALIC": "Italique",
+            "ALIGN_LEFT": "Aligner à gauche",
+            "ALIGN_CENTER": "Aligner au centre",
+            "ALIGN_RIGHT": "Aligner à droite",
+            "BACKGROUND_COLOR": "Couleur de fond",
+            "FONT_COLOR": "Couleur de la police",
+            "FONT_SIZE": "Taille de la police",
+            "FONT_FAMILY": "Famille de la police"
+        },
+        "MESSAGES": {
+            "UPDATE_SUCCESS": "Votre texte a été mis à jour avec succès.",
+            "DELETE_SUCCESS": "Votre texte a été supprimé avec succès.",
+            "ADD_SUCCESS": "Votre texte a été ajouté avec succès.",
+            "NOT_VALID": "Veuillez remplir tous les paramètres avant d'ajouter votre texte."
+        },
+        "COLORS": {
+            "transparant": "transparent",
+            "black": "noir",
+            "white": "blanc",
+            "red": "rouge",
+            "green": "vert",
+            "blue": "bleu",
+            "yellow": "jaune",
+            "orange": "orange",
+            "purple": "violet",
+            "brown": "marron"
+        }
+    },
+    "IMAGE_PANEL": {
+        "SELECT_IMAGE": "Sélectionnez votre image",
+        "UPDATE": "Mettre à jour",
+        "DELETE": "Supprimer",
+        "ADD": "Ajouter",
+        "MESSAGES": {
+            "UPDATE_SUCCESS": "Votre image a été mise à jour avec succès.",
+            "DELETE_SUCCESS": "Votre image a été supprimée avec succès.",
+            "ADD_SUCCESS": "Votre image a été ajoutée avec succès.",
+            "NOT_VALID": "Veuillez remplir tous les paramètres avant d'ajouter votre image."
+        },
+        "PARAMETERS": {
+            "SIZE": "Taille",
+            "POSITION": "Position"
+        }
+    },
+    "LOGO_PANEL": {
+        "LOGO_TYPES": "Types de logo",
+        "SEARCH": "Rechercher",
+        "AFFINATE_SEARCH": "Veuillez affiner votre recherche",
+        "SEARCH_DEFAULT": "Veuillez sélectionner une catégorie ou rechercher un logo",
+        "ADD_LOGO": "Ajouter un logo",
+        "CATEGORIES": {
+            "Wall Shell and Structure Symbols": "Symboles de coquille et de structure de paroi",
+            "Doors and Windows Symbols": "Symboles de portes et fenêtres",
+            "Applicance Symbols": "Symboles d'applicance",
+            "Athletic Ground Symbols": "Symboles de terrain d'athlétisme",
+            "Bathroom Symbols": "Symboles de salle de bains",
+            "Bedroom Symbols": "Symboles de chambre à coucher",
+            "Building Core Symbols": "Symboles du noyau de construction",
+            "Cabinet and Bookcases Symbols": "Symboles de cabinet et de bibliothèques",
+            "Carpet Symbols": "Symboles de tapis",
+            "Dimensioning Symbols": "Symboles de dimensionnement",
+            "Fire and Emergency Symbols": "Symboles de feu et d'urgence",
+            "Garden Symbols": "Symboles de jardin",
+            "HVAC Symbols": "Symboles HVAC",
+            "Kitchen and Dinning Room Symbols": "Symboles de cuisine et de salle à manger",
+            "Office Symbols": "Symboles de bureau",
+            "Plumbing and Piping Symbols": "Symboles d'installation sanitaire et de tuyauterie",
+            "Reflected Ceiling Plan Symbols": "Symboles de plan de plafond réfléchi",
+            "Seating Chart Symbols": "Symboles de plan de siège",
+            "Security Plan Symbols": "Symboles de plan de sécurité",
+            "Elevation Symbols": "Symboles d'élévation"
+        }
+    },
+    "KB_SHORTCUTS": {
+        "TOGGLE_2D_VIEW": "Basculer sur la vue 2D",
+        "TOGGLE_3D_VIEW": "Basculer sur la vue 3D",
+        "TOGGLE_3D_VIEW_ORTHO": "Basculer sur la vue 3D (Orthographique)"
+    },
+    "OBJECTS_LISTS": {
+        "HEADER": "Entités",
+        "TEXTS": "Textes",
+        "IMAGES": "Images",
+        "ROOMS": "Pièces",
+        "OBJECTS": "Objets 3D"
+    },
+    "ROOM_TYPE": {
+        "LIVING": "Salon",
+        "KITCHEN": "Cuisine",
+        "DINING_ROOM": "Salle à manger",
+        "BATHROOM": "Salle de bain",
+        "LIVING_ROOM": "Salon",
+        "TOILET": "Toilette",
+        "OFFICE": "Bureau",
+        "MEETING_ROOM": "Salle de réunion",
+        "HALLWAY": "Couloir",
+        "UTILITY": "Buanderie",
+        "TERRACE": "Terrasse",
+        "OTHER": "Autre"
+    },
+    "ROOM_TYPE_WARNING": {
+        "TOILET": "Une salle de bain ne doit pas excéder 150m² pour un résultat optimal.",
+        "KITCHEN": "Une cuisine ne doit pas excéder 200m² pour un résultat optimal.",
+        "BATHROOM": "Une salle de bain ne doit pas excéder 150m² pour un résultat optimal."
+    },
+    "STATUS_ALGORITHM": {
+        "REMAINING_WORKERS": "L'algorithme a placé {1} employé(s) sur un total de {2} employé(s)."
+    }
+}
